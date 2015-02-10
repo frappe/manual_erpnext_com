@@ -1,0 +1,16 @@
+item-master
+warehouse
+item-group
+serialized-inventory
+batchwise-inventory
+purchase-receipt
+delivery-note
+stock-entry
+material-issue
+sales-return
+purchase-return
+projected-quantity
+accounting-of-inventory-stock
+item-valuation-fifo-and-moving-average
+opening-stock
+landed-cost

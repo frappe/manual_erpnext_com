@@ -1,0 +1,8 @@
+employee-master
+leave
+attendance
+salary-and-payroll
+expense-claim
+appraisal
+holiday-list
+human-resource-setup

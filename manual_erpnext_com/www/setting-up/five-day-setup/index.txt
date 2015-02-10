@@ -1,0 +1,5 @@
+day-1-setup-customer-item-and-supplier
+day-2-setup-chart-of-accounts-opening-accounts-and-hr
+day-3-sales-cycle-and-purchase-cycle
+day-4-manufacturing-cycle-and-accounting-reports
+day-5-projects-calendar-and-website

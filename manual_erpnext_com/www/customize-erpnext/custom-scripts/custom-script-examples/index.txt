@@ -1,0 +1,7 @@
+custom-script-fetch-values-from-master
+date-validation
+generate-item-code-based-on-custom-logic
+make-read-only-after-saving
+restrict-cancel-rights
+restrict-purpose-of-stock-entry
+restrict-user-based-on-child-record

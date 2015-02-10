@@ -1,0 +1,30 @@
+body {
+    font: 18px "freight-text-pro", serif;
+	letter-spacing: 0.01rem;
+	line-height: 1.5em;
+	font-weight: 400;
+    color: @text-color;
+	-moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	font-feature-settings: "liga";
+	-moz-font-feature-settings: "liga";
+}
+
+.page-sidebar, .breadcrumb {
+	line-height: 1.5em;
+}
+
+.breadcrumb {
+	margin-bottom: 30px;
+}
+
+h1, h2, h3, h4, h5, h5, .brand, .lead, .page-sidebar, .breadcrumb {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+footer {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+}

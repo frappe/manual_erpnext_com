@@ -1,0 +1,8 @@
+step-1-profile-details
+step-2-company-details
+step-3-currency-and-timezone
+step-4-letterhead-and-logo
+step-5-tax-details
+step-6-customer-names
+step-7-suppliers
+step-8-item
