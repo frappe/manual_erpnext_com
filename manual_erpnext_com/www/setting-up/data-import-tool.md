@@ -4,7 +4,7 @@ master data, into the system.
 To Open the data import tool, you either go to Setup or go to the Transaction
 you want to Import. If Data Import is allowed, you will see an Import Button:
 
-![Start Import](assets/erpnext_org/images/erpnext/import-1.png)
+<img alt="Start Import" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import-1.png">
 
 The tool has two sections, one to download a template and the second to upload
 the data.
@@ -20,12 +20,7 @@ with it too. The child tables are linked to the parent tables and are
 implemented where there are multiple values for any property. For example an
 Item can have multiple prices, An Invoice has multiple Items and so on.
 
-You can import each table separately, or all at a time. In the child table,
-you must mention the parent of the row in the “parent” column so that ERPNext
-knows which Item’s price or tax you are trying to set if you are importing
-separately.
-
-![Download The Template](assets/erpnext_org/images/erpnext/import-2.png)
+<img alt="Download Template" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import-2.png">
 
   * Click on the table you want to download or "All Tables"
   * For bulk editing, you can click on "Download With Data"
@@ -47,31 +42,27 @@ file.
 Finally attach the .csv file in the section. Click on the "Upload and Import"
 button.
 
-![Attach and Upload](assets/erpnext_org/images/erpnext/import-5.png)
+<img alt="Upload" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import-3.png">
 
-Notes:
+#### Notes:
 
-  * Make sure that if your application allows, use encoding as UTF-8. 
-  * Keep the ID column blank for new records.
-  * Make sure you keep the modified column as it is for "All Tables".
-  * "Parent" column is mandatory for child type tables.
+1. Make sure that if your application allows, use encoding as UTF-8.
+1. Keep the ID column blank for new records.
 
 ### 4\. Uploading All Tables (Main + Child)
 
 If you select all tables, you will get columns belonging to all the tables in
-one row separated by `-` columns.
+one row separated by `~` columns.
 
 If you have multiple child rows then you must start a new main item on a new
 row. See the example:
 
-    
-    
-    Main Table                          -   Child Table
-    Column 1    Column 2    Column 3    -   Column 1    Column 2    Column 3
+
+    Main Table                          ~   Child Table
+    Column 1    Column 2    Column 3    ~   Column 1    Column 2    Column 3
     v11         v12         v13             c11         c12         c13
                                             c14         c15         c17
     v21         v22         v23             c21         c22         c23
-    
 
 > To see how its done, enter a few records manually using forms and export
 "All Tables" with "Download with Data"
@@ -79,7 +70,7 @@ row. See the example:
 ### 5\. Overwriting
 
 ERPNext also allows you to overwrite all / certain columns. If you want to
-update certain columns, you can download the template with data.Remember to
+update certain columns, you can download the template with data. Remember to
 check on the “Overwrite” box before uploading.
 
 > Note: For child records, if you select Overwrite, it will delete all the

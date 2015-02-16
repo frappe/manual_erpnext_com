@@ -2,7 +2,7 @@ Before you start managing your Operations in EPRNext, you must first become
 familiar with the system and the terms used. For this we recommend
 implementation should happen in two phases.
 
-  * A Test Phase, where you enter dummy records representing your day to day transactions and a - Live Phase, where we start entering live data.
+  * A **Test Phase**, where you enter dummy records representing your day to day transactions and a **Live Phase**, where we start entering live data.
 
 ### Test Phase
 

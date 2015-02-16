@@ -1,4 +1,9 @@
-![Implementation](assets/erpnext_org/images/erpnext/implementation-image.png)
+<!-- no-heading -->
+
+<div class="article-hero">
+    <img class="cover" src="assets/erpnext_org/images/erpnext/implementation-image.png">
+    <h1 class="white">The Champion</h1>
+</div>
 
 We have seen dozens of ERP implementations over the past few years and we
 realize that successful implementation is a lot about intangibles and

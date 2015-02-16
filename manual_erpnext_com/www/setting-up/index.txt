@@ -1,8 +1,5 @@
 setup-wizard
-five-day-setup
-company-setup
 data-import-tool
-stock-reconciliation-for-non-serialized-item
 setting-up-taxes
 document-naming-series
 adding-users
@@ -23,3 +20,4 @@ workflows
 bar-code
 email-alerts
 email-digest
+company-setup
