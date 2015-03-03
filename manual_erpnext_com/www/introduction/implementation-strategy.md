@@ -14,7 +14,7 @@ implementation should happen in two phases.
   * Complete a standard purchase cycle - Material Request > Purchase Order > Purchase Receipt > Payment (Journal Voucher).
   * Complete a manufacturing cycle (if applicable) - BOM > Production Planning Tool > Production Order > Material Issue > Sales Return
 
-> Tip: Use the 30-day free trial at [frappecloud.com](https://frappecloud.com) to take
+> Tip: Use the 30-day free trial at [erpnext.com](https://erpnext.com) to take
 your test drive.
 
 ### Live Phase

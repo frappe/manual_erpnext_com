@@ -53,7 +53,7 @@ automatically be set from that series.
 ### Using Serial Numbers for Multiple Purposes  
 
 Serial Nos are a useful tool for tracking different kinds of Items, by using
-it along with Custom Fields. For example, in our internal system at Web Notes,
+it along with Custom Fields. For example, in our internal system at Frappe,
 each ERP account is a Serial No, with type of user “Plan” as the Item, its
 expiry date, whether it is Trial or Paid and other details as Custom Fields.
 

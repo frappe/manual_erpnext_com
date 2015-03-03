@@ -5,18 +5,18 @@ There are many ways to get started with ERPNext.
 If you want to check out the user interface and **feel** the application, just
 see the demo at:
 
-  * <https://demo.frappecloud.com>
+  * <https://demo.erpnext.com>
 
-### 2\. Get a Free 30 day Trial at FrappeCloud.com
+### 2\. Get a Free 30 day Trial at erpnext.com
 
 If you like the feel and want to set it up for your own company, you can take
-a 30 day free trial (no credit card details required) at FrappeCloud.com
+a 30 day free trial (no credit card details required) at erpnext.com
 
-FrappeCloud.com is managed by the organization (Web Notes) that publishes ERPNext.
+erpnext.com is managed by the organization (Frappe) that publishes ERPNext.
 You can do a trial run with your own account by [signing up on the
-website](https://frappecloud.com).
+website](https://erpnext.com).
 
-You can also decide to host your application at FrappeCloud.com by buying the
+You can also decide to host your application at erpnext.com by buying the
 hosting plans. This way you support the organization that develops and
 improves ERPNext. You also get one-to-one functional (usage) support with the
 hosting plans.

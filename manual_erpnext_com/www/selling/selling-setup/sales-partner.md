@@ -27,7 +27,7 @@ Website" box. When click on "Show in Website", you will see field where you can 
 
 To see listing of partner, you should go to:
 
-https://example.frappecloud.com/partners
+https://example.erpnext.com/partners
 
 ![Sales Partner Listing](assets/erpnext_org/images/erpnext/sales-partner-listing.png)
 
