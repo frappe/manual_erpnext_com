@@ -10,11 +10,22 @@ app_color = "blue"
 app_email = "info@frappe.io"
 app_version = "0.0.1"
 
+website_route_rules = [
+	{"from_route": "/search", "to_route": "Web Page"}
+]
+
 website_context = {
-	"nav_brand": "The ERPNext Manual",
-	"nav_links": [
-		("Knowledge Base", "https://kb.erpnext.com")
-	]
+	"brand_html": "The ERPNext Manual",
+	"top_bar_items": [
+		{"label": "About", "url": "/about", "right": 1},
+		{"label": "Knowledge Base", "url": "https://kb.erpnext.com", "right": 1, "_target": "blank"},
+		{"label": "Contents", "url": "/contents", "right": 1},
+	],
+	"hide_login": 1,
+	"include_search": 1,
+	"page_titles": {
+		"kb": "ERPNext Manual"
+	}
 }
 
 
