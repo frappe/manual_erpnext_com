@@ -29,8 +29,6 @@ everyone is on the same page. An ERP changes that.
 ERPNext helps you to manage all your business information in one application
 and use it to manage operations and take decisions based on data.
 
-![ERPNext-Introduction](assets/erpnext_org/images/erpnext/erpnext-introduction.png)
-
 Among other things, ERPNext will help you to:
 
   * Track all Invoices and Payments.
@@ -46,3 +44,5 @@ Among other things, ERPNext will help you to:
 And a lot lot lot more.
 
 * * *
+
+{index}

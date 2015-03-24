@@ -1,8 +1,8 @@
-# Step 1: Profile Details
+# Step 2: Profile Details
 
 Enter Users Profile Details like Name, User ID and preferred password.
 
-![Profile Details](/assets/erpnext_org/images/setup-wizard/setup-wizard-1.png)
+![Profile Details](/assets/manual_erpnext_com/img/setup-wizard/step-2.png)
 
 ---
 

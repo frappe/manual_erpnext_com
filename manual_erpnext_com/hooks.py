@@ -17,14 +17,17 @@ website_route_rules = [
 website_context = {
 	"brand_html": "The ERPNext Manual",
 	"top_bar_items": [
-		{"label": "About", "url": "/about", "right": 1},
-		{"label": "Knowledge Base", "url": "https://kb.erpnext.com", "right": 1, "_target": "blank"},
 		{"label": "Contents", "url": "/contents", "right": 1},
+		{"label": "Knowledge Base", "url": "https://kb.erpnext.com", "right": 1, "_target": "blank"},
+		{"label": "About", "url": "/about", "right": 1},
 	],
 	"hide_login": 1,
 	"include_search": 1,
 	"page_titles": {
 		"kb": "ERPNext Manual"
+	},
+	"js_globals": {
+		"search_path": "/search"
 	}
 }
 

@@ -7,13 +7,11 @@ see the demo at:
 
   * <https://demo.erpnext.com>
 
-### 2\. Get a Free 30 day Trial at erpnext.com
+### 2\. Start a Free Account at ERPNext.com, first 5 users are on us.
 
-If you like the feel and want to set it up for your own company, you can take
-a 30 day free trial (no credit card details required) at erpnext.com
 
-erpnext.com is managed by the organization (Frappe) that publishes ERPNext.
-You can do a trial run with your own account by [signing up on the
+ERPNext.com is managed by the organization (Frappe) that publishes ERPNext.
+You can start with your own account by [signing up on the
 website](https://erpnext.com).
 
 You can also decide to host your application at erpnext.com by buying the
@@ -28,9 +26,10 @@ Virtual Image (a full loaded operating system with ERPNext installed). You can
 use this on **any** platform including Microsoft Windows.
 
 [Click here to see instructions on how to use the Virtual
-Image](https://github.com/frappe/frappe-bench/blob/master/Readme.md)
+Image](https://erpnext.com/download)
 
 ### 4\. Install ERPNext on your Unix/Linux/Mac machine
 
 If you are familiar to installing applications on *nix platforms, read the instructions on how to install using [Frappe Bench](https://github.com/frappe/frappe-bench).
 
+{next}

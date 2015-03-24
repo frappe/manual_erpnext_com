@@ -1,9 +1,8 @@
 <!-- no-heading -->
 
-<div class="article-hero">
-    <img class="cover" src="assets/erpnext_org/images/erpnext/implementation-image.png">
-    <h1 class="white">The Champion</h1>
-</div>
+<h1 class="white">The Champion</h1>
+
+<img class="cover" src="assets/erpnext_org/images/erpnext/implementation-image.png">
 
 We have seen dozens of ERP implementations over the past few years and we
 realize that successful implementation is a lot about intangibles and
@@ -44,3 +43,4 @@ Most likely it's **you!**
 
 Lets Begin!
 
+{next}

@@ -16,3 +16,4 @@ traditional accounting as well as ERP applications.
   * **Easier to use:** Modern web like user interface will keep your users happy and in familiar territory.
   * **Open Source :** This software is always free and you can host it anywhere you like.
 
+{next}

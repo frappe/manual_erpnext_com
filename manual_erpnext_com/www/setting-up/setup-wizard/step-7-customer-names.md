@@ -1,8 +1,8 @@
-# Step 6: Customer Names
+# Step 7: Customers
 
 Enter your Customer names and the contact person from that organisation.
 
-![Customer Names](/assets/erpnext_org/images/setup-wizard/setup-wizard-6.png)
+![Customer Names](/assets/manual_erpnext_com/img/setup-wizard/step-7.png)
 
 ---
 
