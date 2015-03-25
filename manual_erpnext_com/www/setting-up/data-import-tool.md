@@ -4,7 +4,7 @@ master data, into the system.
 To Open the data import tool, you either go to Setup or go to the Transaction
 you want to Import. If Data Import is allowed, you will see an Import Button:
 
-<img alt="Start Import" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import-1.png">
+<img alt="Start Import" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import/data-import-1.png">
 
 The tool has two sections, one to download a template and the second to upload
 the data.
@@ -20,7 +20,7 @@ with it too. The child tables are linked to the parent tables and are
 implemented where there are multiple values for any property. For example an
 Item can have multiple prices, An Invoice has multiple Items and so on.
 
-<img alt="Download Template" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import-2.png">
+<img alt="Download Template" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import/data-import-2.png">
 
   * Click on the table you want to download or "All Tables"
   * For bulk editing, you can click on "Download With Data"
@@ -42,7 +42,7 @@ file.
 Finally attach the .csv file in the section. Click on the "Upload and Import"
 button.
 
-<img alt="Upload" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import-3.png">
+<img alt="Upload" class="screenshot" src="assets/manual_erpnext_com/img/setup/data-import/data-import-3.png">
 
 #### Notes:
 

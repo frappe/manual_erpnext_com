@@ -35,35 +35,35 @@ User 'aromn@example.com' has Sales User role and we want to limit the user to ac
 		<figcaption>Access is limited to Company 'Wind Power LLC'.</figcaption>
 	</figure>
 
-  1. We want this User Permission on Company to get applied on other documents like Quotation, Sales Order, etc. 
+  1. We want this User Permission on Company to get applied on other documents like Quotation, Sales Order, etc.
 These forms have a **Link Field based on Company**. As a result, User Permissions on Company also get applied on these documents, which leads to User 'aromn@example.com' to acces these documents having Company 'Wind Power LLC'.
 	<figure>
 		<img src="/assets/erpnext_org/images/erpnext/user-permissions-quotation-sales-user.png"
 			class="img-responsive" alt="Sales User Role Permissions for Quotation">
 		<figcaption>Users with Sales User Role can Read, Write, Create, Submit and Cancel Quotations based on their User Permissions, since 'Apply User Permissions' is checked.</figcaption>
-	</figure>   
+	</figure>
 	<figure>
 		<img src="/assets/erpnext_org/images/erpnext/user-permissions-quotation-list.png"
 			class="img-responsive" alt="Quotation List limited to results for Company 'Wind Power LLC'">
 		<figcaption>Quotation List is limited to results for Company 'Wind Power LLC' for User 'aromn@example.com'.</figcaption>
 	</figure>
-	
+
   1. User Permissions get applied automatically based on Link Fields, just like how it worked for Quotation. But, Lead Form has 4 Link fields: Territory, Company, Lead Owner and Next Contact By. Say, you want Leads to limit access to Users based only on Territory, even though you have defined User Permissions for DocTypes User, Territory and Company. You can do this by setting 'Ignore User Permissions' for Link fields: Company, Lead Owner and Next Contact By.
 	<figure>
 		<img src="/assets/erpnext_org/images/erpnext/user-permissions-lead-role-permissions.png"
 			class="img-responsive" alt="Role Permissions on Lead for Sales User Role">
 		<figcaption>Sales User can Read, Write and Create Leads limited by User Permissions.</figcaption>
-	</figure>   
+	</figure>
 	<figure>
 		<img src="/assets/erpnext_org/images/erpnext/user-permissions-ignore-user-permissions.png"
 			class="img-responsive" alt="Set Ingore User Permissions from Setup > Customize > Customize Form">
 		<figcaption>Check 'Ingore User Permissions' for Company, Lead Owner and Next Contact By fields using Setup > Customize > Customize Form for Lead.</figcaption>
-	</figure>   
+	</figure>
 	<figure>
 		<img src="/assets/erpnext_org/images/erpnext/user-permissions-lead-based-on-territory.png"
 			class="img-responsive" alt="Lead List is limited to records with Territory 'United States'">
 		<figcaption>Due to the effect of the above combination, User 'aromn@example.com' can only access Leads with Territory 'United States'.</figcaption>
 	</figure>
-  
 
+{next}
 
