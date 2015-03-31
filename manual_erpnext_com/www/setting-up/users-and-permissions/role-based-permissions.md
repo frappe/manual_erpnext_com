@@ -1,8 +1,6 @@
 # Role Based Permissions
 
-<p class="lead">ERPNext has a role-based permission system.</p>
-
-It means that you can assign Roles to Users, and set Permissions on Roles. The permission structure also allows you to define different permission rules for different fields, using a concept called **Permission "Level"** of a field. Once roles are assigned to a user, it gives you the ability to limit access for a user to only specic documents.
+ERPNext has a role-based permission system. It means that you can assign Roles to Users, and set Permissions on Roles. The permission structure also allows you to define different permission rules for different fields, using a concept called **Permission "Level"** of a field. Once roles are assigned to a user, it gives you the ability to limit access for a user to only specic documents.
 
 To start with, go to:
 > Setup > Users and Permissions > Role Permissions Manager

@@ -1,3 +1,5 @@
+# Adding Users
+
 Users can be added by the System Manager. If you are a System Manager, you can add Users via
 
 > Setup > User

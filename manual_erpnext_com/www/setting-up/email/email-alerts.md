@@ -5,6 +5,7 @@ You can configure various email alerts in your system to remind you of important
 1. Completion date of a Task.
 1. Expected Delivery Date of a Sales Order.
 1. Expected Payment Date.
+1. Reminder of followup.
 1. If an Order greater than a particular value is received or sent.
 1. Expiry notification for a Contract
 1. Completion / Status change of a Task
@@ -22,16 +23,19 @@ To setup an Email Alert:
 	1. New: When a new document of the selected type is made.
 	2. Save / Submit / Cancel: When a document of the selected type is saved, submitted, cancelled.
 	3. Value Change: When a particular value in the selected type changes.
-	4. Date Change: When the date matches a particular field in the document (this will be called at midnight when the date changes). You can also set "Days in Advance" incase you want to be reminded of the event in advance.
+	4. Days Before / Days After: Trigger this alert a few days before or after the **Reference Date.** To set the days, set **Days Before or After**. This can be useful in reminding you of upcoming due dates or reminding you to follow up on certain leads of quotations.
 1. Set additional conditions if you want.
 1. Set the recipients of this alert. The recipient could either be a field of the document or a list of fixed email ids.
 1. Compose the message
 
-#### Defining the Criteria
+## Example
 
-![Defining Criteria](/assets/erpnext_org/images/erpnext/setup/email-alert-1.png)
+### Defining the Criteria
 
-#### Setting the Recipients and Message
+<img class="screenshot" alt="Defining Criteria" src="/assets/manual_erpnext_com/img/setup/email/email-alert-1.png">
 
-![Set Message](/assets/erpnext_org/images/erpnext/setup/email-alert-2.png)
+### Setting the Recipients and Message
 
+<img class="screenshot" alt="Set Message" src="/assets/manual_erpnext_com/img/setup/email/email-alert-2.png">
+
+{next}

@@ -3,3 +3,11 @@
 	max-width: 800px;
 	margin: auto;
 }
+
+.page-breadcrumbs {
+	display: block !important;
+}
+
+.page-breadcrumbs .breadcrumb {
+	font-size: inherit;
+}

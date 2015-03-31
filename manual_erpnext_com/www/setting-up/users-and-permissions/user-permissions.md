@@ -1,6 +1,6 @@
 # User Permissions
 
-<p class="lead">Limit access for a User to a set of documents using User Permissions Manager</p>
+Limit access for a User to a set of documents using User Permissions Manager
 
 Role Base Permissions define the periphery of document types within which a user with a set of Roles can move around in. However, you can have an even finer control by defining User Permissions for a User. By setting specific documents in User Permissions list, you can limit access for that User to specific documents of a particular DocType, on the condition that "Apply User Permissions" is checked in Role Permissions Manager.
 
