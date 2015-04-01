@@ -8,4 +8,6 @@ Implementation requires the implementer to take a step back and set aside some
 time to do this right. This is usually not a couple-of-hours, after-work kind
 of a project.
 
+### Topics
+
 {index}

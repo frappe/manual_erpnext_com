@@ -1,3 +1,7 @@
+# Naming Series
+
+### 1. Introduction
+
 Data records are broadly classified as “Master” or “Transaction”. A master
 record is a record that has a “name”, for example a Customer, Item, Supplier,
 Employee etc. A Transaction is a record that has a “number”. Examples of
@@ -19,11 +23,11 @@ could have:
 etc. You could also have a separate series for each type of Customer or for
 each of your retail outlets.
 
+### 2. Managing Naming Series for Documents
+
 To setup a series, go to:
 
 > Setup > Tools > Update Numbering Series
-
-![Document Naming Series](assets/erpnext_org/images/erpnext/naming-series.png)
 
 In this form,
 
@@ -31,8 +35,12 @@ In this form,
   2. Edit the series as required with unique prefixes for each series. Each prefix must be on a new line.
   3. The first prefix will be the default prefix. If you want the user to explicitly select a series instead of the default one, check the “User must always select” check box.
 
-![Document Numbering Series](assets/erpnext_org/images/erpnext/naming-series-1.png)
-
 You can also update the starting point of a series by entering the series
 name and the starting point in the “Update Series” section.
+
+### 3. Example
+
+See how to set the naming series
+
+<img class="screenshot" alt="Naming Series" src="/assets/manual_erpnext_com/img/setup/settings/naming-series.gif">
 
