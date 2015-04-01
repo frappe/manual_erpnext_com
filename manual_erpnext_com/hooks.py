@@ -27,7 +27,10 @@ website_context = {
 	},
 	"js_globals": {
 		"search_path": "/search"
-	}
+	},
+	"custom_footer": """<div class="text-center text-muted" style="padding: 30px 0px">
+		<a class="no-decoration" href="https://discuss.frappe.io" target="_blank">
+			Have questions or feedback? Ask at the forum</a></div>"""
 }
 
 

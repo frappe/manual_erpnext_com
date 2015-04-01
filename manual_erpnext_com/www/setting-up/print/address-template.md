@@ -23,3 +23,9 @@ Here is the default template:
 	{% if phone %}Phone: {{ phone }}<br>{% endif -%}
 	{% if fax %}Fax: {{ fax }}<br>{% endif -%}
 	{% if email_id %}Email: {{ email_id }}<br>{% endif -%}
+
+### Example
+
+<img class="screenshot" alt="Print Heading" src="/assets/manual_erpnext_com/img/setup/print/address-format.png">
+
+{next}

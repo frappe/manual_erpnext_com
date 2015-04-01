@@ -8,10 +8,10 @@ You can create print headings from :
 
 #### Figure 1: Save Print Heading
 
-![Print Heading](assets/erpnext_org/images/erpnext/print-heading1.png)
+<img class="screenshot" alt="Print Heading" src="/assets/manual_erpnext_com/img/setup/print/print-heading.png">
 
 Example of a change in print heading is shown below:
 
-#### Figure 2: Changed Print Heading
+<img class="screenshot" alt="Print Heading" src="/assets/manual_erpnext_com/img/setup/print/print-heading-1.png">
 
-![Print Heading](assets/erpnext_org/images/erpnext/print-heading2.png)
+{next}
