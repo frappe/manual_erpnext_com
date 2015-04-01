@@ -10,6 +10,6 @@ To check your finished good's stock balance go to Stock and click on Warehouse-W
 
 __Figure 1: Warehouse-Wise Stock Balance Report__
 
-![Stock Balance Report](/assets/erpnext_org/images/erpnext/m-t-s-warehouse-wise-balance.png)
+![Stock Balance Report](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-warehouse-wise-balance.png)
 
 You can go to module-specific 'Reports' section and choose to see any other report-type, depending upon your need for information. 

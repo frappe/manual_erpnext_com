@@ -16,7 +16,7 @@ An [Item](/stock/item-master) is your company's product or a service. The term I
 
 __Figure 1: Item__
 
-![Butterfly Print Item](/assets/erpnext_org/images/erpnext/m-t-s-item-butterfly-print.png)
+![Butterfly Print Item](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-item-butterfly-print.png)
 
 Warehouse is a mandatory field. The Item form will not be saved unless you enter a default Warehouse.
 
@@ -29,7 +29,7 @@ Warehouse is a mandatory field. The Item form will not be saved unless you enter
 
 __Figure 2: Raw materials__
 
-![Raw Material](/assets/erpnext_org/images/erpnext/m-t-s-jute-handle-rawmaterial.png)
+![Raw Material](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-jute-handle-rawmaterial.png)
 
 ### Customers and Contacts
 
@@ -43,7 +43,7 @@ A [Customer](/selling/customer-master) name is the name of the organisation and 
 
 __Figure 3: Distributor__
 
-![Customer Master](/assets/erpnext_org/images/erpnext/m-t-s-distributor.png)
+![Customer Master](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-distributor.png)
 
 Customers are separate from Contacts and Addresses. Customers can have multiple Contacts and Addresses.
 
@@ -56,7 +56,7 @@ Customers are separate from Contacts and Addresses. Customers can have multiple 
 Suppliers are separate from Contacts and Addresses. Suppliers can have multiple Contacts and Addresses.
 
 __Figure 4: Supplier__
-![Supplier Master](/assets/erpnext_org/images/erpnext/m-t-s-supplier.png)
+![Supplier Master](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-supplier.png)
 
 Before making the Price List , make the Bill of Materials based on your design document.
 

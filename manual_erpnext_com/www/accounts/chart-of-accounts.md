@@ -22,7 +22,7 @@ your Chart of Accounts.
 Financial statement of your company is easily viewable in ERPNext. An Example
 of a financial statement is given below:
 
-![Financial Analytics Balance Sheet](assets/erpnext_org/images/erpnext/financial-analytic-bs.png)
+![Financial Analytics Balance Sheet](assets/manual_erpnext_com/old_images/erpnext/financial-analytic-bs.png)
 
 To edit your Chart of Accounts in ERPNext go to:
 
@@ -37,7 +37,7 @@ based on statutory (tax, compliance to government regulations) requirements.
 
 Let us understand the main groups of the Chart of Accounts.
 
-![Chart of Accounts: Root Accounts](assets/erpnext_org/images/erpnext/chart-of-accounts.png)
+![Chart of Accounts: Root Accounts](assets/manual_erpnext_com/old_images/erpnext/chart-of-accounts.png)
 
 ### Balance Sheet Accounts
 
@@ -75,7 +75,7 @@ beginning and end of your Fiscal Year, they become zero.
 In ERPNext it is easy to create a Profit and Loss analysis chart. An example
 of a Profit and Loss analysis chart is given below:
 
-![Financial Analytics Profit and Loss](assets/erpnext_org/images/erpnext/financial-analytic-pl.png)
+![Financial Analytics Profit and Loss](assets/manual_erpnext_com/old_images/erpnext/financial-analytic-pl.png)
 
 (On the first day of the year you have not made any profit or loss, but you
 still have assets, hence balance sheet accounts never become zero at the
@@ -95,7 +95,7 @@ Supplier).
 
 > Note: An Account “Ledger” is also sometimes called as Account “Head”.
 
-![Chart of Accounts: Groups and Ledger](assets/erpnext_org/images/erpnext/chart-of-accounts-1.png)
+![Chart of Accounts: Groups and Ledger](assets/manual_erpnext_com/old_images/erpnext/chart-of-accounts-1.png)
 
 ### Other Account Types
 
@@ -113,7 +113,7 @@ To create new Accounts, explore your Chart of Accounts and click on an Account
 group under which you want to create the new Account. On the right side, you
 will see an option to “Open” or “Add Child” a new Account.
 
-![Chart of Accounts: New Account](assets/erpnext_org/images/erpnext/chart-of-accounts-2.png)
+![Chart of Accounts: New Account](assets/manual_erpnext_com/old_images/erpnext/chart-of-accounts-2.png)
 
 Option to create will only appear if you click on a Group (folder) type
 Account.

@@ -12,5 +12,5 @@ see how it looks to the recepient, you can use the test function. Save the
 document before testing. A test email will be sent to your email id. You can
 send the email to all the intended receipients by clicking on the send button.
 
-![Newsletter](assets/erpnext_org/images/erpnext/newsletter.png)
+![Newsletter](assets/manual_erpnext_com/old_images/erpnext/newsletter.png)
 

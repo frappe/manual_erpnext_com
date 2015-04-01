@@ -12,7 +12,7 @@ Payment done by the Customer before accepting delivery of the product is an Adva
 
 __Figure 1: Journal Voucher-Advance Payment Entry__
 
-![Advance Entry](/assets/erpnext_org/images/erpnext/e-t-o-advance.png)
+![Advance Entry](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-advance.png)
 
 Since the Customer has given 10000/- as cash advance, it will be recorded as a credit entry against the Customer. To balance it with the debit entry (Double Entry Accounting) enter 10000/- as debit against the Company’s cash account.
 
@@ -23,7 +23,7 @@ Double Entry Accounting or bookkeeping is a system of accounting in which every 
 
 __Figure 2: Double Entry Accounting__
 
-![Double Accounting Entry](/assets/erpnext_org/images/erpnext/e-t-o-jv-advance-childbed.png)
+![Double Accounting Entry](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-jv-advance-childbed.png)
 
 Save and submit the JV. If this document is not saved it will not be pulled in other accounting documents.
 
@@ -37,7 +37,7 @@ In this case, the Sales Order is made for an amount of Rs 100000/- Supreme Furni
 
 __Figure 3: Sales Invoice for Quarter of the total amount__
 
-![Sales Invoice](/assets/erpnext_org/images/erpnext/e-t-o-sales-invoice-childbed.png)
+![Sales Invoice](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-sales-invoice-childbed.png)
 
 To link the Sales Invoice to the Journal Voucher which mentions the advance Payment Entry, click on ‘Get Advances Received’.  Allocate the amount of  advance in the advances table. The accounting will be adjusted accordingly.
 
@@ -45,7 +45,7 @@ To link the Sales Invoice to the Journal Voucher which mentions the advance Paym
 
 __Figure 4: Advance pulled from JV__
 
-![Advance Pulled](/assets/erpnext_org/images/erpnext/e-t-o-advance-payment.png)
+![Advance Pulled](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-advance-payment.png)
 
 
 Save and submit the Sales Invoice. You can start making the Production Order and raise Material Requests for manufacturing this product via the Production Planning Tool.

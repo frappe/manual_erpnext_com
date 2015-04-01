@@ -10,7 +10,7 @@ This is the initial quote that is presented to the Customer, for approval of des
 
 __Figure 1: Quotation for Child Bed Baby__
 
-![Quotation](/assets/erpnext_org/images/erpnext/e-t-o-quotation-1-childbed.png)
+![Quotation](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-quotation-1-childbed.png)
 
 The first Quotation is given to the client, Jane D’souza. She visits a few more custom furniture makers and takes Quotations from them. She realises that there is a scope of margin to negotiate. So she comes back and asks for another Quotation. The showroom supervisor gives her a second quote. He says he can give her the same product, but instead of special plywood, he will use the standard plywood. He assures her that the local plywood maker is very reliable. He also assures her that most clients prefer this plywood since it brings down the total cost and is good in quality.
 
@@ -18,7 +18,7 @@ The sales engineer then revises the bill of materials and prepares a new Quotati
 
 __Figure 2: Amended Quotation__
 
-![Amended Quotation](/assets/erpnext_org/images/erpnext/e-t-o-quotation-amend-childbed.png)
+![Amended Quotation](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-quotation-amend-childbed.png)
 
 In order to print your Quotation as Proforma Invoice, go to print heading in the Quotation’s info section. Select Proforma Invoice as your new print heading and save. The printout will have a heading as Pro-forma Invoice.
 
@@ -33,13 +33,13 @@ Proforma invoices are not recorded as an accounts receivable by the seller nor a
 
 __Figure 3: Print Heading - Proforma Invoice__
 
-![Proforma Invoice](/assets/erpnext_org/images/erpnext/e-t-o-proforma-invoice-childbed.png)
+![Proforma Invoice](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-proforma-invoice-childbed.png)
 
 After creating the print heading, go to the Quotation and change the print heading name. Then, send it to the Customer.
 
 __Figure 4: Print Heading Name__
 
-![Change Print Heading](/assets/erpnext_org/images/erpnext/e-t-o-print-heading-childbed.png)
+![Change Print Heading](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-print-heading-childbed.png)
 
 The Customer, Jane, realises that if she wants a further decrease in price, the furniture maker will offer further non-branded raw material and decrease cost. She doesn't want to compromise on quality and thus agrees to the second quote. She confirms the order and pays them Rs. 10000/- as Advance. 
 

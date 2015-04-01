@@ -10,16 +10,16 @@ Following are the steps to assign document to another user.
 
 Assign to option is located at the footer of document. Clicking on Assignment Icon on the tool bar will fast-forward you to footer of same document.
 
-![Assigned To Icon](assets/erpnext_org/images/erpnext/assigned-to-icon.png)
+![Assigned To Icon](assets/manual_erpnext_com/old_images/erpnext/assigned-to-icon.png)
 
 
-![Assigned To](assets/erpnext_org/images/erpnext/assigned-to.png)
+![Assigned To](assets/manual_erpnext_com/old_images/erpnext/assigned-to.png)
 
 #### Step 2: Assign to User
 
 In the Assign To section, you will find option to select User to whom this document will be assigned to. You can assign one document to multiple people at a time.
 
-![Assign User](assets/erpnext_org/images/erpnext/assign-user.png)
+![Assign User](assets/manual_erpnext_com/old_images/erpnext/assign-user.png)
 
 With assignment, you can also leave a comment for the review of asignee.
 
@@ -27,12 +27,12 @@ With assignment, you can also leave a comment for the review of asignee.
 
 This transaction will appear in the To-do list of the ser in “Todo” section.
 
-![Assign Todo](assets/erpnext_org/images/erpnext/assign-todo.png)
+![Assign Todo](assets/manual_erpnext_com/old_images/erpnext/assign-todo.png)
 
 ####Removing Assignment
 
 User will be able to remove assignment by clicking on "Assignment Completed" button in the document.
 
-![Assign Remove](assets/erpnext_org/images/erpnext/assign-remove.png)
+![Assign Remove](assets/manual_erpnext_com/old_images/erpnext/assign-remove.png)
 
 Once assignment is set as completed, Status of its ToDo record will be set as Closed.

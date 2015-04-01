@@ -12,7 +12,7 @@ In this case-example, the [Customer](/selling/customer-master) is Ms. Jane Dsouz
 
 __Figure 1: Customer__
 
-![Customer](/assets/erpnext_org/images/erpnext/e-t-o-jane-dsouza.png)
+![Customer](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-jane-dsouza.png)
 
 After setting up the Customer name in the system, it is time to create an Item based on the requirement of the Customer. In this example, the Customer Ms. Jane Dsouza wants a baby bed with a wardrobe attached to it. Thus, create an  Item, and the possible raw materials that will go into its making.
 
@@ -24,7 +24,7 @@ An [Item](/stock/item-master) is your company's product or a service. The term I
 
 __Figure 2: Item__
 
-![Item](/assets/erpnext_org/images/erpnext/e-t-o-item-child-bed-baby.png)
+![Item](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-item-child-bed-baby.png)
 
 Make Items for all the raw materials that will go into the final product. Let us call the final product as Child Bed Baby. The raw materials required will be wood, plywood, fevicol, hinges, nails, beadings, slotted angles, foam, wooden panels, sponge, coir, paint etc. The raw materials will also be created as Items. However, their Item Group will be raw materials.
 
@@ -38,7 +38,7 @@ In this example, lets make Bbed-1 as one product milestone, Bwardrobe-1 as anoth
 
 __Figure 3: Item Code__
 
-![Item Code](/assets/erpnext_org/images/erpnext/e-t-o-item-codes.png)
+![Item Code](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-item-codes.png)
 
 
 
@@ -49,7 +49,7 @@ These raw-materials themselves have to be manufactured in some cases. Thus, alon
 
 __Figure 4: Sub assembly__
 
-![Sub assembly](/assets/erpnext_org/images/erpnext/e-t-o-sub-assembly.png)
+![Sub assembly](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-sub-assembly.png)
 
 Note that for milestone Items like Bwardrobe1, Bbed1 and Bdrawers1,
 
@@ -70,7 +70,7 @@ This is a mandatory field. No Item form will be saved without a Warehouse master
 
 __Figure 5: Warehouse__
 
-![Warehouse](/assets/erpnext_org/images/erpnext/e-t-o-warehouse-expense.png)
+![Warehouse](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-warehouse-expense.png)
 
 __Note :__ In reality you may not have three Warehouses. You may have only one, which you use for raw material, for manufacturing/stitching/producing and also for storing finished goods. In this case, you have to only imagine separate spaces for each activity, and name them accordingly. For system entry purpose, having three different Warehouses for stocking raw materials, manufacturing unfinished goods and storing finished goods is a necessity.
 
@@ -84,7 +84,7 @@ Suppliers are separate from Contacts and Addresses. Suppliers can have multiple 
 
 __Figure 6: Supplier__
 
-![Supplier Master](/assets/erpnext_org/images/erpnext/e-t-o-supplier-rk-hardware.png)
+![Supplier Master](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-supplier-rk-hardware.png)
 
 Make the Bill of Materials based on your design document and product requirements specified by the client.
 

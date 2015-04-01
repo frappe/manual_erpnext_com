@@ -10,27 +10,27 @@ To create a sales partner go to:
 
 Sales Partners are saved with Sales Partner name provided by user.
 
-![Sales Partner](assets/erpnext_org/images/erpnext/sales-partner-name.png)
+![Sales Partner](assets/manual_erpnext_com/old_images/erpnext/sales-partner-name.png)
 
 Track their address and contact details.
 
-![Sales Partner Address](assets/erpnext_org/images/erpnext/sales-partner-address.png)
+![Sales Partner Address](assets/manual_erpnext_com/old_images/erpnext/sales-partner-address.png)
 
 Target cannot be allocated for Sales Partner for each Item Group, based on Qty and Amount.
 
-![Sales Partner Target](assets/erpnext_org/images/erpnext/sales-partner-target.png)
+![Sales Partner Target](assets/manual_erpnext_com/old_images/erpnext/sales-partner-target.png)
 
 To include the name of your Partner on your website, check the "Show in
 Website" box. When click on "Show in Website", you will see field where you can attach logo of partner's company and enter brief and introduction of partner.
 
-![Sales Partner Website](assets/erpnext_org/images/erpnext/sales-partner-website.png)
+![Sales Partner Website](assets/manual_erpnext_com/old_images/erpnext/sales-partner-website.png)
 
 To see listing of partner, you should go to:
 
 https://example.erpnext.com/partners
 
-![Sales Partner Listing](assets/erpnext_org/images/erpnext/sales-partner-listing.png)
+![Sales Partner Listing](assets/manual_erpnext_com/old_images/erpnext/sales-partner-listing.png)
 
 Following is the complete partners details published on the website.
 
-![Sales Partner Published](assets/erpnext_org/images/erpnext/sales-partner-published.png)
+![Sales Partner Published](assets/manual_erpnext_com/old_images/erpnext/sales-partner-published.png)

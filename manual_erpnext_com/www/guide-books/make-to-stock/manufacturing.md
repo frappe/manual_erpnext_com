@@ -10,7 +10,7 @@ Production Order (also called as Work Order) is a document that is given to the 
 
 __Figure 1: Production Order__
 
-![Production Order](/assets/erpnext_org/images/erpnext/m-t-s-po-butterflyprint.png)
+![Production Order](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-po-butterflyprint.png)
 
 Save and submit the Production Order. An Action button will appear at the extreme right of the form. It will have a drop-down button. Click on Transfer Raw Materials to proceed further. 
 
@@ -20,7 +20,7 @@ Materials which are in stores need to be transferred to the work-in-progress War
 
 __Figure 2: Stock Entry with Warehouse Details.__
 
-![Transfer Material 2](/assets/erpnext_org/images/erpnext/m-t-s-transfer-material.png)
+![Transfer Material 2](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-transfer-material.png)
 
 Note that transferring the raw material is a Stock Entry. To be able to manufacture, you are required to transfer your raw-material from the stores to the work-in-progress Warehouse. The Stock Entry specifies the transfer of goods from one Warehouse to other. After the final product is manufactured in the work-in-progress it is necessary to transfer it to a Finished Goods Warehouse. This transaction, has to be shown in another Stock Entry.
 
@@ -37,7 +37,7 @@ Note that this Stock Entry will have its purpose as Manufacture/Repack. In this 
 
 __Figure 3: Update Finished Goods__
 
-![Update](/assets/erpnext_org/images/erpnext/m-t-s-update-fg.png)
+![Update](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-update-fg.png)
 
 Since this is a make-to-stock product, the billing will not happen immediately. Money will be recovered only when these products are sold at an exhibition or when a retailer buys them.
 

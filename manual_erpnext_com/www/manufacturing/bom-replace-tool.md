@@ -27,7 +27,7 @@ If we have more items to be added , or existing items to be edited in the BOM of
 
 To update new BOM updated in the BOM of finished item, where CPU is selected as raw-material, you can use BOM Replace tool.
 
-![BOM Replace Tool](assets/erpnext_org/images/erpnext/BOM-Replace-Tool.png)
+![BOM Replace Tool](assets/manual_erpnext_com/old_images/erpnext/BOM-Replace-Tool.png)
 
 In this tool, you should select Current BOM, and New BOM. On clicking Replace button, current BOM of CPU will be replaced with New BOM in the BOM of finished Item (Computer).
 

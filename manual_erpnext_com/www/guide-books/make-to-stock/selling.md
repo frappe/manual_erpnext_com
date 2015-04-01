@@ -16,7 +16,7 @@ Enter the amount that you will charge and the quantity of bags that are required
 
 __Figure 1: Make a Sales Order__
 
-![Sales Order](/assets/erpnext_org/images/erpnext/m-t-s-sales-order.png)
+![Sales Order](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-sales-order.png)
 
 
 ### Delivery Note
@@ -27,7 +27,7 @@ It is a document accompanying a shipment of goods that lists the description, an
 
 __Figure 2: Make Delivery Note__
 
-![Delivery Note 2](/assets/erpnext_org/images/erpnext/m-t-s-delivery-note.png)
+![Delivery Note 2](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-delivery-note.png)
 
 Save and submit the Delivery Note. After submitting, go to the right hand corner and click on Make Invoice.
 
@@ -39,7 +39,7 @@ A Sales Invoice is a bill that you send to your Customers, against which the cus
 
 __Figure 3: Make Invoice__
 
-![Make Invoice](/assets/erpnext_org/images/erpnext/m-t-s-sales-invoice.png)
+![Make Invoice](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-sales-invoice.png)
 
 Save and submit the invoice. After submitting, a pop-up window will appear and ask for the email id of the recipient of the Sales Invoice. Enter email Id and click on the ‘send’ button.
 
@@ -53,7 +53,7 @@ Click on the Action button and select ‘Make Payment Entry’ on the Invoice pa
 
 __Figure 4: Make Payment Entry__
 
-![Payment Entry](/assets/erpnext_org/images/erpnext/m-t-s-payment-entry.png)
+![Payment Entry](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-payment-entry.png)
 
 Save and submit the document. You can go to the Reports section and check your Warehouse-Wise Stock Balance Report.
 

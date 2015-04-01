@@ -6,5 +6,5 @@ Delivery Notes, Sales Invoices, Purchase Requests, Purchase Orders and
 Purchase Invoices. This way you can keep a track of all the activities that
 happen around this project.
 
-![projects](assets/erpnext_org/images/erpnext/projects.png)
+![projects](assets/manual_erpnext_com/old_images/erpnext/projects.png)
 

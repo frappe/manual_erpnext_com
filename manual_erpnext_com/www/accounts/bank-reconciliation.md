@@ -15,7 +15,7 @@ The Bank Reconciliation statement in ERPNext comes in the form of a report.
 
 #### Figure 1: Bank Reconciliation Statement
 
-![](assets/erpnext_org/images/erpnext/bank-reconciliation-2.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/bank-reconciliation-2.png)  
 
   
 
@@ -45,7 +45,7 @@ __Step 4:__ Click on the JV from the table and update clearance date.
 
 #### Figure 2: Bank Reconciliation Tool
 
-![](assets/erpnext_org/images/erpnext/bank-reconciliation-1.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/bank-reconciliation-1.png)  
 
   
 

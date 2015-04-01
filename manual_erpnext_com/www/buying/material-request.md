@@ -1,14 +1,14 @@
 A Material Request is a simple document identifying a requirement of a set of
 Items (products or services) for a particular reason.
 
-![Workflow](assets/erpnext_org/images/erpnext/material-request-workflow.jpg)
+![Workflow](assets/manual_erpnext_com/old_images/erpnext/material-request-workflow.jpg)
 
 To generate a Material Request manually go to:
 
 > Buying > Documents > Material Request > New Material Request
 
 #### Figure 1: Create Material Request 
-![Material Request](assets/erpnext_org/images/erpnext/material-request-1.png)
+![Material Request](assets/manual_erpnext_com/old_images/erpnext/material-request-1.png)
 
 A Material Request can be generated:
 
@@ -19,7 +19,7 @@ A Material Request can be generated:
 
 #### Figure 2: Complete Material Request Form
 
-![Material Request 2](assets/erpnext_org/images/erpnext/material-request-2.png)
+![Material Request 2](assets/manual_erpnext_com/old_images/erpnext/material-request-2.png)
 
 In the Material Request form,
 

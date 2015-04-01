@@ -16,7 +16,7 @@ Click on the ‘Make Purchase Order’ button, on the right side, upper corner o
 
 __Figure 1: Purchase Order__
 
-![Make Purchase Order](/assets/erpnext_org/images/erpnext/m-t-o-ppt-make-po-jps-1.png)
+![Make Purchase Order](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-ppt-make-po-jps-1.png)
 
 #### Step 2: Submit Purchase Order
 
@@ -24,7 +24,7 @@ This is an important step. You can bill a Purchase Order only when it is submitt
 
 __Figure 2: Submitted Purchase Order__ 
 
-![Submit PO](/assets/erpnext_org/images/erpnext/m-t-o-ppt-po-submit-jps-1.png)
+![Submit PO](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-ppt-po-submit-jps-1.png)
 
 
 ### Purchase Receipt
@@ -37,7 +37,7 @@ You can make a Purchase Receipt from the Purchase Order or directly from the Sto
 
 __Figure 3: Purchase Receipt__
 
-![Purchase Receipt](/assets/erpnext_org/images/erpnext/m-t-o-ppt-purchase-receipt-jps-1.png)
+![Purchase Receipt](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-ppt-purchase-receipt-jps-1.png)
 
 In this manner create Purchase Orders and Purchase Receipts for all the Material Requests created by the Production Planning Tool. Remember to save and submit all the forms. 
 

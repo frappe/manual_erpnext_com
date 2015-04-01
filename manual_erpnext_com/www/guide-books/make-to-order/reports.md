@@ -11,7 +11,7 @@ While reviewing stock balance of the raw material, note that the stocks which we
 
 __Figure 1: Stock Balance Report__
 
-![Stock Balance Report](/assets/erpnext_org/images/erpnext/stock-balance-report-jps-1.png)
+![Stock Balance Report](/assets/manual_erpnext_com/old_images/erpnext/stock-balance-report-jps-1.png)
 
 ### Gross Profit Report
 
@@ -21,7 +21,7 @@ A Gross Profit Report shows the profit that you have earned on a specific order.
 
 __Figure 2: Gross Profit Report__
 
-![Gross Profit Report](/assets/erpnext_org/images/erpnext/m-t-o-gross-profit-report-jps-1.png)
+![Gross Profit Report](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-gross-profit-report-jps-1.png)
 
 You can go to module-specific 'Reports' section and choose to see any other report-type, depending upon your need for information. With the Gross Profit Report, the case-example of a complete business-cycle is over.
 

@@ -4,7 +4,7 @@ The practise of stocking based on batch is mainly followed in the pharmaceutical
 
 To set item as a batch item, "Has Batch No" field should be updated as Yes in the Item master.
 
-![Batch Item](assets/erpnext_org/images/erpnext/batch-item.png)
+![Batch Item](assets/manual_erpnext_com/old_images/erpnext/batch-item.png)
 
 On every stock transaction (Purchase Receipt, Delivery Note, POS Invoice) made for batch item, you should provider item's Batch No. To create new Batch No. master for an item, go to:
 
@@ -18,23 +18,23 @@ Following are the steps to create Batch ID:
 
 Batch No will be defined based on value entered in Batch ID.
 
-![Batch ID](assets/erpnext_org/images/erpnext/batch-id.png)
+![Batch ID](assets/manual_erpnext_com/old_images/erpnext/batch-id.png)
 
 > Batch can have only one Item in it.
 
 **Step 2: Enter Description and Dates**
 
-![Batch Details](assets/erpnext_org/images/erpnext/batch-details.png)
+![Batch Details](assets/manual_erpnext_com/old_images/erpnext/batch-details.png)
 
 In stock transactions, Batch IDs will be filtered based on Item Code, Warehouse, Batch Expiry Date (compared with Posting date of a transaction) and Actual Qty in Warehouse. While searching for Batch ID  without value in Warehouse field, then Actual Qty filter won't be applied.
 
 **Batch No. in Purchase Receipt**
 
-![Batch Receipt](assets/erpnext_org/images/erpnext/batch-receipt.png)
+![Batch Receipt](assets/manual_erpnext_com/old_images/erpnext/batch-receipt.png)
 
 **Batch No. in Delivery Note**
 
-![Batch Delivery](assets/erpnext_org/images/erpnext/batch-delivery.png)
+![Batch Delivery](assets/manual_erpnext_com/old_images/erpnext/batch-delivery.png)
 
 Batchwise Stock Balance Report
 
@@ -42,4 +42,4 @@ To check batchwise stock balance report, go to:
 
 Stock >> Standard Reports >> Batch-wise Balance History
 
-![Batch Report](assets/erpnext_org/images/erpnext/batch-report.png)
+![Batch Report](assets/manual_erpnext_com/old_images/erpnext/batch-report.png)

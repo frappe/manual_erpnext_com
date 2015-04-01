@@ -14,14 +14,14 @@ __Materials Required:__ Mention the raw material list that is required to make t
 
 __Figure 1:  BOM Operations__
 
-![BOM Operations](/assets/erpnext_org/images/erpnext/m-t-o-bom-operations.png)
+![BOM Operations](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-bom-operations.png)
 
 > Note: Please specify the hour rates. This will help in calculating the actual expenses in producing this Item.
 
 
 __Figure 2: BOM Materials__
 
-![BOM Operations](/assets/erpnext_org/images/erpnext/m-t-o-bom-rawmaterials.png)
+![BOM Operations](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-bom-rawmaterials.png)
 
 __Note:__ You can enter the rates manually by adjusting as per the UOM. Since Tree Glue was purchased in Kg, calculate the rate for 10 gm and enter the rate accordingly. Do not forget to mention rates for every material.
 

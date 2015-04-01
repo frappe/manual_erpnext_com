@@ -22,7 +22,7 @@ Sales Order is an order issued by a business to a Customer.
 __Figure 1: Sales Order__
 
 
-![Get Sales Order](/assets/erpnext_org/images/erpnext/e-t-o-ppt-get-so-childbed.png)
+![Get Sales Order](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-ppt-get-so-childbed.png)
 
 
 #### Step 2: Get Items from Sales Order
@@ -31,7 +31,7 @@ Select Items by clicking on the ‘Get Items from Sales Order’ button. Check t
 
 __Figure 2: Pulled Items__
 
-![Production Planning Get Items](/assets/erpnext_org/images/erpnext/e-t-o-get-items-ppt-childbed.png)
+![Production Planning Get Items](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-get-items-ppt-childbed.png)
 
 #### Step 3: Create Production Order
 
@@ -39,7 +39,7 @@ Production Order is an order to produce a specific quantity of material within a
 
 __Figure 3: Production Order__
 
-![Production Order](/assets/erpnext_org/images/erpnext/e-t-o-ppt-create-po-childbed.png)
+![Production Order](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-ppt-create-po-childbed.png)
 
 #### Step 4: Create Material Request
 
@@ -47,7 +47,7 @@ Material Request is a request to order materials for the production of your Item
 
 __Figure 4: Material Request__
 
-![Material Request in PPT](/assets/erpnext_org/images/erpnext/e-t-o-material-requests-ppt-childbed.png)
+![Material Request in PPT](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-material-requests-ppt-childbed.png)
 
 This request is created by clicking on the box ‘Create Material Request’. Click on the highlighted Material Request number. The click will open into a Material Request form. 
 

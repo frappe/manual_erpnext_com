@@ -30,7 +30,7 @@ the row "Is Advance" click 'Yes'.
 
    
 
-![](assets/erpnext_org/images/erpnext/e-t-o-jv-advance.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/e-t-o-jv-advance.png)  
 
   
 
@@ -48,7 +48,7 @@ will be credited because it has given value.
 
   
 #### Figure 2: Transaction and Difference Entry
-![](assets/erpnext_org/images/erpnext/e-t-o-jv-credit-childbed.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/e-t-o-jv-credit-childbed.png)  
 
   
 
@@ -69,7 +69,7 @@ payment entry, click on ‘Get Advances Received’.  Allocate the amount of
 advance in the advances table. The accounting will be adjusted accordingly.
 
 #### Figure 3: Receive Advance 
-![](assets/erpnext_org/images/erpnext/e-t-o-salinv-get-advance-childbed.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/e-t-o-salinv-get-advance-childbed.png)  
 
   
 

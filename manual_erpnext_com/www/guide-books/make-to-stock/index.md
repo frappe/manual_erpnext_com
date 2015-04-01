@@ -8,7 +8,7 @@ Make-to-stock manufacturing is a system based on keeping Stocks ready for Custom
 
 For this study, a jute artefact company, Shades of Green, is used as a case-example.
 
-![Coverpage](/assets/erpnext_org/images/erpnext/butterfly-print.jpg)
+![Coverpage](/assets/manual_erpnext_com/old_images/erpnext/butterfly-print.jpg)
 
 
 Shades of Green is an eco-friendly company that manufactures and trades in  jute gift Items. It manufactures Items based on make-to-stock type of manufacturing.

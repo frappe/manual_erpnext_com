@@ -13,13 +13,13 @@ These steps will be mentioned in the BOM operations steps along with the materia
 
 __Figure 1: Create BOM Operations__
 
-![BOM Operatioins](/assets/erpnext_org/images/erpnext/m-t-s-bom-1.png)
+![BOM Operatioins](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-bom-1.png)
 
 > Note: Mention the hour-rate of the workers. This will help in actual costing of the product.
 
 __Figure 2: Create BOM Materials__
 
-![BOM Materials](/assets/erpnext_org/images/erpnext/m-t-s-bom-materials.png)
+![BOM Materials](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-bom-materials.png)
 
 Save and submit the BOM. Submitting the BOM is an important step. The pricing is fixed only after the BOM is submitted. After submitting, you can create a Price List and Item Price into the system.
 

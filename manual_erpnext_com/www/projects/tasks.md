@@ -6,5 +6,5 @@ If you define the start and end dates, it will add calendar events for the
 same and also show the task on the Gantt Chart that you can use for monitoring
 the Project.
 
-![Tasks](assets/erpnext_org/images/erpnext/tasks.png)
+![Tasks](assets/manual_erpnext_com/old_images/erpnext/tasks.png)
 

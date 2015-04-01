@@ -12,7 +12,7 @@ A submitted Production Order has an Action button on the right hand corner which
 
 __Figure 1: Production Order Generated From PPT__
 
-![Production Order](/assets/erpnext_org/images/erpnext/m-t-o-production-order-ppt-jps-1.png)
+![Production Order](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-production-order-ppt-jps-1.png)
 
 After completion of the Production Order, transfer the raw materials from stores to the work-in-progress Warehouse.
 
@@ -26,7 +26,7 @@ On this form, mention the Source Warehouse and the Target Warehouse. The Source 
 
 __Figure 2: Transfer raw material__
 
-![Transfer raw material](/assets/erpnext_org/images/erpnext/m-t-o-stock-entry-1-jps.png)
+![Transfer raw material](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-stock-entry-1-jps.png)
 
 > Note: If you get an error while transferring raw materials, it may be due to inaccurate 'purpose' selection, while making a manual Stock Entry. To transfer materials, the 'purpose' should be 'Material Transfer' and to transfer materials to finished goods Warehouse, the 'purpose' should be 'Manufacture/Repack'.
 
@@ -44,7 +44,7 @@ This step performs the backflush by raising a Stock Entry for materials that hav
 
 __Figure 3: Update finished goods__
 
-![Update finished goods](/assets/erpnext_org/images/erpnext/m-t-o-update-finished-goods.png)
+![Update finished goods](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-update-finished-goods.png)
 
 > Note: (a) If you wish to get Stock and valuation rates at this stage, press on ‘Get Stock and Rate’. Valuation rate is the average rate divided by the actual price of an item. This is arrived at by the FIFO method - weighted average of the lot.
 (b) At this stage if you wish to change the BOM manufacturing quantity, you can do so by clicking on ‘Get Items’.

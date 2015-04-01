@@ -12,7 +12,7 @@ by:
 
 #### Figure 1: Create Production Order
 
-![Production Order](assets/erpnext_org/images/erpnext/production-order.png)
+![Production Order](assets/manual_erpnext_com/old_images/erpnext/production-order.png)
 
   * Select the Item to be produced (must have a Bill of Materials).
   * Select the BOM
@@ -26,7 +26,7 @@ Once you “Submit”, you will see two more buttons:
 
 #### Figure 2: Submit Production Order
 
-![Production Order](assets/erpnext_org/images/erpnext/production-order-2.png)
+![Production Order](assets/manual_erpnext_com/old_images/erpnext/production-order-2.png)
 
   1. Transfer Raw Material: This will create a Stock Entry with all the Items required to complete this Production Order to be added to the WIP Warehouse. (this will add sub-Items with BOM as one Item or explode their children based on your setting above). 
   2. Update Finished Goods: This will create a Stock Entry that will deduct all the sub-Items from the WIP Warehouse and add them to the Finished Goods Warehouse.

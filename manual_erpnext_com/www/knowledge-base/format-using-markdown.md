@@ -85,7 +85,7 @@ Images can be added by adding an exclamation ! before the link.
 
     
     
-    ![A flower](assets/erpnext_org/images/erpnext/flower.gif)
+    ![A flower](assets/manual_erpnext_com/old_images/erpnext/flower.gif)
     
 
 #### Code

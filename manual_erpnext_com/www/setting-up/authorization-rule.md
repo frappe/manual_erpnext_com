@@ -18,34 +18,34 @@ Open new Authorization Rule
 
 Select Company and Transaction on which Authorization Rule will be applicable. This functionality is available for limited transactions only.
 
-![Auth Transaction](assets/erpnext_org/images/erpnext/auth-transaction.png)
+![Auth Transaction](assets/manual_erpnext_com/old_images/erpnext/auth-transaction.png)
 
 **Step 3:**
 
 Select Based On. Authorization Rule will be applied based on value selected in this field.
 
-![Auth Based On](assets/erpnext_org/images/erpnext/auth-based-on.png)
+![Auth Based On](assets/manual_erpnext_com/old_images/erpnext/auth-based-on.png)
 
 **Step 4:**
 
 Select Role on whom this Authorization Rule will be applicable. As per the example considered, Sales User will be selected as Application To (Role). To be more specific you can also select Applicale To User, if you wish to apply to rule for specific Sales User, and not all Sales User. Its okay to not select Sales User, as its not mandatory.
 
-![Auth Applicable](assets/erpnext_org/images/erpnext/auth-applicable.png)
+![Auth Applicable](assets/manual_erpnext_com/old_images/erpnext/auth-applicable.png)
 
 **Step 5:**
 
 Select approvers Role. It will be Sales Manager role which if assigned to user, will be able to submit Sales Order above 10000. Also you can select specific Sales Manager, and then rule should be applicable for that User only. Selecting Approving User field is not mandatory.
 
-![Auth Approver](assets/erpnext_org/images/erpnext/auth-approver.png)
+![Auth Approver](assets/manual_erpnext_com/old_images/erpnext/auth-approver.png)
 
 **Step 6:**
 
 Set Above Value. Given the exmaple, Above Value will be set as 10000.
 
-![Auth Value](assets/erpnext_org/images/erpnext/auth-value.png)
+![Auth Value](assets/manual_erpnext_com/old_images/erpnext/auth-value.png)
 
 If Sales User tries submitting Sales Order of value higher than 10000, then he will get this validation message.
 
-![Auth Validation](assets/erpnext_org/images/erpnext/auth-validation.png)
+![Auth Validation](assets/manual_erpnext_com/old_images/erpnext/auth-validation.png)
 
 >If you wish to restrict Sales User from submitting Sales Orders, then instead of creating Authorization Rule, you should remove submit previledge from Role Permission Manager for Sales User.

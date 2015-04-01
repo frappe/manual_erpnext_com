@@ -13,7 +13,7 @@ from:
 
 Set default values as defined.
 
-![POS Setting](assets/erpnext_org/images/erpnext/pos-setting.png)
+![POS Setting](assets/manual_erpnext_com/old_images/erpnext/pos-setting.png)
 
 > Important : If you specify a particular User, the POS setting will be
 applied only to that User. If the User option is left blank, the setting will

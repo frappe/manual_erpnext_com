@@ -10,13 +10,13 @@ Since you can maintain different prices for different regions, lets create a Pri
 
 __Figure 1: Price List__
 
-![Price List](/assets/erpnext_org/images/erpnext/m-t-s-distributor-pricelist.png)
+![Price List](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-distributor-pricelist.png)
 
 After creating a Price List template, you can click on the Action button and select to 'Add Prices'. The displayed form has a button 'New'. Click on that button to get a field for Item Price.
 
 __Figure 2: Display Item price field__
 
-![Item Price](/assets/erpnext_org/images/erpnext/m-t-o-item-rate.png)
+![Item Price](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-item-rate.png)
 
 #### Step 2: Add Item price
 
@@ -24,7 +24,7 @@ Based on the hourly rates of the labourers and the cost of raw material availabl
 
 __Figure 3: Item Rate for Butterfly Print Bag__
 
-![Item Rate](/assets/erpnext_org/images/erpnext/m-t-s-distributor-item-price.png)
+![Item Rate](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-distributor-item-price.png)
 
 After creating a Price List and Item prices, it is time to perform planning and forecasting.
 

@@ -11,12 +11,12 @@ To go to Payment Tool, click on Accounts > Tools > Payment Tool.
 6. Click on Get Outstanding Vouchers to fetch all the valid Vouchers, Invoices and Orders against which a payment can be made/received. These will appear in the Against Voucher section.
 	* __Note:__ In case User is paying a customer or receiving payment from a supplier, add the details regarding the relevant invoices and orders manually.
 
-	![Payment Tool - Get Outstanding Vouchers](assets/erpnext_org/images/erpnext/payment_tool_get_voucher.png)
+	![Payment Tool - Get Outstanding Vouchers](assets/manual_erpnext_com/old_images/erpnext/payment_tool_get_voucher.png)
 
 7. Once details have been fetched, click on the detail entry and enter the payment amount made against that Invoice/Order/Voucher
 
-	![Payment Tool - Get Outstanding Vouchers](assets/erpnext_org/images/erpnext/payment_tool_enter_pay.png)
+	![Payment Tool - Get Outstanding Vouchers](assets/manual_erpnext_com/old_images/erpnext/payment_tool_enter_pay.png)
 
 8. Click on 'Make Journal Voucher' to generate a new Journal Voucher with the relevant Party Details and Credit/Debit details filled in.
 
-	![Payment Tool - Get Outstanding Vouchers](assets/erpnext_org/images/erpnext/payment_tool_make_jv.png)
+	![Payment Tool - Get Outstanding Vouchers](assets/manual_erpnext_com/old_images/erpnext/payment_tool_make_jv.png)

@@ -10,7 +10,7 @@ Let us create a Sales Order based on the customer requirement.
 
 __Figure 1: Sales Order For 50 Jute Pen Stand (JPS-1)__
 
-![Sales Order](/assets/erpnext_org/images/erpnext/m-t-o-sales-order-jps-1.png)
+![Sales Order](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-sales-order-jps-1.png)
 
 Save and submit the Sales Order. After creating the Sales Order the process to manufacture them begins. However, in order to manufacture, it is necessary that a Bill of Materials be made. This helps in production planning and making purchases as per requirements of the raw materials.
 

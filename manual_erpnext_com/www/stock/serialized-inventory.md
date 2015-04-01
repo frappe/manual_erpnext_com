@@ -24,7 +24,7 @@ set.
 To add a Serial No to a stock transaction, you can set the Serial No in the
 serial no field:
 
-![Serial No Entry](assets/erpnext_org/images/erpnext/serial-no-entry.png)
+![Serial No Entry](assets/manual_erpnext_com/old_images/erpnext/serial-no-entry.png)
 
 ### Creation
 
@@ -40,15 +40,15 @@ automatically be set from that series.
 
 #### Step 1: Mention the Series in the Item
 
-![Automatic Series](assets/erpnext_org/images/erpnext/item-serial-no-series.png)
+![Automatic Series](assets/manual_erpnext_com/old_images/erpnext/item-serial-no-series.png)
 
 #### Step 2: Keep Serial No field blank in your entry
 
 #### Step 3: Save / Submit your transaction (Serial Nos Automatically Updated)
 
-![Serial No Created Message](assets/erpnext_org/images/erpnext/serial-no-auto-1.png)
+![Serial No Created Message](assets/manual_erpnext_com/old_images/erpnext/serial-no-auto-1.png)
 
-![Serial No Updated in Transaction](assets/erpnext_org/images/erpnext/serial-no-auto-2.png)
+![Serial No Updated in Transaction](assets/manual_erpnext_com/old_images/erpnext/serial-no-auto-2.png)
 
 ### Using Serial Numbers for Multiple Purposes  
 

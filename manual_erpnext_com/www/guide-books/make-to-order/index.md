@@ -8,7 +8,7 @@ In a make to order system, the products are standard but are manufactured or pro
 
  For this study, a jute artefact company, Shades of Green, is used as a case-example.
 
-![Penstand](/assets/erpnext_org/images/erpnext/pen-stand.jpg)
+![Penstand](/assets/manual_erpnext_com/old_images/erpnext/pen-stand.jpg)
 
 Shades of Green is an eco-friendly company that manufactures and trades in  jute gift items. It manufactures items based on make-to-order type of manufacturing.
 

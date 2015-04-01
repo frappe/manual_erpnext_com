@@ -10,20 +10,20 @@ any other reason. ERPNext allows this transaction for ease of accounting.
 
   
 
-![Sales Return](assets/erpnext_org/images/erpnext/sales-return-1.png)
+![Sales Return](assets/manual_erpnext_com/old_images/erpnext/sales-return-1.png)
 
 #### Step 2: Enter the Delivery Note No, or Sales Invoice No.
 This will help in linking the document to either the Delivery  Note or to the Sales Invoice 
 
 #### Step 3: Enter Item Details
 
-![Sales Return](assets/erpnext_org/images/erpnext/sales-return-2.png)
+![Sales Return](assets/manual_erpnext_com/old_images/erpnext/sales-return-2.png)
 
   
 
 #### Step 4: Mention Contact Information of the Customer.
 
-![Sales Return](assets/erpnext_org/images/erpnext/sales-return-3.png)
+![Sales Return](assets/manual_erpnext_com/old_images/erpnext/sales-return-3.png)
 
   
 
@@ -39,5 +39,5 @@ Once the Stock Entry is submitted, you can click on Make Credit Note button
 and a new Journal Voucher will be created pre-filled with the customer's
 account and Items' income account.
 
-![Sales Return](assets/erpnext_org/images/erpnext/sales-return-4.png)
+![Sales Return](assets/manual_erpnext_com/old_images/erpnext/sales-return-4.png)
 

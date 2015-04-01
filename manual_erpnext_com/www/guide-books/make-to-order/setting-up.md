@@ -14,7 +14,7 @@ Since Jute Pen Stand is a sales Item, it is grouped as a 'Product’. The materi
 
 **Figure 1: Item**
 
-![Item](/assets/erpnext_org/images/erpnext/m-t-s-item.png)
+![Item](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-item.png)
 
 1. Click Yes on ‘Allow Bill of Materials’, 
 1. Click Yes on ‘Allow Production Order’ and 
@@ -33,7 +33,7 @@ Since Jute Pen Stand is a sales Item, it is grouped as a 'Product’. The materi
 
 **Figure 2: Item Jute-wire as raw material**
 
-![Jute Wire](/assets/erpnext_org/images/erpnext/m-t-o-jute-wire-rawmaterial.png)
+![Jute Wire](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-jute-wire-rawmaterial.png)
 
 Following is the list of raw materials that will go into making of a Jute Pen-Stand.
 
@@ -45,7 +45,7 @@ Make a Bill of Materials with the help of these raw materials.
 
 **Figure 3: Item List**
 
-![Item List](/assets/erpnext_org/images/erpnext/m-t-o-item-list.png)
+![Item List](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-item-list.png)
 
 
 
@@ -57,7 +57,7 @@ A Customer, who is sometimes known as a client, buyer, or purchaser is the one w
 
 A [Customer](/selling/customer-master) name is the name of the organisation and a Contact name is the name of the user who is coordinating.
 
-![Customer Master](/assets/erpnext_org/images/erpnext/customer.png)
+![Customer Master](/assets/manual_erpnext_com/old_images/erpnext/customer.png)
 
 Customers are separate from Contacts and Addresses. Customers can have multiple Contacts and Addresses.
 
@@ -67,7 +67,7 @@ Customers are separate from Contacts and Addresses. Customers can have multiple 
 
 > Buying > Supplier > New Supplier
 
-![Supplier Master](/assets/erpnext_org/images/erpnext/supplier.png)
+![Supplier Master](/assets/manual_erpnext_com/old_images/erpnext/supplier.png)
 
 Before making the Price List and the Sales Order, make the Bill of Materials based on your design document.
 

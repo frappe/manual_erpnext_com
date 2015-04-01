@@ -13,7 +13,7 @@ Make a Delivery Note and save it after affirming the shipping address. In case t
 
 __Figure 1: Delivery Note__
 
-![Delivery Note](/assets/erpnext_org/images/erpnext/e-t-o-delivery-note-child-bed.png)
+![Delivery Note](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-delivery-note-child-bed.png)
 
 ### Sales Invoice
 
@@ -27,11 +27,11 @@ The client Jane D’souza has been given 1 Sales Invoice. Now raise another 2  S
 
 __Figure 2: Invoice__
 
-![Sales Invoice](/assets/erpnext_org/images/erpnext/e-t-o-sales-invoice-2.png)
+![Sales Invoice](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-sales-invoice-2.png)
 
 __Figure 3: Invoice-final__
 
-![Sales Invoice](/assets/erpnext_org/images/erpnext/e-t-o-sales-invoice-3.png)
+![Sales Invoice](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-sales-invoice-3.png)
 
 
 Save and submit the Invoice. When you submit the Invoice, an email pop-up box will appear. Correct / Change / Confirm the email ID and click on 'Send' button. An email will be sent.
@@ -44,7 +44,7 @@ Payment Entry is a part of booking-keeping. It records accounts and manages bala
 
 __Figure 4: Payment Entry__
 
-![Payment Entry](/assets/erpnext_org/images/erpnext/e-t-o-payment-entry-3.png)
+![Payment Entry](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-payment-entry-3.png)
 
 
 You can see how much profit you made on this order by going to Gross Profit Report.

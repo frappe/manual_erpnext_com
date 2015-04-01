@@ -7,7 +7,7 @@ Supplier Quotation.
 
 #### Figure 1: Purchase Order Flow Chart
 
-![Purchase Order](assets/erpnext_org/images/erpnext/purchase-order-f.jpg)
+![Purchase Order](assets/manual_erpnext_com/old_images/erpnext/purchase-order-f.jpg)
 
 In ERPNext, you can also make a Purchase Order directly by going to:
 
@@ -15,7 +15,7 @@ In ERPNext, you can also make a Purchase Order directly by going to:
 
 #### Figure 2: Create Purchase Order
 
-![Purchase Order](assets/erpnext_org/images/erpnext/purchase-order.png)
+![Purchase Order](assets/manual_erpnext_com/old_images/erpnext/purchase-order.png)
 
 Entering a Purchase Order is very similar to a Purchase Request, additionally
 you will have to set:
@@ -73,7 +73,7 @@ Nos (from the Item form)
 #### Figure 3: Conversion of Purchase UOM to stock UOM
 
 
-![](assets/erpnext_org/images/erpnext/purchase-order-uom-change.png) 
+![](assets/manual_erpnext_com/old_images/erpnext/purchase-order-uom-change.png) 
 
 __Step 4:__ Mention the UOM conversion factor. For example, (100);If one box has
 100 pieces.  

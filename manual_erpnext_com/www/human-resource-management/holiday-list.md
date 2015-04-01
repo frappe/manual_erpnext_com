@@ -17,7 +17,7 @@ on Holiday List.
   
 #### Figure 1: Holiday List
 
-![](assets/erpnext_org/images/erpnext/holiday-list-1.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/holiday-list-1.png)  
 
   
 
@@ -40,7 +40,7 @@ Mention the holiday reason in the description and select the date from the
   
 #### Figure 2: Adding new holidays to the list
 
-![](assets/erpnext_org/images/erpnext/holiday-list-2.png)  
+![](assets/manual_erpnext_com/old_images/erpnext/holiday-list-2.png)  
 
   
 

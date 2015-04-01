@@ -16,13 +16,13 @@ In Sales BOM item, you will select a Parent Item. The parent item must be a <b>n
 
 In our case, the parent item is PC.
 
-![Sales BOM Item](assets/erpnext_org/images/erpnext/sales_bom_item.png)
+![Sales BOM Item](assets/manual_erpnext_com/old_images/erpnext/sales_bom_item.png)
 
 ####Select Child Items
 
 In Package Item section, you will list all the child items for which we maintain stock and is delivered to customer.The actual laptop item, mouse, charger and laptop bag will be listed in the table of Package Item.
 
-![Sales BOM Packed Items](assets/erpnext_org/images/erpnext/sales_bom_packed_items.png)
+![Sales BOM Packed Items](assets/manual_erpnext_com/old_images/erpnext/sales_bom_packed_items.png)
 
 ####Save Sales BOM
 
@@ -32,11 +32,11 @@ Save Sales BOM after enter Sales BOM and Packing Items, with Qty. Once Sales BOM
 
 When making Sales transactions like Sales Invoice, Sales Order and Delivery Note, Parent Item will be selected in the main item table.
 
-![Sales BOM Main in Transaction](assets/erpnext_org/images/erpnext/sales_bom_main_in_transaction.png)
+![Sales BOM Main in Transaction](assets/manual_erpnext_com/old_images/erpnext/sales_bom_main_in_transaction.png)
 
 On selection on Parent Item in the main item table, its child items will be fetched in Packing List table of the transaction. If child item is the serialized item, you will be able to specify its Serial Mo. in packing List table itself. On submission of transaction, system will reduce the stock level of child items from warehouse specified in Packing List table.
 
-![Sales BOM Child in Transaction](assets/erpnext_org/images/erpnext/sales_bom_child_in_transaction.png)
+![Sales BOM Child in Transaction](assets/manual_erpnext_com/old_images/erpnext/sales_bom_child_in_transaction.png)
 
 <div class="well"><b>Use Sales BOM to Manage Schemes:</b>
 <br>

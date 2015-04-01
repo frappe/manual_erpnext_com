@@ -8,7 +8,7 @@ In engineer to order companies, a deal goes through multiple stages of discussio
 
 For this study, a furniture making company, Supreme Furniture, is used as a case-example.
 
-![Furniture Picture](/assets/erpnext_org/images/erpnext/e-t-o-furniture.jpg)
+![Furniture Picture](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-furniture.jpg)
 
  Supreme Furniture deals in all-types of furniture. They have a small showroom, where they keep some samples. However, they produce only after a Customer confirms the order and gives their specifications clearly.
 

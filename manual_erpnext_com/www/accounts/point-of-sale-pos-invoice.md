@@ -40,7 +40,7 @@ clicking on the Item image and the other, is through the Barcode / Serial No.
 
 **Barcode / Serial No** \- A Barcode / Serial No is an optical machine-readable representation of data relating to the object to which it is attached. Enter Barcode / Serial No in the box as shown in the image below and pause for a second, the item will be automatically added to the cart.
 
-![POS](assets/erpnext_org/images/erpnext/pos-add-item.png)
+![POS](assets/manual_erpnext_com/old_images/erpnext/pos-add-item.png)
 
 > Tip: To change the quantity of an Item, enter your desired quantity in the
 quantity box. These are mostly used if the same Item is purchased in bulk.
@@ -61,7 +61,7 @@ button.
 
 > Delete button appears only when Items are selected.
 
-![POS](assets/erpnext_org/images/erpnext/pos-remove-item.png)
+![POS](assets/manual_erpnext_com/old_images/erpnext/pos-remove-item.png)
 
 ### Make Payment
 
@@ -72,7 +72,7 @@ ready to make the Payment. Payment process is divided into 3 steps -
   2. Select your “Mode of Payment”.
   3. Click on “Pay” button to Save the document.
 
-![POS Payment](assets/erpnext_org/images/erpnext/pos-make-payment.png)
+![POS Payment](assets/manual_erpnext_com/old_images/erpnext/pos-make-payment.png)
 
 Submit the document to finalise the record. After the document is submitted,
 you can either print or email it directly to the customer.

@@ -12,7 +12,7 @@ Make a Delivery Note and save it after affirming the shipping address. In case t
 
 __Figure 1: Delivery Note__
 
-![Delivery Note](/assets/erpnext_org/images/erpnext/m-t-s-delivery-note-1.png)
+![Delivery Note](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-delivery-note-1.png)
 
 ### Sales Invoice
 
@@ -24,7 +24,7 @@ You can either make a Sales Invoice from the Accounts module or make it by click
 
 __Figure 2: Invoice__
 
-![Invoice](/assets/erpnext_org/images/erpnext/m-t-o-invoice-jps-1.png)
+![Invoice](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-invoice-jps-1.png)
 
 Save and submit the Invoice. When you submit the Invoice, an email pop-up box will appear. Correct / change / Confirm the email ID and click on 'Send' button. An email will be sent.
 
@@ -46,7 +46,7 @@ The click will take you to the Master-Company page. Now enter your default entry
 
 __Figure 3: Payment Entry__
 
-![Payment Entry](/assets/erpnext_org/images/erpnext/m-t-o-payment-entry-jps-1.png)
+![Payment Entry](/assets/manual_erpnext_com/old_images/erpnext/m-t-o-payment-entry-jps-1.png)
 
 Save and submit the Payment Entry. After submitting, you can check the Gross Profit Report, and review your profits. You can also check your Stock Balance Report.
 

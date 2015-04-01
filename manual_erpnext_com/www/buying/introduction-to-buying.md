@@ -2,7 +2,7 @@ If your business involves physical goods, buying is one of your core business
 activity. Your suppliers are as important as your customers and they must be
 provided with as much accurate information as possible.  
 
-![Buying](http://erpnext.org/assets/erpnext_org/images/erpnext/buying-home.png)
+![Buying](http://erpnext.org/assets/manual_erpnext_com/old_images/erpnext/buying-home.png)
 
 Buying in right amounts, in right quantities, can affect your cash flow and
 profitability.

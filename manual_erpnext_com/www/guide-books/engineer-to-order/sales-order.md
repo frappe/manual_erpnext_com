@@ -8,7 +8,7 @@ After the proposal phase, it is time for the organisation to make a Sales Order.
 
 __Figure 1: Sales Order__
 
-![Sales Order](/assets/erpnext_org/images/erpnext/e-t-o-sales-order-childbed.png)
+![Sales Order](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-sales-order-childbed.png)
 
 > Sales Order is the main document that is used to track billing, delivery and manufacturing.
 

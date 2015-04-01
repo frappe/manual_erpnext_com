@@ -5,9 +5,9 @@ many locations, ERPNext allows you to create more Territories. You can also
 have child Territories under parent Territories. This helps in assigning
 different regions to different sales staff.
 
-![Territory Tree](assets/erpnext_org/images/erpnext/territory-tree.png)
+![Territory Tree](assets/manual_erpnext_com/old_images/erpnext/territory-tree.png)
 
 To add more territories to an existing tree, click on "Add Child"
 
-![Territory Tree](assets/erpnext_org/images/erpnext/territory-tree-1.png)
+![Territory Tree](assets/manual_erpnext_com/old_images/erpnext/territory-tree-1.png)
 

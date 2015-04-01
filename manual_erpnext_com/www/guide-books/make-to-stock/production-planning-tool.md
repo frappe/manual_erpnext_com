@@ -19,7 +19,7 @@ Do not tick the box that says ‘Use multi-level BOM’. This box is checked onl
 
 __Figure 1: Item Details__
 
-![Item Deetails](/assets/erpnext_org/images/erpnext/m-t-s-ppt-pull-items.png)
+![Item Deetails](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-ppt-pull-items.png)
 
  
 #### Step 2: Create Production Order
@@ -28,7 +28,7 @@ Production Order is an order to produce a specific quantity of material within a
 
 __Figure 2: Production Order__
 
-![Production Order ](/assets/erpnext_org/images/erpnext/m-t-s-ppt-create-po.png)
+![Production Order ](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-ppt-create-po.png)
 
 #### Step 3: Create Material Request
 
@@ -38,7 +38,7 @@ __Figure 3: Material Request__
 
 This request is created by clicking on the box ‘Create Material Request’
 
-![Material Request](/assets/erpnext_org/images/erpnext/m-t-s-ppt-material-request.png)
+![Material Request](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-ppt-material-request.png)
 
 
 Click on the highlighted Material Request number. The click will open into a Material Request Form. 

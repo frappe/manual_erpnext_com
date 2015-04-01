@@ -10,7 +10,7 @@ make a new BOM:
 
 #### Figure 1: Select Item
 
-![Bill of Materials](assets/erpnext_org/images/erpnext/bom.png)
+![Bill of Materials](assets/manual_erpnext_com/old_images/erpnext/bom.png)
 
 In the BOM form:
 
@@ -19,7 +19,7 @@ In the BOM form:
 
 #### Figure 2: Select Operations-Optional
 
-![Bill of Materials with Operations](assets/erpnext_org/images/erpnext/mfg-bom-3.png)
+![Bill of Materials with Operations](assets/manual_erpnext_com/old_images/erpnext/mfg-bom-3.png)
 
   * Add the list of Items you require for each operation, with its quantity. This Item could be a purchased Item or a sub-assembly with its own BOM. If the row Item is a manufactured Item and has multiple BOMs, select the appropriate BOM.   You can also define if a part of the Item goes into scrap.
 

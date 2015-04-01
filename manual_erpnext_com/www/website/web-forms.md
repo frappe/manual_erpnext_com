@@ -17,7 +17,7 @@ To create a new **Web Form** go to:
 1. Select if you require the user to login, edit records, manage multiple records etc.
 1. Add the fields you want in the record.
 
-![Make Web Form](/assets/erpnext_org/images/erpnext/website/make-web-form.gif)
+![Make Web Form](/assets/manual_erpnext_com/old_images/erpnext/website/make-web-form.gif)
 
 ---
 
@@ -25,7 +25,7 @@ To create a new **Web Form** go to:
 
 Once you create the web form, you can view it on the url and test it out!
 
-![View Web Form](/assets/erpnext_org/images/erpnext/website/view-web-form.gif)
+![View Web Form](/assets/manual_erpnext_com/old_images/erpnext/website/view-web-form.gif)
 
 ---
 
@@ -33,4 +33,4 @@ Once you create the web form, you can view it on the url and test it out!
 
 Your data will be stored in the table you have selected
 
-![View Data](/assets/erpnext_org/images/erpnext/website/web-form-event.png)
+![View Data](/assets/manual_erpnext_com/old_images/erpnext/website/web-form-event.png)

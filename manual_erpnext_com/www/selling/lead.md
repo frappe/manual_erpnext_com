@@ -20,7 +20,7 @@ To create a Lead, go to:
 
 > Selling > Lead > New Lead
 
-![Lead](assets/erpnext_org/images/erpnext/lead.png)
+![Lead](assets/manual_erpnext_com/old_images/erpnext/lead.png)
 
 ERPNext gives you a lot of options you may want to store about your Leads. For
 example what is the source, how likely are they to give you business etc. If
