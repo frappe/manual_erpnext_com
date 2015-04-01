@@ -33,6 +33,7 @@ website_context = {
 			Have questions or feedback? Ask at the forum</a></div>"""
 }
 
+website_clear_cache = "manual_erpnext_com.utils.clear_contents"
 
 # Includes in <head>
 # ------------------
