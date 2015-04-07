@@ -18,7 +18,6 @@ website_context = {
 	"brand_html": "The ERPNext Manual",
 	"top_bar_items": [
 		{"label": "Contents", "url": "/contents", "right": 1},
-		{"label": "About", "url": "/about", "right": 1}
 	],
 	"hide_login": 1,
 	"include_search": 1,
@@ -28,9 +27,9 @@ website_context = {
 	"js_globals": {
 		"search_path": "/search"
 	},
-	"custom_footer": """<div class="text-center text-muted" style="padding: 30px 0px">
-		<a class="no-decoration" href="https://discuss.frappe.io" target="_blank">
-			Have questions or feedback? Ask at the forum</a></div>"""
+	"custom_footer": """<div class="text-extra-muted manual-feedback" style="padding-bottom: 70px;">
+		<a class="underline" href="https://discuss.frappe.io" target="_blank">
+			Have questions? Ask at the forum.</a></div>"""
 }
 
 website_clear_cache = "manual_erpnext_com.utils.clear_contents"

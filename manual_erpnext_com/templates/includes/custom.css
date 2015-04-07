@@ -1,7 +1,5 @@
-.container,
-.navbar {
-	max-width: 800px;
-	margin: auto;
+.hero-and-content .page-container {
+	max-width: 660px;
 }
 
 .page-breadcrumbs {
@@ -10,4 +8,25 @@
 
 .page-breadcrumbs .breadcrumb {
 	font-size: inherit;
+}
+
+article img {
+	margin: 20px 0px;
+}
+
+article figcaption {
+	margin-top: -20px;
+}
+
+.btn-next-wrapper {
+	margin-bottom: -30px;
+}
+
+article p {
+	margin: 15px 0px;
+}
+
+hr {
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
