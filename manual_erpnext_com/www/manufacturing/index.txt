@@ -6,3 +6,5 @@ make-to-order-manufacturing
 make-to-stock-manufacturing
 quality-inspection
 bom-replace-tool
+mrp
+lean-manufacturing

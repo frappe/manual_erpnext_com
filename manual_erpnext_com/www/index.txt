@@ -9,7 +9,6 @@ manufacturing
 projects
 support
 human-resource-management
-knowledge-base
 customer-portal
 website
 collaboration-tools

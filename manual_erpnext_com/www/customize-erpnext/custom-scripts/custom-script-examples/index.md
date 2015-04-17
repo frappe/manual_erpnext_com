@@ -13,3 +13,6 @@ Create a Custom Script (you must have System Manager role for this):
   2. Client Custom Scripts are in Javascript and Server Custom Scripts are in Python.
   3. For testing, make sure to go to Tools > Clear Cache and refresh after updating a Custom Script.
 
+### Topics
+
+{index}

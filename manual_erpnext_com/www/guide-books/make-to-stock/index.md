@@ -13,10 +13,14 @@ For this study, a jute artefact company, Shades of Green, is used as a case-exam
 
 Shades of Green is an eco-friendly company that manufactures and trades in  jute gift Items. It manufactures Items based on make-to-stock type of manufacturing.
 
-Shades of Green has retail outlets and they also produce based on orders. For their retail outlets and distribution networks, they manufacture in advance. These bags are sold at exhibitions similar to over-the-counter products. The jute bags are stored in the company Warehouse and sent from time-to-time to the distributors and retailers. 
+Shades of Green has retail outlets and they also produce based on orders. For their retail outlets and distribution networks, they manufacture in advance. These bags are sold at exhibitions similar to over-the-counter products. The jute bags are stored in the company Warehouse and sent from time-to-time to the distributors and retailers.
 
 
 This guide gives a step-by-step account of the production process run through ERPNext. Let us take an example of producing a jute bag named 'Butterfly Print'.
+
+### Topics
+
+{index}
 
 Next: [Overview](/guide-books/make-to-stock/overview)
 

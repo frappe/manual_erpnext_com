@@ -1,3 +1,0 @@
-format-using-markdown
-roles-in-erpnext
-understanding-accounts

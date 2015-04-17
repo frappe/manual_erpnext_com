@@ -22,8 +22,6 @@ struggle to keep things organized. They often use a mix of apps like
 spreadsheets, accounting software, web CRM etc to manage.The problem is, not
 everyone is on the same page. An ERP changes that.
 
-* * *
-
 ## What is ERPNext?
 
 ERPNext helps you to manage all your business information in one application
@@ -43,6 +41,6 @@ Among other things, ERPNext will help you to:
 
 And a lot lot lot more.
 
-* * *
+### Topics
 
 {index}

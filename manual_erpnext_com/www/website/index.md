@@ -25,3 +25,6 @@ HTML / CSS or hire the services of a professional. The good part is that once
 this is setup, you can add and edit content, blogs and products directly from
 your ERP.
 
+### Topics
+
+{index}

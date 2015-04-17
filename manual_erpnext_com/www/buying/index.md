@@ -12,3 +12,6 @@ profitability.
 ERPNext contains a set of transactions that will make your buying process as
 efficient and seamless as possible.
 
+### Topics
+
+{index}

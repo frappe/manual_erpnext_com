@@ -2,7 +2,7 @@
 
 <p class="lead">This guide explains how a manufacturing unit would run its operations based on an engineer-to-order type of workflow.</p>
 
-In engineer to order companies, a deal goes through multiple stages of discussions going back and forth. At each stage, new proposals are made and new costing for the product is prepared. 
+In engineer to order companies, a deal goes through multiple stages of discussions going back and forth. At each stage, new proposals are made and new costing for the product is prepared.
 
 ### Supreme Furniture
 
@@ -16,6 +16,9 @@ For this study, a furniture making company, Supreme Furniture, is used as a case
 
 To explain the production cycle we will consider an example of a custom-made bed cum wardrobe for a child. Please read the Overview section to get a glimpse of all the steps required to complete an engineer-to-order cycle.
 
+### Topics
+
+{index}
 
 Next: [Overview](/guide-books/engineer-to-order/overview)
 

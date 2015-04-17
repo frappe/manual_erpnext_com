@@ -12,9 +12,13 @@ In a make to order system, the products are standard but are manufactured or pro
 
 Shades of Green is an eco-friendly company that manufactures and trades in  jute gift items. It manufactures items based on make-to-order type of manufacturing.
 
-Shades of Green has retail outlets and they also produce based on orders. For their retail outlets and distribution they manufacture in advance. But, for big orders by corporates, schools and colleges, they manufacture after the order is confirmed. 
+Shades of Green has retail outlets and they also produce based on orders. For their retail outlets and distribution they manufacture in advance. But, for big orders by corporates, schools and colleges, they manufacture after the order is confirmed.
 
 This guide gives a step-by-step account of the production process run through ERPNext. Let us take an example of producing a Jute Pen Stand.
+
+### Topics
+
+{index}
 
 [Next: Overview](/guide-books/make-to-order/overview)
 
