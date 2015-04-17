@@ -1,22 +1,22 @@
 ## Time Sheets
 
-You can create Time Sheets to track billable work to Customers. These Time
-Sheets can be tracked against Project and Tasks so that you can get reports on
-how much time was spent on each Task or Project.
+You can create Time Sheets to track billable work to Customers and also for your internal references. These Time
+Sheets can be tracked against Project, Tasks or Production Order Operations so that you can get reports on
+how much time was spent on each.
 
 ![Time Log](assets/manual_erpnext_com/old_images/erpnext/time-log.png)
 
-Time Logs are a way to track time worked on Tasks or Projects. Time Logs can also be grouped together, or "Batched" for billing. This way you can track whether Time Logs are billed or not. Time Logs replace the earlier Timesheet Transaction and can also be represented in a Calendar Format.
+Time Logs are a way to track time worked. Time Logs can also be grouped together, or "Batched" for billing. This way you can track whether Time Logs are billed or not. You can also check out the Time Logs in Calender view or in Gantt View
 
 __Step 1: Create a new Time Log__
 
 ![Time Log](assets/manual_erpnext_com/old_images/erpnext/timelog1.jpg)
 
-To create a new Time Log, you can go to Projects > Time Log and click on "New Time Log" or click on the calendar view, switch to Daily View and drag on the timeslots to create a new Time Log.
+To create a new Time Log, you can go to Projects > Time Log and click on "New Time Log" or click on the calendar view, switch to Daily View and drag on the timeslots to create a new Time Log. Time Logs for Manufacturing processes needs to be created from the Production Order. When a Production Order is submitted, the operations are auto-scheduled and time logs are generated against each operation. To create more Time Logs against Operations select the respective operation and click on the 'Make Time Log' button.
 
 ![Time Log](assets/manual_erpnext_com/old_images/erpnext/timelog2.jpg)
 
-In the Time Log, define the Activity Type (this is an easy way to identify the type of activity) and update the Project or Task it is worked on. If the Time is billable to the Customer, check the "Billable" box.
+In the Time Log, define the Activity Type (this is an easy way to identify the type of activity), Empoyee and update the Project or Task it is worked on. If the Time is billable to the Customer, check the "Billable" box. The system will pull the costing rate and the billing rate from Activity Cost once Activity Type is selected against an Employee. Based on the Hours mentioned in the Time Log, the system will calculate the Costing amount & the Billing Amount. If the Time log is not 'billable' the system will fetch the billing rate but compute the billing amount as 0. On Submission the system will update the respective Task and Project with the costing and billing amount
 
 ![Time Log](assets/manual_erpnext_com/old_images/erpnext/timelog3.jpg)
 

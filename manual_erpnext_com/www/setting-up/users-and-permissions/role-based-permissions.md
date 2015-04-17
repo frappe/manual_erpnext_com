@@ -3,10 +3,10 @@
 ERPNext has a role-based permission system. It means that you can assign Roles to Users, and set Permissions on Roles. The permission structure also allows you to define different permission rules for different fields, using a concept called **Permission "Level"** of a field. Once roles are assigned to a user, it gives you the ability to limit access for a user to only specic documents.
 
 To start with, go to:
-> Setup > Users and Permissions > Role Permissions Manager
+> Setup > Permissions > Role Permissions Manager
 
 <figure>
-	<img src="/assets/manual_erpnext_com/old_images/erpnext/setting-up-permissions-leave-application.png"
+	<img src="/assets/manual_erpnext_com/img/users-and-permissions/setting-up-permissions-leave-application.png"
 		class="img-responsive" alt="Role Permissions Manager">
 	<figcaption>Manage Read, Write, Create, Submit, Amend access using the Role Permissions Manager</figcaption>
 </figure>
@@ -32,7 +32,7 @@ Permissions are applied on a combination of:
 	If enabled, a user with that role will be able to access only specific Documents for that Document Type. Such specific Document access is defined in the list of User Permissions. Additionally, User Permissions defined for other Document Types also get applied if they are related to the current Document Type through Link Fields.
 
 	To set, User Permissions go to:
-    > Setup > Users and Permissions > [User Permissions Manager](/setting-up/permissions/user-permissions)
+    > Setup > Permissions > [User Permissions Manager](/setting-up/permissions/user-permissions)
 
 ---
 
@@ -43,7 +43,7 @@ Permissions are applied on a combination of:
 Leave Application is a good **example** that encompasses all areas of Permission System.
 
 <figure>
-	<img src="/assets/manual_erpnext_com/old_images/erpnext/setting-up-permissions-leave-application-form.png"
+	<img src="/assets/manual_erpnext_com/img/users-and-permissions/setting-up-permissions-leave-application-form.png"
 		class="img-responsive" alt="Leave Application Form">
 	<figcaption>Leave Application Form should be created by an Employee, and approved by Leave Approver or HR User</figcaption>
 </figure>
@@ -52,7 +52,7 @@ Leave Application is a good **example** that encompasses all areas of Permission
      For this, Employee Role should be given Read, Write, Create permissions.
 
 	 <figure>
-	 	<img src="/assets/manual_erpnext_com/old_images/erpnext/setting-up-permissions-employee-role.png"
+	 	<img src="/assets/manual_erpnext_com/img/users-and-permissions/setting-up-permissions-employee-role.png"
 	 		class="img-responsive" alt="Leave Application Permissions for Employee Role">
 	 	<figcaption>Giving Read, Write and Create Permissions to Employee for Leave Application</figcaption>
 	 </figure>
@@ -70,7 +70,7 @@ Leave Application is a good **example** that encompasses all areas of Permission
      Create a Permission Rule for HR Manager at Level 0, with Read permissions. Apply User Permissions should be disabled.
 
 	 <figure>
-	 	<img src="/assets/manual_erpnext_com/old_images/erpnext/setting-up-permissions-hr-manager-role.png"
+	 	<img src="/assets/manual_erpnext_com/img/users-and-permissions/setting-up-permissions-hr-manager-role.png"
 	 		class="img-responsive" alt="Leave Application Permissions for HR Manager">
 	 	<figcaption>Giving Submit and Cancel permissions to HR Manager for Leave Applications.
 			'Apply User Permissions' is unchecked to give full access.</figcaption>
@@ -80,7 +80,7 @@ Leave Application is a good **example** that encompasses all areas of Permission
      Leave Approver is given Read and Write access at Level 0, with Apply User Permissions enabled. Relevant Employee Documents should be enlisted in the User Permissions of Leave Approvers. (This effort is reduced for Leave Approvers mentioned in Employee Documents, by programmatically creating User Permission records.)
 
 	 <figure>
-	 	<img src="/assets/manual_erpnext_com/old_images/erpnext/setting-up-permissions-leave-approver-role.png"
+	 	<img src="/assets/manual_erpnext_com/img/users-and-permissions/setting-up-permissions-leave-approver-role.png"
 	 		class="img-responsive" alt="Leave Application Permissions for Leave Approver">
 	 	<figcaption>Giving Read, Write and Submit permissions to Leave Approver for Leave Applications.
 			'Apply User Permissions' is checked to limit access based on Employee.</figcaption>
@@ -99,7 +99,7 @@ Leave Application is a good **example** that encompasses all areas of Permission
      HR User is given the right to Set User Permissions. A User with HR User role would be able to defined User Permissions on Leave Application for other users.
 
 	 <figure>
-	 	 	<img src="/assets/manual_erpnext_com/old_images/erpnext/setting-up-permissions-hr-user-role.png"
+	 	 	<img src="/assets/manual_erpnext_com/img/users-and-permissions/setting-up-permissions-hr-user-role.png"
 	 	 		class="img-responsive" alt="Leave Application Permissions for HR User">
 	 	 	<figcaption>Let HR User delegate access to Leave Applications by checking 'Set User Permissions'. This will allow HR User to access User Permissions Manager for 'Leave Application'</figcaption>
 	 	 </figure>

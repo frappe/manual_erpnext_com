@@ -44,3 +44,5 @@ See how to set the naming series
 
 <img class="screenshot" alt="Naming Series" src="/assets/manual_erpnext_com/img/setup/settings/naming-series.gif">
 
+{next}
+

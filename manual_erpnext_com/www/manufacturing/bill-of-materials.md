@@ -23,7 +23,7 @@ In the BOM form:
 
   * Add the list of Items you require for each operation, with its quantity. This Item could be a purchased Item or a sub-assembly with its own BOM. If the row Item is a manufactured Item and has multiple BOMs, select the appropriate BOM.   You can also define if a part of the Item goes into scrap.
 
-Workstations are defined only for product costing purposes not inventory.
+Workstations are defined only for product costing and Production Order Operations scheduling purposes not inventory.
 Inventory is tracked in Warehouses not Workstations.
 
 > The “Full BOM” section will list all the Items of that BOM right up to the
@@ -31,7 +31,5 @@ lower most child node. This table is automatically updated if any of the BOMs
 of the sub-Items are updated.
 
 To see an example of a Bill of Material in detail visit [](/guide-books/make-to-order/bill-of-materials)
-
-> Note : In order to generate a Bill of Materials it is necessary that the Item is checked for "Allow Bill of Materials". The Item should also say 'Yes' to "Allow Production Order" on the Item form.
 
 BOM -Exploded: The 'Materials Required [Exploded]' field will contain the raw materials required by the BOM. It mentions the BOM's Item-Code, Description, Quantity and Rate.

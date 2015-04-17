@@ -47,7 +47,7 @@ have to go to:
 
 > Setup > Accounts > Sales Taxes and Charge Master
 
-![Sales Tax Master](assets/manual_erpnext_com/old_images/erpnext/sales-tax-master.png)
+![Sales Tax Master](assets/manual_erpnext_com/img/taxes/sales-tax-master.png)
 
 When you create a new master, you will have to add a row for each tax type.
 
