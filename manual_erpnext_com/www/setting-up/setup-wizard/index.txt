@@ -1,6 +1,6 @@
 step-1-language
-step-2-profile-details
-step-3-company-details
+step-2-company-details
+step-3-user-details
 step-4-currency-and-timezone
 step-5-letterhead-and-logo
 step-6-tax-details
