@@ -1,17 +1,64 @@
-## Project
+Project management in ERPNext is Task driven. You can create Project and assign multiple Tasks against it.
 
-Project Management in ERPNext is Task driven. You can create Project and assign multiple Tasks against it.
-Expected Start and End Dates can be defined against a project. 
-One can also define the Customer for whom the Project is being undertaken. 
-You can also set the estimated cost of the project and mention a default cost centre for all expenses booked against that project.
-ERPNext shall track the actual time & costing against a project using Time Logs.
-The Actual Start and End date along with the actual costing of the project shall be tracked against each Time Log and updated in the Project. 
-The Gross Profit and Gross Profit Percentage shall also be calculated by the system based on the actual values.
+<img class="screenshot" alt="Project" src="assets/manual_erpnext_com/img/project/project.png">
 
-The Project record can be linked in Quotations, Sales Orders,
-Delivery Notes, Sales Invoices, Purchase Requests, Purchase Orders and
-Purchase Invoices. This way you can keep a track of all the activities that
-happen around this project.
+### Tasks
+Project can be divided into multiple Tasks.
+Task can be created via Project document itself or can be created via  [Task](/projects/tasks)
 
-![projects](assets/manual_erpnext_com/old_images/erpnext/projects.png)
+<img class="screenshot" alt="Project" src="assets/manual_erpnext_com/img/project/project_task.png">
 
+* To view Task made against a Project click on 'Tasks'
+
+<img class="screenshot" alt="Project - View Task" src="assets/manual_erpnext_com/img/project/project_view_task.png">
+
+<img class="screenshot" alt="Project - Task List" src="assets/manual_erpnext_com/img/project/project_task_list.png">
+
+### Time Logs
+
+ERPNext uses [Time Log](/projects/time-log) to track the progress of a Project.
+You can create Time Logs against each task.
+The Actual Start and End Time along with the costing shall then be updated based on the Time Log.
+
+* To view Time Log made against a Project click on 'Time Logs'
+
+<img class="screenshot" alt="Project - View Time Log" src="assets/manual_erpnext_com/img/project/project_view_time_log.png">
+
+<img class="screenshot" alt="Project - Time Log List" src="assets/manual_erpnext_com/img/project/project_time_log_list.png">
+
+* You can also create a Time Log directlly and link it to the Project.
+
+<img class="screenshot" alt="Project - Link Time Log" src="assets/manual_erpnext_com/img/project/project_time_log_link.png">
+
+### Expense Claim
+
+You can book [Expense Claim](/human-resource-management/expense-claim) against a project task.
+The system shall update the total amount from expense claims in the project costing section.
+
+* To view Expense Claims made against a Project click on 'Expense Claims'
+
+<img class="screenshot" alt="Project - View Expense Claim" src="assets/manual_erpnext_com/img/project/project_view_expense_claim.png">
+
+* You can also create a Expense Claims directlly and link it to the Project.
+
+<img class="screenshot" alt="Project - Link Expense Claim" src="assets/manual_erpnext_com/img/project/project_expense_claim_link.png">
+
+* Total amount of Expense Claims booked against a project is shown under 'Total Expense Claim' in the Project Costing Section
+
+<img class="screenshot" alt="Project - Link Expense Claim" src="assets/manual_erpnext_com/img/project/project_expense_claim.png">
+
+### Cost Center
+
+You can make a [Cost Center](/accounts/cost-center-and-budgetting) against a Project or use an existing cost center to track all expenses made against that project.
+
+<img class="screenshot" alt="Project - Cost Center" src="assets/manual_erpnext_com/img/project/project_cost_center.png">
+
+###Project Costing
+
+The Project Costing section helps you track the time and expenses incurred against the project.
+
+<img class="screenshot" alt="Project - Cost Center" src="assets/manual_erpnext_com/img/project/project_costing.png">
+
+* The Costing Section is updated based on Time Logs made.
+
+* Gross Margin is the difference between Total Costing Amount and Total Billing Amount
