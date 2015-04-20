@@ -2,7 +2,7 @@ Project management in ERPNext is Task driven. You can create Project and assign 
 
 <img class="screenshot" alt="Project" src="assets/manual_erpnext_com/img/project/project.png">
 
-### Tasks
+### Managing tasks
 Project can be divided into multiple Tasks.
 Task can be created via Project document itself or can be created via  [Task](/projects/tasks)
 
@@ -14,7 +14,11 @@ Task can be created via Project document itself or can be created via  [Task](/p
 
 <img class="screenshot" alt="Project - Task List" src="assets/manual_erpnext_com/img/project/project_task_list.png">
 
-### Time Logs
+* You can also view the Tasks from the Project document itself
+
+<img class="screenshot" alt="Project - Task Grid" src="assets/manual_erpnext_com/img/project/project_task_grid.png">
+
+### Managing time
 
 ERPNext uses [Time Log](/projects/time-log) to track the progress of a Project.
 You can create Time Logs against each task.
@@ -30,7 +34,7 @@ The Actual Start and End Time along with the costing shall then be updated based
 
 <img class="screenshot" alt="Project - Link Time Log" src="assets/manual_erpnext_com/img/project/project_time_log_link.png">
 
-### Expense Claim
+### Managing expenses
 
 You can book [Expense Claim](/human-resource-management/expense-claim) against a project task.
 The system shall update the total amount from expense claims in the project costing section.
@@ -45,7 +49,7 @@ The system shall update the total amount from expense claims in the project cost
 
 * Total amount of Expense Claims booked against a project is shown under 'Total Expense Claim' in the Project Costing Section
 
-<img class="screenshot" alt="Project - Link Expense Claim" src="assets/manual_erpnext_com/img/project/project_expense_claim.png">
+<img class="screenshot" alt="Project - Total Expense Claim" src="assets/manual_erpnext_com/img/project/project_total_expense_claim.png">
 
 ### Cost Center
 
@@ -57,8 +61,27 @@ You can make a [Cost Center](/accounts/cost-center-and-budgetting) against a Pro
 
 The Project Costing section helps you track the time and expenses incurred against the project.
 
-<img class="screenshot" alt="Project - Cost Center" src="assets/manual_erpnext_com/img/project/project_costing.png">
+<img class="screenshot" alt="Project - Costing" src="assets/manual_erpnext_com/img/project/project_costing.png">
 
 * The Costing Section is updated based on Time Logs made.
 
 * Gross Margin is the difference between Total Costing Amount and Total Billing Amount
+
+###Billing
+
+You can make/link a [Sales Order](/selling/sales-order) against a project. Once linked you can use the standard sales module to bill your customer against the Project.
+
+<img class="screenshot" alt="Project - Sales Order" src="assets/manual_erpnext_com/img/project/project_sales_order.png">
+
+###Gantt Chart
+
+A Gantt Chart illustrates a project schedule.
+ERPNext gives you a illustrated view of tasks scheduled against that project in Gantt Chart View.
+
+* To view gantt chart against a project, go to that project and click on 'Gantt Chart'
+
+<img class="screenshot" alt="Project - View Gantt Chart" src="assets/manual_erpnext_com/img/project/project_view_gantt_chart.png">
+
+<img class="screenshot" alt="Project - Gantt Chart" src="assets/manual_erpnext_com/img/project/project_gantt_chart.png">
+
+{next}
