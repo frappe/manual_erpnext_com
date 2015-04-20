@@ -7,8 +7,8 @@ You can configure various email alerts in your system to remind you of important
 1. Expected Payment Date.
 1. Reminder of followup.
 1. If an Order greater than a particular value is received or sent.
-1. Expiry notification for a Contract
-1. Completion / Status change of a Task
+1. Expiry notification for a Contract.
+1. Completion / Status change of a Task.
 
 For this, you need to setup an Email Alert.
 

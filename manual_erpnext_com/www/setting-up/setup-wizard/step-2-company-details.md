@@ -1,8 +1,8 @@
-# Step 3: Company Details
+# Step 2: Company Details
 
 Enter Company Details like Name, Abbreviation and Financial Year Details.
 
-![Company Details](/assets/manual_erpnext_com/img/setup-wizard/step-3.png)
+![Profile Details](/assets/manual_erpnext_com/img/setup-wizard/step-2.png)
 
 ---
 
