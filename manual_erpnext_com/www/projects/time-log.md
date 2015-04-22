@@ -26,6 +26,8 @@ To create Time Logs via Calender, go to Time Log and select Calendar.
 
 * You can also create Time Logs from 'week' and 'day' view of the calender.
 
+<img class="screenshot" alt="Time Log - Drag Calender" src="assets/manual_erpnext_com/img/project/time_log_calendar_week.gif">
+
 * Time Logs for Manufacturing processes needs to be created from the Production Order. 
 * To create more Time Logs against Operations select the respective operation and click on the 'Make Time Log' button.
 
