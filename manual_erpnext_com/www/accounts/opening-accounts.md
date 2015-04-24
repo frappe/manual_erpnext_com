@@ -29,12 +29,11 @@ You can select accounts based on the voucher type. In such a scenario, your bala
 
 #### Temporary Accounts
 
-A nice way to simplify opening is to create temporary accounts for assets and
-liability just for opening. These accounts will become zero once all your old
-invoices are entered. The two accounts which you can create are (example):
-
-  * Temporary Opening Liabilities
-  * Temporary Opening Asset
+A nice way to simplify opening is to use a temporary account
+just for opening. These accounts will become zero once all your old
+invoices and opening balances of bank, debt stock etc are entered.
+In the standard chart of accounts, a **Temperory Opening** account is created under
+assets
 
 #### The Opening Entry
 
@@ -64,8 +63,8 @@ This way, you can update opening balance in Asset and Liability accounts.
 
 You can make two Opening Journal Vouchers:
 
-  * For all assets (excluding Accounts Receivables): This entry will contain all your assets except the amounts you are expecting from your Customers against outstanding Sales Invoices. You will have to update your receivables by making an individual entry for each Invoice (this is because, the system will help you track the invoices which are yet to be paid). Since all the entries in this voucher will be of type “Debit”, you can credit the sum of all these debits against the “Temp Opening Liabilities” account.
-  * For all liabilities: Similarly you need to pass a Journal Voucher for your Opening Liabilities (except for the bills you have to pay). This can be made against the “Temp Opening Assets” account.
+  * For all assets (excluding Accounts Receivables): This entry will contain all your assets except the amounts you are expecting from your Customers against outstanding Sales Invoices. You will have to update your receivables by making an individual entry for each Invoice (this is because, the system will help you track the invoices which are yet to be paid). You can credit the sum of all these debits against the **Temperory Opening** account.
+  * For all liabilities: Similarly you need to pass a Journal Voucher for your Opening Liabilities (except for the bills you have to pay) against **Temperory Opening** account.
   * In this method you can update opening balance of specific balancesheet accounts and not for all.
   * Opening entry is only for balance sheet accounts and not for expense or Income accounts.
 
@@ -81,7 +80,7 @@ After your Opening Journal Vouchers are made, you will need to enter each
 Sales Invoice and Purchase Invoice that is yet to be paid.
 
 Since you have already booked the income or expense on these invoices in the
-previous period, select the temp opening accounts (**Temporary Opening Asset** and **Temporary Opening Asset**) in the “Income” and
+previous period, select the temp opening account **Temporary Opening** in the “Income” and
 “Expense” accounts.
 
 > Note: Make sure to set each invoice as “Is Opening”!
@@ -90,6 +89,4 @@ If you don’t care what items are in that invoice, just make a dummy item entry
 in the Invoice. Item code in the Invoice is not necessary, so it should not be
 such a problem.
 
-Once all your invoices are entered, your “Temp Opening Assets” will be same as
-“Temp Opening Liabilities” and you can pass another “Is Opening” type of
-Journal Voucher and cancel them to zero!
+Once all your invoices are entered, your **Temperory Opening** account will have a balance of zero!

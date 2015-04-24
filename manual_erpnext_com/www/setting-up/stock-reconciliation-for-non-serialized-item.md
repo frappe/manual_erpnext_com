@@ -24,7 +24,7 @@ To understand how Items are valued read [Valuation](/stock/item-master/item-valu
 
 To perform Stock Reconciliation, go to:
 
-> Stock >> Tools >> Stock Reconciliation >> New Stock Reconciliation 
+> Stock >> Tools >> Stock Reconciliation >> New Stock Reconciliation
 
 #### Step 1: Download Template
 
@@ -34,7 +34,7 @@ A predefined template of an spreadsheet file should be followed for importing it
 
 #### Step 2: Enter Data in csv file.
 
-![Stock Reco Data](assets/manual_erpnext_com/old_images/erpnext/stock-reco-data.png)  
+![Stock Reco Data](assets/manual_erpnext_com/old_images/erpnext/stock-reco-data.png)
 
 The csv format is case-sensitive. Do not edit the headers which are preset in the template. In the Item Code and Warehouse column, enter exact Item Code and Warehouse as created in your ERPNext account. For quatity, enter stock level you wish to set for that item, in a specific warehouse. If you do not want to change the quantity or valuation rate of an Item, you should leave it blank.
 
@@ -52,7 +52,7 @@ Posting Date will be date when you want uploaded stock to reflect in the report.
 
 **Difference Account:**
 
-When making Stock Reconciliation for updating **opening balance**, then you should select Balance Sheet account. Bydefault Temporary Asset and Temporary Liability Account are created in the chart of account which can be used here. Since Warehouse ledger is debit account, Difference Account selected here should be "Temporary Liability Account", which is credit account.
+When making Stock Reconciliation for updating **opening balance**, then you should select Balance Sheet account. By default **Temporary Opening** is created in the chart of account which can be used here.
 
 If you are making Stock Reconciliation for **correcting stock level or valuation of an item**, then you can select any expense account in which you would want difference amount (derived from difference of valuation of item) should be booked. If Expense Account is selected as Difference Account, you will also need to select Cost Center as it is mandatory with any income and expense account selection.
 
@@ -70,7 +70,7 @@ report. The report will show you all types of rates.
 
 ### Stock Ledger Report
 
-![Stock Reco Ledger](assets/manual_erpnext_com/old_images/erpnext/stock-reco-ledger.png)  
+![Stock Reco Ledger](assets/manual_erpnext_com/old_images/erpnext/stock-reco-ledger.png)
 
 **How Stock Reconciliation Works**
 
@@ -78,14 +78,14 @@ Stock Reconciliation on a specific date means balance quantity frozen for that i
 
 Example:
 
-Item Code: ABC001 
-Warehouse: Mumbai 
+Item Code: ABC001
+Warehouse: Mumbai
 Let's assume stock as on 10th January is 100 nos.
-Stock Reconciliation is made on 12th January to bring stock balance to 150 nos. 
-Existing Stock Ledger: 
+Stock Reconciliation is made on 12th January to bring stock balance to 150 nos.
+Existing Stock Ledger:
 <html>
 <style>
-    td { 
+    td {
     padding:5px 10px 5px 5px;
     };
     img {
