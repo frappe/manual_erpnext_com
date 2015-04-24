@@ -1,3 +1,5 @@
 project
 tasks
+activity-cost
 time-log
+time-log-batch

@@ -8,3 +8,5 @@ quality-inspection
 bom-replace-tool
 mrp
 lean-manufacturing
+workstation
+operation

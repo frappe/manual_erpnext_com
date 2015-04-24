@@ -6,7 +6,7 @@ To make a new Expense Claim, go to:
 
 > HR > Expense Claim > New Expense Claim
 
-![Expense Claim](assets/manual_erpnext_com/old_images/erpnext/expense-claim.png)
+<img class="screenshot" alt="Expense Claim" src="assets/manual_erpnext_com/img/hr/expense_claim.png">
 
 Set the Employee ID, date and the list of expenses that are to be claimed and
 “Submit” the record.
@@ -29,4 +29,10 @@ approved or rejected.
 The approved Expense Claim must then be converted into a Journal Voucher and a
 payment must be made. Note: This amount should not be clubbed with Salary
 because the amount will then be taxable to the Employee.
+
+### Linking with Task & Project
+
+* To Link Expense Claim with Task or Project specify the Task or the Project while making an Expense Claim
+
+<img class="screenshot" alt="Time Log" src="assets/manual_erpnext_com/img/project/project_expense_claim_link.png">
 
