@@ -1,0 +1,9 @@
+step-1-language
+step-2-currency-and-timezone
+step-3-user-details
+step-4-company-details
+step-5-letterhead-and-logo
+step-6-tax-details
+step-7-customer-names
+step-8-suppliers
+step-9-item
