@@ -1,13 +1,13 @@
 Project is divided into Tasks. 
 In ERPNext, you can also create a Task independently.
 
-<img class="screenshot" alt="Task" src="assets/manual_erpnext_com/img/project/task.png">
+<img class="screenshot" alt="Task" src="/assets/manual_erpnext_com/img/project/task.png">
 
 ### Status of the Task
 
 A Task can have either of the following status - Open, Working, Pending Review, Closed, Cancelled.
 
-<img class="screenshot" alt="Task - Status" src="assets/manual_erpnext_com/img/project/task_status.png">
+<img class="screenshot" alt="Task - Status" src="/assets/manual_erpnext_com/img/project/task_status.png">
 
 * By default each new Task created shall have the status set to 'Open'.
 
@@ -21,13 +21,13 @@ The Actual Start and End Time along with the costing shall then be updated based
 
 * To view Time Log made against a Task click on 'Time Logs'
 
-<img class="screenshot" alt="Task - View Time Log" src="assets/manual_erpnext_com/img/project/task_view_time_log.png">
+<img class="screenshot" alt="Task - View Time Log" src="/assets/manual_erpnext_com/img/project/task_view_time_log.png">
 
-<img class="screenshot" alt="Task - Time Log List" src="assets/manual_erpnext_com/img/project/task_time_log_list.png">
+<img class="screenshot" alt="Task - Time Log List" src="/assets/manual_erpnext_com/img/project/task_time_log_list.png">
 
 * You can also create a Time Log directlly and link it to the Task.
 
-<img class="screenshot" alt="Task - Link Time Log" src="assets/manual_erpnext_com/img/project/task_time_log_link.png">
+<img class="screenshot" alt="Task - Link Time Log" src="/assets/manual_erpnext_com/img/project/task_time_log_link.png">
 
 ### Managing Expenses
 
@@ -36,14 +36,14 @@ The system shall update the total amount from expense claims in the costing sect
 
 * To view Expense Claims made against a Task click on 'Expense Claims'
 
-<img class="screenshot" alt="Task - View Expense Claim" src="assets/manual_erpnext_com/img/project/task_view_expense_claim.png">
+<img class="screenshot" alt="Task - View Expense Claim" src="/assets/manual_erpnext_com/img/project/task_view_expense_claim.png">
 
 * You can also create a Expense Claims directlly and link it to the Task.
 
-<img class="screenshot" alt="Task - Link Expense Claim" src="assets/manual_erpnext_com/img/project/task_expense_claim_link.png">
+<img class="screenshot" alt="Task - Link Expense Claim" src="/assets/manual_erpnext_com/img/project/task_expense_claim_link.png">
 
 * Total amount of Expense Claims booked against a task is shown under 'Total Expense Claim' in the Task Costing Section
 
-<img class="screenshot" alt="Task - Total Expense Claim" src="assets/manual_erpnext_com/img/project/task_total_expense_claim.png">
+<img class="screenshot" alt="Task - Total Expense Claim" src="/assets/manual_erpnext_com/img/project/task_total_expense_claim.png">
 
 {next}
