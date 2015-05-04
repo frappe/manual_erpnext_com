@@ -11,7 +11,7 @@ Customer Group master is maintained in tree strcuture. This allows you to set pa
 
 #### Step 1: New Customer Group
 
-![Customer Group Tree](assets/manual_erpnext_com/old_images/erpnext/Customer-group-add.png)
+![Customer Group Tree](/assets/manual_erpnext_com/old_images/erpnext/Customer-group-add.png)
 
 If you click on parent Customer Group, you will see option to add Child Under it. All Customer Groups will be default parent group. You can add further parent or child Customer Groups in it.
 
@@ -29,8 +29,8 @@ If Group Node selected as Yes, then this Customer Group will be parent. If selec
 
 > Only child Customer Groups are selectable in the Customer master.
 
-![Customer Group Tree](assets/manual_erpnext_com/old_images/erpnext/Customer-group-form.png)
+![Customer Group Tree](/assets/manual_erpnext_com/old_images/erpnext/Customer-group-form.png)
 
 The new Customer Group will be added to the Customer Group Tree.
 
-![Customer Group Tree](assets/manual_erpnext_com/old_images/erpnext/Customer-group-new.png)
+![Customer Group Tree](/assets/manual_erpnext_com/old_images/erpnext/Customer-group-new.png)

@@ -13,7 +13,7 @@ a place from where you issue or transfer materials.
 
 #### Figure 1: Enter Purchase Return as Purpose
 
-![](assets/manual_erpnext_com/old_images/erpnext/purchase-return-5.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/purchase-return-5.png)  
 
   
 
@@ -21,14 +21,14 @@ __Step 2:__ Add New Row and Enter Item Code.
 
 #### Figure 2: Enter Item Code and Quantity  
 
-![](assets/manual_erpnext_com/old_images/erpnext/purchase-invoice-2.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/purchase-invoice-2.png)  
 
 __Step 3:__ Enter Accounting Information.  
 
   
 #### Figure 3: Enter Accounting Information
 
-![](assets/manual_erpnext_com/old_images/erpnext/purchase-return-3-3.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/purchase-return-3-3.png)  
 
   
 __Step 4:__ Save the Document and Submit it.  
@@ -40,7 +40,7 @@ Make a Debit Note and Save the Journal Voucher.
   
 #### Figure 4: Journal Entries details
 
-![](assets/manual_erpnext_com/old_images/erpnext/purchase-return-4-3.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/purchase-return-4-3.png)  
 
   
 

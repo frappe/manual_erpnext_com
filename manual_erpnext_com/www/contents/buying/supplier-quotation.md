@@ -8,7 +8,7 @@ You can make a supplier quotation from a Material Request
 
 #### Figure 1: Supplier Quotation Flow-Chart
 
-![Supplier Quotation](assets/manual_erpnext_com/old_images/erpnext/supplier-quotation-f.jpg)
+![Supplier Quotation](/assets/manual_erpnext_com/old_images/erpnext/supplier-quotation-f.jpg)
 
 You can also make a Supplier Quotation directly from:
 
@@ -16,7 +16,7 @@ You can also make a Supplier Quotation directly from:
 
 #### Figure 2: Create Supplier Quotation
 
-![Supplier Quotation](assets/manual_erpnext_com/old_images/erpnext/supplier-quotation.png)
+![Supplier Quotation](/assets/manual_erpnext_com/old_images/erpnext/supplier-quotation.png)
 
 If you have multiple Suppliers who supply you with the same Item, you
 usually send out a message (Request for Quote) to various Suppliers. In

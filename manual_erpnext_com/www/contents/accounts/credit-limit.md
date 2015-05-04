@@ -12,7 +12,7 @@ To set credit limit go to Customer- Master
 
   
 #### Figure 1: Credit Limit
-![](assets/manual_erpnext_com/old_images/erpnext/credit-limit-1.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/credit-limit-1.png)  
 
   
 
@@ -35,7 +35,7 @@ accept orders or raise credit limits of customers.
 
   
 #### Figure 2: Credit Controller
-![](assets/manual_erpnext_com/old_images/erpnext/credit-controller.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/credit-controller.png)  
 
   
 

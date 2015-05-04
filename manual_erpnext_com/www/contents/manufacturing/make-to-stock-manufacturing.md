@@ -19,7 +19,7 @@ Go to the Manufacturing Module to check your Production Order. Manually check
 the Production Order and submit the order. After submitting, click on the
 Action button, to get a drop-down list. Select Transfer Raw Material.  
 
-![](assets/manual_erpnext_com/old_images/erpnext/material-transfer-1.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/material-transfer-1.png)  
 
   
 

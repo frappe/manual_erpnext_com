@@ -10,7 +10,7 @@ You can make a Purchase Receipt directly from:
 
 or from a “Submitted” Purchase Order, by clicking on “Make Purchase Receipt”.
 
-![Purchase Receipt](assets/manual_erpnext_com/old_images/erpnext/purchase-receipt.png)
+![Purchase Receipt](/assets/manual_erpnext_com/old_images/erpnext/purchase-receipt.png)
 
 ### Rejections
 

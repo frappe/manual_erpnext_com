@@ -8,7 +8,7 @@ Orders and Purchase Invoices.
 > Buying > Setup > Purchase Taxes and Charges Master > New Purchase Taxes and Charges
 Master
 
-![Purchase-Taxes](assets/manual_erpnext_com/old_images/erpnext/purchase-taxes.png)
+![Purchase-Taxes](/assets/manual_erpnext_com/old_images/erpnext/purchase-taxes.png)
 
   
 

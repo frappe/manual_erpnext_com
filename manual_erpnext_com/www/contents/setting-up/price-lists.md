@@ -14,25 +14,25 @@ Step 1: Go to
 
 Step 2: Enter name of new Price List.
 
-![Price List Name](assets/manual_erpnext_com/old_images/erpnext/price-list-name.png)
+![Price List Name](/assets/manual_erpnext_com/old_images/erpnext/price-list-name.png)
 
 Step 3: Select Currency
 
 Select Currency for this Price List. Currency option in Price List allows you to maintain item's price in Currency other than your companies base currency.
 
-![Price List Currency](assets/manual_erpnext_com/old_images/erpnext/price-list-currency.png)	
+![Price List Currency](/assets/manual_erpnext_com/old_images/erpnext/price-list-currency.png)	
 
 Step 4: Select Buying and Selling
 
 Select for which transaction this Price List is application. Mostly it will be one of the Buying or Selling, however you can choose both as well.
 
-![Price List For](assets/manual_erpnext_com/old_images/erpnext/price-list-for.png)
+![Price List For](/assets/manual_erpnext_com/old_images/erpnext/price-list-for.png)
 
 Step 5: Select Territory
 
 Select Territory for which this Price List will be applicable.
 
-![Price List Terriory](assets/manual_erpnext_com/old_images/erpnext/price-list-territory.png)
+![Price List Terriory](/assets/manual_erpnext_com/old_images/erpnext/price-list-territory.png)
 
 Step 6: Save Price List.
 

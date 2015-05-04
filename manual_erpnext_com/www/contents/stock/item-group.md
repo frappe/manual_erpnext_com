@@ -9,5 +9,5 @@ You can also create your own Item groups .
 
 > Stock > Item Group
 
-![Item Group](assets/manual_erpnext_com/old_images/erpnext/item-group-tree.png)
+![Item Group](/assets/manual_erpnext_com/old_images/erpnext/item-group-tree.png)
 

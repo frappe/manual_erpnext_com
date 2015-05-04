@@ -17,7 +17,7 @@ ERPNext.
   * **Default Unit of Measure:** This is the default measuring unit that you will use for your product. It could be in nos, kgs, meters, etc. You can store all the UOM’s that your product will require under Set Up> Master Data > UOM. These can be preselected while filling New Item by using % sign to get a pop up of the UOM list. 
   * **Brand:** If you have more than one brand save them under Set Up> Master Data> Brand and pre-select them while filling a New Item.
 
-![Item Properties](assets/manual_erpnext_com/old_images/erpnext/item-properties.png)
+![Item Properties](/assets/manual_erpnext_com/old_images/erpnext/item-properties.png)
 
 ### Upload an Image
 
@@ -25,7 +25,7 @@ To upload an image for your icon that will appear in all transactions, save
 the partially filled form. Only after your file is saved a “+” button will
 appear besides the Image icon. Click on this sign and upload the image.
 
-![Item Properties](assets/manual_erpnext_com/old_images/erpnext/item-add-image.png)
+![Item Properties](/assets/manual_erpnext_com/old_images/erpnext/item-add-image.png)
 
 ### Inventory : Warehouse and Stock Setting
 
@@ -86,7 +86,7 @@ Length, Finish etc.
 
 ### Purchase Details
 
-![Purchase Details](assets/manual_erpnext_com/old_images/erpnext/item-purchase.png)
+![Purchase Details](/assets/manual_erpnext_com/old_images/erpnext/item-purchase.png)
 
 **Lead time days:** Lead time days are the number of days required for the Item to reach the warehouse.
 
@@ -96,7 +96,7 @@ Length, Finish etc.
 
 ### Sales Details
 
-![Sales Details](assets/manual_erpnext_com/old_images/erpnext/item-sales.png)
+![Sales Details](/assets/manual_erpnext_com/old_images/erpnext/item-sales.png)
 
 **Default Income Account:** Income account selected here will be fetched automatically in sales invoice for this item.
 
@@ -104,7 +104,7 @@ Length, Finish etc.
 
 ### Manufacturing And Website
 
-![Manufacturing](assets/manual_erpnext_com/old_images/erpnext/item-manufacturing-website.png)
+![Manufacturing](/assets/manual_erpnext_com/old_images/erpnext/item-manufacturing-website.png)
 
 Visit [Manufacturing](/contents/manufacturing) and [Website ](/contents/website)to understand these topics in detail.
 

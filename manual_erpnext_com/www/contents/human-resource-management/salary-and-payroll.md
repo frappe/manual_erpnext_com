@@ -44,7 +44,7 @@ To create a new Salary Structure go to:
 
 #### Figure 1:Salary Structure
 
-![Salary Structure](assets/manual_erpnext_com/old_images/erpnext/salary-structure.png)
+![Salary Structure](/assets/manual_erpnext_com/old_images/erpnext/salary-structure.png)
 
 ### In the Salary Structure,
 
@@ -76,7 +76,7 @@ Slip.
 
 #### Figure 2: Salary Slip
 
-![Salary Slip](assets/manual_erpnext_com/old_images/erpnext/salary-slip-1.png)
+![Salary Slip](/assets/manual_erpnext_com/old_images/erpnext/salary-slip-1.png)
 
   
 
@@ -86,7 +86,7 @@ Through Salary Manager:
 
 #### Figure 3: Salary Manager
 
-![Salary Manager](assets/manual_erpnext_com/old_images/erpnext/salary-manager.png)
+![Salary Manager](/assets/manual_erpnext_com/old_images/erpnext/salary-manager.png)
 
 In the Salary Manager tool,
 

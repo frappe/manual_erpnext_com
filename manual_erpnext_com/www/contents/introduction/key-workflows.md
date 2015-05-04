@@ -3,7 +3,7 @@
 This diagram covers how ERPNext tracks your company information across key
 functions. This diagram does not cover all the features of ERPNext.
 
-![](assets/manual_erpnext_com/old_images/erpnext/overview.png)
+![](/assets/manual_erpnext_com/old_images/erpnext/overview.png)
 
 
 [Full Resolution](/assets/manual_erpnext_com/old_images/erpnext/overview.png)

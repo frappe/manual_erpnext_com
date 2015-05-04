@@ -10,7 +10,7 @@ Depending on the payment terms, Purchase Invoice is  made either on Purchase Ord
 
 __Figure 1: Make Purchase Invoice__
 
-![Purchase Invoice](assets/manual_erpnext_com/old_images/erpnext/m-t-s-purchase-invoice.png)
+![Purchase Invoice](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-purchase-invoice.png)
 
 Payment Entry is done to book all accounting transactions in your system. It is an important step of Book Keeping.
 
@@ -26,7 +26,7 @@ Payment Entry is done after you click on the button Make Payment Entry. The entr
 
 __Figure 2: Make Payment Entry__
 
-![Payment Entry](assets/manual_erpnext_com/old_images/erpnext/m-t-s-payment-entry.png)
+![Payment Entry](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-payment-entry.png)
 
 In case for some reason, the account section is blank, it means that you have not selected your default bank account. If you wish that your bank account field is pre-filled you can click on the triangle button next to the Company and set the default master account.
 

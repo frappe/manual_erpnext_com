@@ -15,7 +15,7 @@ To create a new **Customer Issue**:
 
 > Support > Customer Issue > New Customer Issue
 
-![Customer Issue](assets/manual_erpnext_com/old_images/erpnext/customer-issue.png)
+![Customer Issue](/assets/manual_erpnext_com/old_images/erpnext/customer-issue.png)
 
 If a Customer visit is required to address the issue, you can create a new
 Maintenance Visit record from this.

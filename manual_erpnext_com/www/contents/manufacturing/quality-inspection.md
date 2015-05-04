@@ -7,14 +7,14 @@ Inspection. To enable ERPNext to perform this function, go to :
 
   
 
-![](assets/manual_erpnext_com/old_images/erpnext/quality-inspection.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/quality-inspection.png)  
 
   
 
 __Step 1:__ Mention Inspection Type and Item Details
 
 
-![](assets/manual_erpnext_com/old_images/erpnext/quality-inspection-2.png) 
+![](/assets/manual_erpnext_com/old_images/erpnext/quality-inspection-2.png) 
 
 
   
@@ -23,7 +23,7 @@ __Step 2:__ Enter Specification Details
 
   
 
-![](assets/manual_erpnext_com/old_images/erpnext/quality-inspection-3.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/quality-inspection-3.png)  
 
   
 

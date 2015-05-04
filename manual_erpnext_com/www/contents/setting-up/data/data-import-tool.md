@@ -30,12 +30,12 @@ Item can have multiple prices, An Invoice has multiple Items and so on.
 After downloading the template, open it in a spreadsheet application and fill
 in the data below the column headings.
 
-![Spreadsheet](assets/manual_erpnext_com/old_images/erpnext/import-3.png)
+![Spreadsheet](/assets/manual_erpnext_com/old_images/erpnext/import-3.png)
 
 Then export your template or save it as a **Comma Separated Values** (CSV)
 file.
 
-![Spreadsheet](assets/manual_erpnext_com/old_images/erpnext/import-4.png)
+![Spreadsheet](/assets/manual_erpnext_com/old_images/erpnext/import-4.png)
 
 ### 3\. Upload the .csv File
 

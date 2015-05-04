@@ -12,7 +12,7 @@ by:
 
 #### Figure 1: Create Production Order
 
-![Production Order](assets/manual_erpnext_com/old_images/erpnext/production-order.png)
+![Production Order](/assets/manual_erpnext_com/old_images/erpnext/production-order.png)
 
   * Select the Item to be produced (must have a Bill of Materials).
   * Select the BOM
@@ -27,7 +27,7 @@ Once you “Submit”, you will see two more buttons:
 
 #### Figure 2: Submit Production Order
 
-![Production Order](assets/manual_erpnext_com/old_images/erpnext/production-order-2.png)
+![Production Order](/assets/manual_erpnext_com/old_images/erpnext/production-order-2.png)
 
   1. On Submitting the Production Order, the system will reserve a slot for each of the Production Order Operations serially after the planned start date based on the workstation availability. The Workstation availability depends on the Workstation timings, holiday list and if some other Production Order Operation was scheduled in that slot. You can mention the number of days for the system to try scheduling the operations in the Manufacturing Settings. This is set to 30 Days by default. If the operation requires time exceeding the available slot, system shall ask you to break the operations. Once the scheduling is done system shall create Time Logs and save them. You can Modify them and submit them later.
   2. You can also create additional time logs against an Operation. For doing so select the respective operation and click on 'Make Time Log'

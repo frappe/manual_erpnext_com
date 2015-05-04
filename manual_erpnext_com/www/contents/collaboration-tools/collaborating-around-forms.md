@@ -4,7 +4,7 @@ You can email any transaction from the system by clicking on the â€œAssigned toâ
 button in the right sidebar. A log of all your sent emails will be maintained
 in Communication.
 
-![Forms](assets/manual_erpnext_com/old_images/erpnext/forms.png)
+![Forms](/assets/manual_erpnext_com/old_images/erpnext/forms.png)
 
 ### Comments
 

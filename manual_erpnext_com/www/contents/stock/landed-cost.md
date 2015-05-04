@@ -9,7 +9,7 @@ According to the [Third-Party Logistics Study](http://www.3plstudy.com/), only 4
 ### Landed Cost via Purchase Receipt
 
 In ERPNext, you can add landed cost related charges in “Taxes and Charges” table while creating Purchase Receipt (PR). You should add those charges for “Total and Valuation” or “Valuation”. Charges which are payable to the same supplier from whom you are buying the items, should be tagged as “Total and Valuation”. Otherwise if applicable charges are payable to a 3rd party, it should be tagged as “Valuation”. On submission of PR, system will calculate landed cost of all items, considering those charges and that landed cost will be considered to calculate item’s valuation rate (based on FIFO / Moving Average method). To know more about purchase taxes and charges, refer [ERPNext Guide](https://erpnext.com/buying/purchase-taxes).
-![Purchase Receipt Taxes and Charges](assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_taxes_and_charges.png)
+![Purchase Receipt Taxes and Charges](/assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_taxes_and_charges.png)
 
 
 But in reality, while making Purchase Receipt we might not know all the charges which are applicable for landed cost. Your transporter can send the invoice after 1 month, but there is no point in waiting for booking Purchase Receipt till then. Companies who imports their products / parts, pays a huge amount as Customs Duty. And generally they get invoices from Customs Department after a period of time. In these cases, “Landed Cost Voucher” becomes handy, as it allows you to add those additional charges on a later date, and to update landed cost of purchased items.
@@ -22,13 +22,13 @@ You can update landed cost any time in the future via Landed Cost Voucher.
 
 In the document, you can select multiple Purchase Receipts and fetch all items from those Purchase Receipts. Then you should add applicable charges in “Taxes and Charges” table. You can easily delete an item if the added charges is not applicable to that item. The added charges are proportionately distributed among all the items based their amount.
 
-![Landed Cost Voucher](assets/manual_erpnext_com/old_images/erpnext/landed_cost_voucher.png)
+![Landed Cost Voucher](/assets/manual_erpnext_com/old_images/erpnext/landed_cost_voucher.png)
 
 
 ### What happend on submission?
 
-1. On submission of Landed Cost Voucher, the applicable landed cost charges are updated in Purchase Receipt Item table.![Purchase Receipt Landed Cost Voucher Amount](assets/manual_erpnext_com/old_images/erpnext/pr_landed_cost_voucher_amount.png)
+1. On submission of Landed Cost Voucher, the applicable landed cost charges are updated in Purchase Receipt Item table.![Purchase Receipt Landed Cost Voucher Amount](/assets/manual_erpnext_com/old_images/erpnext/pr_landed_cost_voucher_amount.png)
 
-2. Valuation Rate of items are recalculated based on new landed cost. Read more about valuation at [Item Valuation FIFO and Moving Average](/contents/stock/item-valuation-fifo-and-moving-average).![Purchase Receipt Stock Ledger Entries](assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_stock_ledger_entries.png)
+2. Valuation Rate of items are recalculated based on new landed cost. Read more about valuation at [Item Valuation FIFO and Moving Average](/contents/stock/item-valuation-fifo-and-moving-average).![Purchase Receipt Stock Ledger Entries](/assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_stock_ledger_entries.png)
 
-3. If you are using “Perpetual Inventory”, the system will post general ledger entries to correct Stock-in-Hand balance. It will debit (increase) corresponding “warehouse account” and credit (decrease) “Expense Included in Valuation” account. If items are already delivered, the Cost-of-Goods-Sold (CoGS) value has been booked as per old valuation rate. Hence, general ledger entries are reposted for all future outgoing entries of associated items, to correct CoGS value.![Purchase Receipt GL Entries](assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_gl_entries.png)
+3. If you are using “Perpetual Inventory”, the system will post general ledger entries to correct Stock-in-Hand balance. It will debit (increase) corresponding “warehouse account” and credit (decrease) “Expense Included in Valuation” account. If items are already delivered, the Cost-of-Goods-Sold (CoGS) value has been booked as per old valuation rate. Hence, general ledger entries are reposted for all future outgoing entries of associated items, to correct CoGS value.![Purchase Receipt GL Entries](/assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_gl_entries.png)

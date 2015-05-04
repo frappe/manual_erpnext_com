@@ -14,17 +14,17 @@ To add/edit Sales Person, go to:
 
 A Sales Person Group called "Sales Team" will be created by default. You can click in it to find option to insert new parent and child Sales Person records. Sales Person master will be saved with the name of Sales Person.
 
-![Sales Person Add](assets/manual_erpnext_com/old_images/erpnext/sales-person-add.png)
+![Sales Person Add](/assets/manual_erpnext_com/old_images/erpnext/sales-person-add.png)
 
 In Group Node field, selecting "Yes" will set that Sales Person master a parent. You will be able to create further group and child Sales Persons under it.
 
 If Group Node is updated as "No", it will be added as child Sales Person which you will be able to select in the sales transactions.
 
-![Sales Person New](assets/manual_erpnext_com/old_images/erpnext/sales-person-new.png)
+![Sales Person New](/assets/manual_erpnext_com/old_images/erpnext/sales-person-new.png)
 
 While creating new Sales Person, it will ask for Employee if that Sales Person. Hence you should ensure that Employee ID is created for each Sales Person, or for each employee for that matter. This approach allows you to link Sales Person with Employee, and ensures no duplicate Sales Person records is created for any sales person.
 
-![Sales Person Employee](assets/manual_erpnext_com/old_images/erpnext/sales-person-employee.png)
+![Sales Person Employee](/assets/manual_erpnext_com/old_images/erpnext/sales-person-employee.png)
 
 ####Sales Person in Transactions
 

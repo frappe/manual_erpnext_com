@@ -11,7 +11,7 @@ To create a new Quotation go to:
 
   
 
-![Quotation](assets/manual_erpnext_com/old_images/erpnext/quotation.png)
+![Quotation](/assets/manual_erpnext_com/old_images/erpnext/quotation.png)
 
   
 
@@ -19,13 +19,13 @@ To create a new Quotation go to:
 
   
 
-![Quotation](assets/manual_erpnext_com/old_images/erpnext/quotation-1.png)
+![Quotation](/assets/manual_erpnext_com/old_images/erpnext/quotation-1.png)
 
 #### Step 3: Enter Item and Tax Details.
 
   
 
-![Quotation](assets/manual_erpnext_com/old_images/erpnext/quotation-2.png)
+![Quotation](/assets/manual_erpnext_com/old_images/erpnext/quotation-2.png)
 
 A Quotation contains details about:
 

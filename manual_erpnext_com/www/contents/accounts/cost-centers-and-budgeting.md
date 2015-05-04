@@ -35,7 +35,7 @@ To setup your Chart of Cost Centers go to:
 
 > Accounts > Setup > Chart of Cost Centers
 
-![Chart of Cost Center](assets/manual_erpnext_com/old_images/erpnext/chart-of-cost-centers.png)
+![Chart of Cost Center](/assets/manual_erpnext_com/old_images/erpnext/chart-of-cost-centers.png)
 
 Cost centers help you in one more activity, budgeting.
 
@@ -56,7 +56,7 @@ define a budget distribution that the budget will follow.
 
 > Accounts > Setup > Budget Distribution > New Budget Distribution
 
-![Budget Distribution](assets/manual_erpnext_com/old_images/erpnext/budgeting.png)
+![Budget Distribution](/assets/manual_erpnext_com/old_images/erpnext/budgeting.png)
 
 ￼
 

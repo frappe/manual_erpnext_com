@@ -5,7 +5,7 @@ You can create a new Supplier via:
 
 > Buying > Documents > Supplier > New Supplier
 
-![Supplier](assets/manual_erpnext_com/old_images/erpnext/supplier.png)
+![Supplier](/assets/manual_erpnext_com/old_images/erpnext/supplier.png)
 
 ### Contacts and Addresses
 
@@ -34,7 +34,7 @@ value and “Save” the Supplier again.
 
 > Buying > Contact > New Contact
 
-![Contact](assets/manual_erpnext_com/old_images/erpnext/contact.png)
+![Contact](/assets/manual_erpnext_com/old_images/erpnext/contact.png)
 
 You can also import from the Data Import Tool
 

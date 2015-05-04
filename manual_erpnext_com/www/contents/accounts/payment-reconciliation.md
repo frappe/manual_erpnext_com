@@ -25,7 +25,7 @@ Invoice or Journal Voucher.
 
 #### Figure 1: Payment Reconciliation.
 
-![](assets/manual_erpnext_com/old_images/erpnext/payment-reconciliation-1.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/payment-reconciliation-1.png)  
 
   
 

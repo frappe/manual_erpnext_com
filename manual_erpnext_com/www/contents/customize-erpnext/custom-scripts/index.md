@@ -4,7 +4,7 @@ Lead form, you can do so by creating your own script.
 
 > Setup > Customization > Custom Script
 
-![Custom Script](assets/manual_erpnext_com/old_images/erpnext/custom-script.png)
+![Custom Script](/assets/manual_erpnext_com/old_images/erpnext/custom-script.png)
 
 ### Topics
 

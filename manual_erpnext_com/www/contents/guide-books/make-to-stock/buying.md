@@ -16,7 +16,7 @@ Make Purchase Order. Enter the rate and quantity in this form and save it. After
 
 #### Figure 1: Make Purchase Order
 
-![Purchase Order](assets/manual_erpnext_com/old_images/erpnext/m-t-s-purchase-order.png)
+![Purchase Order](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-purchase-order.png)
 
 ### Purchase Receipt
 
@@ -27,7 +27,7 @@ A Purchase receipt is a printed record that is given when a purchase has been ma
 
 After submitting the Purchase Order, make Purchase Receipt either through the Stock module or by clicking on the right hand corner button of the Purchase Order. The Action button will give an option to make Purchase Receipt.
 
-![Purchase Receipt](assets/manual_erpnext_com/old_images/erpnext/m-t-s-purchase-receipt.png)
+![Purchase Receipt](/assets/manual_erpnext_com/old_images/erpnext/m-t-s-purchase-receipt.png)
 
 > Note that only when the Purchase Receipt is submitted, the Stock balance is updated. To see the Stock balance go to the Stock module and select the Stock Balance Report from the Reports section.
 

@@ -7,7 +7,7 @@ To create a Journal Voucher go to:
 
 > Accounts > Documents > Journal Voucher > New Journal Voucher
 
-![Journal Voucher](assets/manual_erpnext_com/old_images/erpnext/journal-voucher.png)
+![Journal Voucher](/assets/manual_erpnext_com/old_images/erpnext/journal-voucher.png)
 
 In a Journal Voucher, you must select.
 

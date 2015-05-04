@@ -19,11 +19,11 @@ In ERPNext after making all the special entries via Journal Voucher for the curr
 
 **Closing Fiscal Year** will be an year for which you are closing your financial statement.
 
-![Period Closing Dates](assets/manual_erpnext_com/old_images/erpnext/period-closing-dates.png)
+![Period Closing Dates](/assets/manual_erpnext_com/old_images/erpnext/period-closing-dates.png)
 
 This voucher will transfer Profit or Loss (availed from P&L statment) to Closing Account Head. You should select a libility account like Reserves and Surplus, or Capital Fund account as Closing Account.
 
-![Period Closing](assets/manual_erpnext_com/old_images/erpnext/period-closing-voucher.png)
+![Period Closing](/assets/manual_erpnext_com/old_images/erpnext/period-closing-voucher.png)
 
 The Period Closing Voucher will make accounting entries (GL Entry) making all your Income and Expense Accounts zero and transferring Profit/Loss balance to the Closing Account.
 

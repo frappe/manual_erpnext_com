@@ -15,7 +15,7 @@ sales orders.
   
 #### Figure 1: Make-to-Order Flow-Chart
 
-![](assets/manual_erpnext_com/old_images/erpnext/Make-to-order.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/Make-to-order.png)  
 
 In ERPNext, to follow Make-To-Order type of manufacturing, you can make
 Production Orders directly from Sales Orders or from Production Planning Tool
@@ -28,7 +28,7 @@ Action button, to get a drop-down list. Select Transfer Raw Material.
   
 #### Figure 2: Material Transfer
 
-![](assets/manual_erpnext_com/old_images/erpnext/material-transfer-1.png)  
+![](/assets/manual_erpnext_com/old_images/erpnext/material-transfer-1.png)  
 
   
 

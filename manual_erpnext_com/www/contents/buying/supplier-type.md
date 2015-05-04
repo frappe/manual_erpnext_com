@@ -14,7 +14,7 @@ You can create your own category of Supplier Type.
 
 > Buying > Setup > Supplier Type > New Supplier Type
 
-![Buying](assets/manual_erpnext_com/old_images/erpnext/supplier-type.png)
+![Buying](/assets/manual_erpnext_com/old_images/erpnext/supplier-type.png)
 
 You can classify your suppliers from a range of choice available in ERPNext.
 Choose from a set of given options like Distributor, Electrical,Hardware,
