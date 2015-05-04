@@ -7,7 +7,7 @@ implementation should happen in two phases.
 ### Test Phase
 
   * Read the Manual
-  * Create a free trial at [https://erpnext.com](https://erpnext.com) (the easiest way to experiment).
+  * Create a free account at [https://erpnext.com](https://erpnext.com) (the easiest way to experiment).
   * Create your first Customer, Supplier and Item. Add a few more so you get familiar with them.
   * Create Customer Groups, Item Groups, Warehouses, Supplier Groups, so that you can classify your Items.
   * Complete a standard sales cycle - Lead > Opportunity > Quotation > Sales Order > Delivery Note > Sales Invoice > Payment (Journal Voucher)
