@@ -7,11 +7,11 @@ queries via email. For example, you can send support queries to ERPNext at
 support@erpnext.com and it will automatically create a Issue in the
 Frappe system.
 
-  
+
 
 > Support > Issue > New Issue
 
-![Issue](assets/manual_erpnext_com/old_images/erpnext/support-ticket.png)
+![Issue](/assets/manual_erpnext_com/old_images/erpnext/support-ticket.png)
 
 #### Discussion Thread
 
