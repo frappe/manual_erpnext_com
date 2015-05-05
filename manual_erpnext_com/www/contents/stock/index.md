@@ -7,8 +7,8 @@ worth is invested in the stock in hand.
 
 There are three main types of entries:
 
-  * Purchase Receipt: Items received from Suppliers against Purchase Orders. 
-  * Stock Entry: Items transferred from one Warehouse to another. 
+  * Purchase Receipt: Items received from Suppliers against Purchase Orders.
+  * Stock Entry: Items transferred from one Warehouse to another.
   * Delivery Note: Items shipped to Customers.
 
 #### How does ERPNext track stock movement / levels?

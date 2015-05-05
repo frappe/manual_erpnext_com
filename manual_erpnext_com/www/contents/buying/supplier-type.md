@@ -25,3 +25,4 @@ payments.
 
 Type your new supplier category and Save.
 
+{next}

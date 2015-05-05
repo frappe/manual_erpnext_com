@@ -11,3 +11,4 @@ To add more territories to an existing tree, click on "Add Child"
 
 ![Territory Tree](/assets/manual_erpnext_com/old_images/erpnext/territory-tree-1.png)
 
+{next}

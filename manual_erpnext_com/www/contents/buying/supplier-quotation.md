@@ -30,3 +30,4 @@ Supplier Quotations are not necessary for most small businesses. Always
 evaluate the cost of collecting information to the value it really provides!
 You could only do this for high value items.
 
+{next}

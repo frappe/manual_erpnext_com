@@ -49,3 +49,5 @@ If Sales User tries submitting Sales Order of value higher than 10000, then he w
 ![Auth Validation](/assets/manual_erpnext_com/old_images/erpnext/auth-validation.png)
 
 >If you wish to restrict Sales User from submitting Sales Orders, then instead of creating Authorization Rule, you should remove submit previledge from Role Permission Manager for Sales User.
+
+{next}

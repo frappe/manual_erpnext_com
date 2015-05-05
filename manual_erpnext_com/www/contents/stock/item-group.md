@@ -11,3 +11,4 @@ You can also create your own Item groups .
 
 ![Item Group](/assets/manual_erpnext_com/old_images/erpnext/item-group-tree.png)
 
+{next}

@@ -1,3 +1,5 @@
+# BOM Replace Tool
+
 Replace BOM is the utility to replace BOM of sub-assembly item, which is already updated in the BOM of Finished Good item.
 
 Let's consider a scenario to understand this better.
@@ -34,3 +36,5 @@ In this tool, you should select Current BOM, and New BOM. On clicking Replace bu
 **Will BOM Replace Tool work for replacing finsihed item in BOM?**
 
 No. You should Cancel and Amend current BOM, or create a new BOM for finished item.
+
+{next}

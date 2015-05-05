@@ -63,3 +63,4 @@ status and convert to Approved or Rejected.
 
 ![Workflow Leave Approver](/assets/manual_erpnext_com/old_images/erpnext/workflow-leave-approver-la.png)
 
+{next}

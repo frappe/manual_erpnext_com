@@ -14,3 +14,4 @@ send the email to all the intended receipients by clicking on the send button.
 
 ![Newsletter](/assets/manual_erpnext_com/old_images/erpnext/newsletter.png)
 
+{next}

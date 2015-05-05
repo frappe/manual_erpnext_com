@@ -2,7 +2,7 @@ You can set some basic styles to your page using the styles feature.
 
 #### Background
 
-￼ You can either set a solid background by selecting a color. You can attach a
+You can either set a solid background by selecting a color. You can attach a
 file and select it in the “Background Image” box.
 
 #### Fonts
@@ -20,3 +20,4 @@ But you could add your own style to certain elements like h1, h2 etc and also
 create your own style classes that you can use in elements in your body
 content.
 
+{next}

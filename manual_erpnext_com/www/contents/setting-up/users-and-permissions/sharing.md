@@ -6,3 +6,4 @@ To share a document, open the document, click on the "+" icon under sharing and 
 
 <img class="screenshot" src="/assets/manual_erpnext_com/img/setup/users/share.gif">
 
+{next}

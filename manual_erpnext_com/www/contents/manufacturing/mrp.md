@@ -1,4 +1,4 @@
-### Material Requirements Planning (MRP):
+# Material Requirements Planning (MRP)
 
 The earliest ERP systems were made for manufacturing. The earliest adopters
 were automobile companies who had thousands of raw materials and sub-
@@ -14,3 +14,5 @@ was added as a function and is now an integral part of ERP systems.
 These days the term ERP is used to describe systems that help manage any kind
 of organization like education institutes (Education ERP) or Hospitals
 (Hospital ERP) and so on.
+
+{next}

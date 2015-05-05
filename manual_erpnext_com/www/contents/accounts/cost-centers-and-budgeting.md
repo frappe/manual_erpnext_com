@@ -1,7 +1,7 @@
 Your Chart of Accounts is mainly designed to provide reports to the government
-and tax authorities. ￼ Most businesses have multiple activities like different
+and tax authorities. Most businesses have multiple activities like different
 product lines, market segments, areas of business, etc that share some common
-overheads.They should ideally have their own structure to report, whether they
+overheads. They should ideally have their own structure to report, whether they
 are profitable or not. For this purpose, there is an alternate structure,
 called the Chart of Cost Centers.
 
@@ -58,8 +58,6 @@ define a budget distribution that the budget will follow.
 
 ![Budget Distribution](/assets/manual_erpnext_com/old_images/erpnext/budgeting.png)
 
-￼
-
 #### Budget Actions
 
 ERPNext allows you to either:
@@ -80,3 +78,4 @@ Center. For example if you have a Cost Center “Online Sales”, you can restri
 “Advertising Budget” by creating a row with that Account and defining the
 amount.
 
+{next}

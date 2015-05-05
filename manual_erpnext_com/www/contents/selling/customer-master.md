@@ -16,7 +16,7 @@ have multiple Contacts and Addresses.
 
 ### Contacts and Addresses
 
-￼ Contacts and Addresses in ERPNext are stored separately so that you can
+Contacts and Addresses in ERPNext are stored separately so that you can
 attach multiple Contacts or Addresses to Customers and Suppliers.
 
 To add a Contact or Address directly from the Customer record, click on “New
@@ -68,7 +68,7 @@ based on your domain).
 
 > Tip: If you think all this is too much effort, you can leave it at “Default
 Customer Group”. But all this effort, will pay off when you start getting
-reports. ￼ An example of a sample report is given below:
+reports. An example of a sample report is given below:
 
 ![Sales Analytics](/assets/manual_erpnext_com/old_images/erpnext/sales-analytics-customer.png)
 
@@ -97,3 +97,4 @@ Partner.
 If you sell to your Sales Partner who in-turn sells it to the Customer, then
 you must make a Customer instead.
 
+{next}

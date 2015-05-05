@@ -22,3 +22,4 @@ Then in the Sales Invoice Custom Script, add this line:
 
 See: [How to create a custom script](/contents/customize-erpnext/custom-scripts)
 
+{next}

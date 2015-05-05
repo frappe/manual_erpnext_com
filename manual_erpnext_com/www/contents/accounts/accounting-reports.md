@@ -42,3 +42,4 @@ based on the Taxes and Charges table.
 
 ![Query Report Sales Register](/assets/manual_erpnext_com/old_images/erpnext/query-report-sales-register.png)
 
+{next}

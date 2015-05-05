@@ -26,3 +26,5 @@ In the Taxes and Other Charges master, tax rate will be updated as ZERO. It mean
 Based on the above setting, you will have taxes applied on items as mentioned in the respective item master. Check following for an instance.
 
 ![item wise tax calculation](/assets/manual_erpnext_com/old_images/erpnext/item-wise-tax-calc.png)
+
+{next}

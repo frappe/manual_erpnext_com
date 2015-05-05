@@ -38,3 +38,4 @@ on the cart to get the final amount details.
 
 ![Shopping Cart](/assets/manual_erpnext_com/old_images/erpnext/shopping-cart-display-amount.png)
 
+{next}

@@ -19,3 +19,4 @@ conversation.
 
 ![Reply Issue](/assets/manual_erpnext_com/old_images/erpnext/portal-ticket-reply.png)
 
+{next}

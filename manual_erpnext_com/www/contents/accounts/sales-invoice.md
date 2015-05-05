@@ -71,3 +71,4 @@ ERPNext) titled as “Pro Forma Invoice”. This way everyone is happy.
 
 This is a fairly common practice. We follow this at Frappe too.
 
+{next}

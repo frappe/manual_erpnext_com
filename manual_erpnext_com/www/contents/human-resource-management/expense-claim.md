@@ -36,3 +36,4 @@ because the amount will then be taxable to the Employee.
 
 <img class="screenshot" alt="Time Log" src="/assets/manual_erpnext_com/img/project/project_expense_claim_link.png">
 
+{next}

@@ -9,3 +9,4 @@ then the document has never been saved.
         frm.set_df_property("myfield", "read_only", frm.doc.__islocal ? 0 : 1);
     }
 
+{next}

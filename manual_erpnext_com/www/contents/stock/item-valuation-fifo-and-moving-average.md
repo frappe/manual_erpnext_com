@@ -25,3 +25,4 @@ There are two major ways in which ERPNext values your items.
 
 > New Value X2 = (X * Y + X1 * Y1) / (Y + Y1)
 
+{next}

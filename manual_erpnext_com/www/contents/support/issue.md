@@ -44,3 +44,4 @@ You can allocate the Issue by using the “Assign To” feature in the
 right sidebar. This will add a new To Do to the user and also send a message
 indicating that this Issue is allocated.
 
+{next}

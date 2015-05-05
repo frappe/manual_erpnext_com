@@ -11,4 +11,4 @@ under Purpose. Provide Source Warehouse details. Provide the BOM Number. Save
 
 > Note: If you have no stock for an Item and if you select “Material Issue” under Purpose, the stock will reflect as negative. 
 
-
+{next}

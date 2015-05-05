@@ -34,3 +34,5 @@ If Group Node selected as Yes, then this Customer Group will be parent. If selec
 The new Customer Group will be added to the Customer Group Tree.
 
 ![Customer Group Tree](/assets/manual_erpnext_com/old_images/erpnext/Customer-group-new.png)
+
+{next}

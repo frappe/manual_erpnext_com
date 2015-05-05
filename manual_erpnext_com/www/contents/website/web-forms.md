@@ -34,3 +34,5 @@ Once you create the web form, you can view it on the url and test it out!
 Your data will be stored in the table you have selected
 
 ![View Data](/assets/manual_erpnext_com/old_images/erpnext/website/web-form-event.png)
+
+{next}

@@ -27,3 +27,4 @@ the documents within that module. For example, if a user has no permissions on
 Purchase Order, Purchase Request, Supplier, the “Buying” module will
 automatically be hidden.
 
+{next}

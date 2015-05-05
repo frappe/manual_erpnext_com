@@ -420,3 +420,4 @@ How quantity is measured for an Item. For example (Kg, No, Pair, Packet) etc.
 
 > Stock > Setup > UOM
 
+{next}

@@ -19,3 +19,4 @@ submitted, the customer can see the updated status on the portal, at a glance.
 
 ![Billed Invoice](/assets/manual_erpnext_com/old_images/erpnext/portal-order-billed.png)
 
+{next}

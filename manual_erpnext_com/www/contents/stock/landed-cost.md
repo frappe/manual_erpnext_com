@@ -32,3 +32,5 @@ In the document, you can select multiple Purchase Receipts and fetch all items f
 2. Valuation Rate of items are recalculated based on new landed cost. Read more about valuation at [Item Valuation FIFO and Moving Average](/contents/stock/item-valuation-fifo-and-moving-average).![Purchase Receipt Stock Ledger Entries](/assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_stock_ledger_entries.png)
 
 3. If you are using “Perpetual Inventory”, the system will post general ledger entries to correct Stock-in-Hand balance. It will debit (increase) corresponding “warehouse account” and credit (decrease) “Expense Included in Valuation” account. If items are already delivered, the Cost-of-Goods-Sold (CoGS) value has been booked as per old valuation rate. Hence, general ledger entries are reposted for all future outgoing entries of associated items, to correct CoGS value.![Purchase Receipt GL Entries](/assets/manual_erpnext_com/old_images/erpnext/purchase_receipt_gl_entries.png)
+
+{next}

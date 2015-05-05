@@ -20,3 +20,5 @@ To go to Payment Tool, click on Accounts > Tools > Payment Tool.
 8. Click on 'Make Journal Voucher' to generate a new Journal Voucher with the relevant Party Details and Credit/Debit details filled in.
 
 	![Payment Tool - Get Outstanding Vouchers](/assets/manual_erpnext_com/old_images/erpnext/payment_tool_make_jv.png)
+	
+{next}

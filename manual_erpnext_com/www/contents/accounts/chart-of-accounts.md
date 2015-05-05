@@ -31,7 +31,7 @@ To edit your Chart of Accounts in ERPNext go to:
 Chart of Accounts is a tree view of the names of the Accounts (Ledgers and
 Groups) that a Company requires to manage its books of accounts. ERPNext sets
 up a simple chart of accounts for each Company you create, but you have to
-modify it according to your needs and legal requirements. ￼ For each company,
+modify it according to your needs and legal requirements. For each company,
 Chart of Accounts signifies the way to classify the accounting entries, mostly
 based on statutory (tax, compliance to government regulations) requirements.
 
@@ -128,3 +128,4 @@ Typically, you might want to create Accounts for
   * Types of Sales (for example, Product Sales, Service Sales etc.) under Income.
   * Types of Assets (building, machinery, furniture etc.) under Fixed Assets.
 
+{next}

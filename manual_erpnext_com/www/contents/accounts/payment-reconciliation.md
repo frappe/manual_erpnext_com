@@ -48,4 +48,4 @@ You will get a message that says 'Amount allocated successfully'
 __Step 6:__ Click again on 'Pull Payment Entries' to refresh the tables with
 filters.
 
-  
+{next}

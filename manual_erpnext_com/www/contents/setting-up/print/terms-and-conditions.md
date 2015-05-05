@@ -21,3 +21,5 @@ This also allows you to use Terms and Condition master for footer, which otherwi
 In transactions, you will find section of Terms and Condition where you will be able to search and fetched required Terms and Condition master.
 
 <img class="screenshot" alt="Terms and Conditions, Select in document" src="/assets/manual_erpnext_com/img/setup/print/terms-3.png">
+
+{next}

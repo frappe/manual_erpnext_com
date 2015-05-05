@@ -73,3 +73,5 @@ You can set propeties as:
 ####Deleting Custom Field
 
 Given a permission, user will be able to delete Custom Fields. Incase, it was deleted by default, if you add another Custom Field with same name. Then you shall see new field auto-mapped with old-deleted Custom Field.
+
+{next}

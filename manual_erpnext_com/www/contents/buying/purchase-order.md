@@ -11,7 +11,7 @@ Supplier Quotation.
 
 In ERPNext, you can also make a Purchase Order directly by going to:
 
-> Buying > Documents > Purchase Order > New Purchase Order ￼
+> Buying > Documents > Purchase Order > New Purchase Order
 
 #### Figure 2: Create Purchase Order
 
@@ -20,7 +20,7 @@ In ERPNext, you can also make a Purchase Order directly by going to:
 Entering a Purchase Order is very similar to a Purchase Request, additionally
 you will have to set:
 
-  * Supplier. 
+  * Supplier.
   * A “Required By” date on each Item: If you are expecting part delivery, your Supplier will know how much quantity to deliver at which date. This will help you from preventing over-supply. It will also help you to track how well your Supplier is doing on timeliness.
 
 ### Taxes
@@ -83,3 +83,4 @@ __Step 5:__  Notice that the stock quantity will be updated accordingly.
 __Step 6:__ Save and Submit the Form.
 
   
+{next}

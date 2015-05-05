@@ -11,4 +11,4 @@ functions. This diagram does not cover all the features of ERPNext.
 _Note: Not all of the steps are mandatory. ERPNext allows you to freely skip
 steps if you want to simplify the process._
 
-[The Setup Wizard](/contents/setting-up/setup-wizard)
+{next}

@@ -1,4 +1,4 @@
-Now ￼that you have completed most of the setup, its time to start moving in!
+Now that you have completed most of the setup, its time to start moving in!
 
 There are two important sets of data you need to enter before you start your
 operations.
@@ -90,3 +90,5 @@ in the Invoice. Item code in the Invoice is not necessary, so it should not be
 such a problem.
 
 Once all your invoices are entered, your **Temperory Opening** account will have a balance of zero!
+
+{next}

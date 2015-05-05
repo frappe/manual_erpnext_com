@@ -17,3 +17,5 @@ To make Note accessible for all, check "Public" under links section. If specific
 ![Note Permission](/assets/manual_erpnext_com/old_images/erpnext/note-permission.png)
 
 <div class=well>Notes can also be used as a knowledge base internally. You can also attach file in the Notes, and make it accessible to specific set of users only.</div>
+
+{next}

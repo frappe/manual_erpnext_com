@@ -39,3 +39,5 @@ Step 6: Save Price List.
 These Price List will be used when creating Item Price record to track selling or buying price of an item. Click here to learn more about Item Price.
 
 To disable specific Price List, uncheck Enabled field in it. Disabled Price List will not be availale for selection in the Sales and Purchase transactions.
+
+{next}

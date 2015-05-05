@@ -31,7 +31,7 @@ Once you “Submit”, you will see two more buttons:
 
   1. On Submitting the Production Order, the system will reserve a slot for each of the Production Order Operations serially after the planned start date based on the workstation availability. The Workstation availability depends on the Workstation timings, holiday list and if some other Production Order Operation was scheduled in that slot. You can mention the number of days for the system to try scheduling the operations in the Manufacturing Settings. This is set to 30 Days by default. If the operation requires time exceeding the available slot, system shall ask you to break the operations. Once the scheduling is done system shall create Time Logs and save them. You can Modify them and submit them later.
   2. You can also create additional time logs against an Operation. For doing so select the respective operation and click on 'Make Time Log'
-  3. Transfer Raw Material: This will create a Stock Entry with all the Items required to complete this Production Order to be added to the WIP Warehouse. (this will add sub-Items with BOM as one Item or explode their children based on your setting above). 
+  3. Transfer Raw Material: This will create a Stock Entry with all the Items required to complete this Production Order to be added to the WIP Warehouse. (this will add sub-Items with BOM as one Item or explode their children based on your setting above).
   4. Update Finished Goods: This will create a Stock Entry that will deduct all the sub-Items from the WIP Warehouse and add them to the Finished Goods Warehouse.
   5. To check all Time Logs made against the Production Order click on 'Show Time Logs'
 
@@ -42,3 +42,5 @@ When you Update Finished Goods to the Finished Goods Warehouse, the “Produced
 Quantity” will be updated in the Production Order.
 
 > Note : In order to make a Production Order against an Item you must specify 'Yes' to "Allow Production Order" on the Item form.
+
+{next}

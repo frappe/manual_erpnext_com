@@ -41,3 +41,4 @@ account and Items' income account.
 
 ![Sales Return](/assets/manual_erpnext_com/old_images/erpnext/sales-return-4.png)
 
+{next}

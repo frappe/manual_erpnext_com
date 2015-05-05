@@ -50,3 +50,4 @@ set `app_key` as `dropbox_access_key` and `app_secret` as `dropbox_secret_key`
 
 > Note: Please ensure Allow Pop-ups are enabled in your browser.
 
+{next}

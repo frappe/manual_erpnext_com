@@ -96,3 +96,4 @@ the “Price List Rate” on the right is the “Basic Rate”. You can add a
 “Discount” value to update the basic rate. To understand more about discount
 read [Discount.](http://erpnext.org/discount)
 
+{next}

@@ -29,3 +29,4 @@ The system will update Stock Entry accordingly. Once the Material is
 transferred update finished goods by clicking on the Action button. Select the
 option 'Update Finished Goods'. Save and Submit the Order.
 
+{next}

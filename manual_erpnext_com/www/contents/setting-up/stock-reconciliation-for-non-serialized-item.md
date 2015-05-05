@@ -20,7 +20,7 @@ Stock Reconciliation will update your stock for a given Item on a given date
 for a given Warehouse to the given quantity.
 
 Tip: Stock Reconciliation can also be used to update the “value” of an Item.
-To understand how Items are valued read [Valuation](/contents/stock/item-master/item-valuation-fifo-and-moving-average).
+To understand how Items are valued read [Valuation](/contents/stock/item-valuation-fifo-and-moving-average).
 
 To perform Stock Reconciliation, go to:
 
@@ -155,3 +155,5 @@ Let's assume Purchase Receipt entry is made on 5th January, 2014, that is on dat
 	</table>
 </html>
 As per the updated logic, irrespective of receipt/issue entry made for an item, balance quantity as set via Stock Reconciliation will not be affected.
+
+{next}

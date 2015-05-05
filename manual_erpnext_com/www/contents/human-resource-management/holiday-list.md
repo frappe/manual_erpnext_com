@@ -56,4 +56,4 @@ have a mill, you can have one list for mill workers and another list for
 office staff. You can manage between lists by attaching their respective
 holiday list to their respective employment detail form.
 
-  
+{next}

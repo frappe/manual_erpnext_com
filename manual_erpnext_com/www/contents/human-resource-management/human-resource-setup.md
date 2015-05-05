@@ -3,7 +3,7 @@ major activities.
 
 ### Organization Setup
 
-￼ To setup your Employee master you must first create:
+To setup your Employee master you must first create:
 
   * Employment Type (like Permanent, Temp, Contractor, Intern etc).
   * Branch (if there are multiple offices).
@@ -32,3 +32,4 @@ deductions. These are
 These are just labels, we will see how to use them when we discuss the payroll
 section.
 
+{next}

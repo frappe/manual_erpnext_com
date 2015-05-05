@@ -115,3 +115,4 @@ To generate your salary payment voucher from the Salary Manager, click on
 “Make Bank Voucher” and a new Journal Voucher with the total salaries will be
 created.
 
+{next}

@@ -8,3 +8,5 @@ updated.
 You can choose to send message to all the users, or to specific user.
 
 ![Messsage To](/assets/manual_erpnext_com/old_images/erpnext/message-to.png)
+
+{next}

@@ -17,3 +17,4 @@ by going to the page “blog.html”.
 
 ![Blog](/assets/manual_erpnext_com/old_images/erpnext/blog-look.png)
 
+{next}

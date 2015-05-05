@@ -11,3 +11,5 @@ Please set the group of the item (Product / Service) and unit of measure. Don't 
 ## Thats it!
 
 Once you are done with the setup wizard you will see the familiar desktop page.
+
+{next}

@@ -75,17 +75,4 @@ advance in the advances table. The accounting will be adjusted accordingly.
 
 Save and submit the Sales Invoice.
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+{next}

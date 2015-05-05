@@ -43,3 +43,5 @@ To check batchwise stock balance report, go to:
 Stock >> Standard Reports >> Batch-wise Balance History
 
 ![Batch Report](/assets/manual_erpnext_com/old_images/erpnext/batch-report.png)
+
+{next}

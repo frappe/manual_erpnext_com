@@ -26,3 +26,5 @@ Small manufacturing companies are usually make-to-order or engineer-to-order
 and can hardly afford to have a high level of standardization. Thus small
 manufacturing businesses should aim for repeatability by innovating processes
 and creating a common platform for products.
+
+{next}

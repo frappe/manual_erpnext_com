@@ -82,3 +82,5 @@ You can link target distribution while allocation targets in Sales Person as wel
 
 1. [Managing Sales Person](https://erpnext.com/selling/selling-setup/sales-person)
 2. [Using Sales Person in transactions](https://erpnext.com/kb/selling/managing-sales-persons-in-sales-transactions)
+
+{next}

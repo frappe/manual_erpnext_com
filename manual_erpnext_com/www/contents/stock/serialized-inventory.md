@@ -63,3 +63,4 @@ properties or advertisement slots, even library books!
 Since Serial Nos are deeply linked with all the core modules, Selling, Buying,
 Inventory and Accounting, you may find many uses for them.
 
+{next}

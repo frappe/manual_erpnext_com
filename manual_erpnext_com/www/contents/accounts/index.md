@@ -6,8 +6,8 @@ have outsourced your accounting. In all the cases financial accounting forms the
 
 In ERPNext, your accounting operations consists of 3 main transactions:
 
-  * Sales Invoice: The bills that you raise to your Customers for the products or services you provide. 
-  * Purchase Invoice: Bills that your Suppliers give you for their products or services. 
+  * Sales Invoice: The bills that you raise to your Customers for the products or services you provide.
+  * Purchase Invoice: Bills that your Suppliers give you for their products or services.
   * Journal Vouchers: For accounting entries, like payments, credit and other types.
 
 ### Topics

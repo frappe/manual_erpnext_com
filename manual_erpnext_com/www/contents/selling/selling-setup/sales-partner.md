@@ -34,3 +34,5 @@ https://example.erpnext.com/partners
 Following is the complete partners details published on the website.
 
 ![Sales Partner Published](/assets/manual_erpnext_com/old_images/erpnext/sales-partner-published.png)
+
+{next}

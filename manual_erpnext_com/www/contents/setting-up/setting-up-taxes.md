@@ -23,8 +23,7 @@ sales or purchase tax rate specified by you as default rates.
 ![Item Tax](/assets/manual_erpnext_com/old_images/erpnext/item-tax-1.png)
 
   * **Inclusive and Exclusive Tax**: ERPNext allows you to enter Item rates which are tax inclusive.
-
-![Inclusive Tax](/assets/manual_erpnext_com/old_images/erpnext/inclusive-tax.png)
+    ![Inclusive Tax](/assets/manual_erpnext_com/old_images/erpnext/inclusive-tax.png)
 
   * **Exception to the rule**: Item tax settings are required only if a particular Item has a different tax rate than the rate defined in the standard tax Account
   * **Item tax is overwrite-able**: You can overwrite or change the item tax rate by going to the Item master in the Item tax table.
@@ -94,3 +93,4 @@ Consider Tax or Charge for: In this section you can specify if the tax /
 charge is only for valuation (not a part of total) or only for total (does not
 add value to the item) or for both.
 
+{next}

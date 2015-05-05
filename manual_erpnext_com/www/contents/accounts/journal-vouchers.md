@@ -11,13 +11,13 @@ To create a Journal Voucher go to:
 
 In a Journal Voucher, you must select.
 
-  * Type of Voucher from the drop down. 
+  * Type of Voucher from the drop down.
   * Add rows for the individual accounting entries. In each row, you must specify: 
     * The Account that will be affected
     * The amount to Debit or Credit
     * The Cost Center (if it is an Income or Expense)
     * Against Voucher: Link it to a voucher or invoice if it affects the “outstanding” amount of that invoice.
-    * Is Advance: Select “Yes” if you want to make it selectable in an Invoice.  Other information in case it is a Bank Payment or a bill.
+    * Is Advance: Select “Yes” if you want to make it selectable in an Invoice. Other information in case it is a Bank Payment or a bill.
 
 #### Difference
 
@@ -68,3 +68,4 @@ of each year reducing its value by a certain percentage.
 > Note: There may be regulations in your country that define by how much
 amount you can depreciate a class of Assets.
 
+{next}

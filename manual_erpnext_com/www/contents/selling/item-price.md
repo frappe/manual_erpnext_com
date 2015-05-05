@@ -39,3 +39,5 @@ To check all Item Price together, go to:
 Stock >> Main Report >> Itemwise Price List Rate
 
 You will find option to create new Item Price record (+) in this report as well.
+
+{next}

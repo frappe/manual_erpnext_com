@@ -1,7 +1,7 @@
 An Attendance record stating that an Employee has been present on a particular
 day can be created manually by:
 
-> HR > Attendance > New Attendance ￼
+> HR > Attendance > New Attendance
 
 ![Attendance](/assets/manual_erpnext_com/old_images/erpnext/attendance.png)
 
@@ -18,3 +18,4 @@ To upload the attendance go to:
 
 ![Upload Attendance](/assets/manual_erpnext_com/old_images/erpnext/upload-attendance.png)
 
+{next}

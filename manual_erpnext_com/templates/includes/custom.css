@@ -22,7 +22,7 @@ article figcaption {
 	margin-bottom: -30px;
 }
 
-article p {
+article > p {
 	margin: 15px 0px;
 }
 

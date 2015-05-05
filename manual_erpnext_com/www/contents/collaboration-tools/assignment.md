@@ -36,3 +36,5 @@ User will be able to remove assignment by clicking on "Assignment Completed" but
 ![Assign Remove](/assets/manual_erpnext_com/old_images/erpnext/assign-remove.png)
 
 Once assignment is set as completed, Status of its ToDo record will be set as Closed.
+
+{next}

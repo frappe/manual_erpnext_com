@@ -14,5 +14,6 @@ be added in the right sidebar.
 
 ### Tags
 
-[Tags](/contents/collaboration-tools/tags)  
+[Read more about Tags](/contents/collaboration-tools/tags)  
 
+{next}

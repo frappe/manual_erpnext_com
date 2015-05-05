@@ -23,3 +23,4 @@ Reserved Qty
   * Ordered Qty: Quantity ordered for purchase, but not received.
   * Reserved Qty: Quantity ordered for sale, but not delivered.
 
+{next}

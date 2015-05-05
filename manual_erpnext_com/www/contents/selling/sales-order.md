@@ -102,12 +102,14 @@ choices.i) Maintenance Visit ii) Maintenance Schedule iii) Invoice.
 
 
 
-> Note 1: By clicking on the Action button and selecting 'Maintenance Visit' you can directly fill the visit form. The Sales Order details will be fetched
-directly.
+> **Note 1:**   
+By clicking on the Action button and selecting 'Maintenance Visit' you can directly fill the visit form. The Sales Order details will be fetched directly.    
 
-> Note 2: By clicking on the Action button and selecting 'Maintenance Schedule' you can fill the schedule details. The Sales Order details will be fetched
-directly.
+> **Note 2:**    
+By clicking on the Action button and selecting 'Maintenance Schedule' you can fill the schedule details. The Sales Order details will be fetched directly.
 
-> Note 3: By clicking on the Invoice button you can make an Invoice for your
+> **Note 3:**    
+By clicking on the Invoice button you can make an Invoice for your
 services . The sales orders details will be fetched directly.
 
+{next}

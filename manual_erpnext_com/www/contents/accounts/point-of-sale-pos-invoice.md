@@ -1,4 +1,6 @@
-Point of sale (POS) is the place where a retail transaction is completed. It
+# Point of Sale Invoice
+
+Point of Sale (POS) is the place where a retail transaction is completed. It
 is the point at which a customer makes a payment to the merchant in exchange
 for goods or services. For retail operations, the delivery of goods, accrual
 of sale and payment all happens in one event, that is usually called the
@@ -25,9 +27,9 @@ Open any sales / purchase transaction. Click on the Computer <i class="icon-desk
 
 #### Different sections of the POS
 
-  * Update Stock: If this is checked, Stock Ledger Entries will be made when you “Submit” this Sales Invoice thereby eliminating the need for a separate Delivery Note. 
-  * In your Items table, update inventory information like Warehouse (saved as default), Serial Number, or Batch Number if applicable. 
-  * Update Payment Details like your Bank / Cash Account, Paid amount etc. 
+  * Update Stock: If this is checked, Stock Ledger Entries will be made when you “Submit” this Sales Invoice thereby eliminating the need for a separate Delivery Note.
+  * In your Items table, update inventory information like Warehouse (saved as default), Serial Number, or Batch Number if applicable.
+  * Update Payment Details like your Bank / Cash Account, Paid amount etc.
   * If you are writing off certain amount. For example when you receive extra cash as a result of not having exact denomination of change, check on ‘Write off Outstanding Amount’ and set the Account.
 
 ### Adding an Item
@@ -91,5 +93,6 @@ Credits:
   * Customer (payment)
   * Write Off (optional)
 
-To see entries after “Submit”, click on “View Ledger”.￼
+To see entries after “Submit”, click on “View Ledger”.
 
+{next}

@@ -79,3 +79,5 @@ Item table of the sale transactions has field called Price List Rate. This field
 If you need to enable user to edit Item Price, fetched from Price List of an item, you should uncheck this field.
 
 ![Edit Price List Rate](/assets/manual_erpnext_com/old_images/erpnext/ss-edit-price-list-rate.png)
+
+{next}

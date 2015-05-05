@@ -53,3 +53,4 @@ Amount” box in the “More Info” section.
 A Stock Ledger Entry is made for each Item and stock is updated. Pending
 Quantity in the Sales Order is updated (if applicable).
 
+{next}

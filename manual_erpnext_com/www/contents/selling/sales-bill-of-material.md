@@ -41,3 +41,5 @@ On selection on Parent Item in the main item table, its child items will be fetc
 <div class="well"><b>Use Sales BOM to Manage Schemes:</b>
 <br>
 This work-around in Sales BOM was discovered when a customer dealing into nutrition product asked for feature to manage schemes like "Buy One Get One Free". To manage the same, he created a non-stock item which was used as Parent Item. In description of item, he entered scheme details with items image indicating the offer. The saleable product was selected in Package Item where qty was two. Hence every time they sold one qty of Parent item under scheme, system deducted two quantities of product from Warehouse.</div>
+
+{next}

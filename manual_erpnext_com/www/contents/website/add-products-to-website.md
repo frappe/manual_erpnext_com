@@ -66,3 +66,4 @@ Item Group Display
 
 ![Item Group Display](/assets/manual_erpnext_com/old_images/erpnext/webpage-itemgroup-display.png)
 
+{next}

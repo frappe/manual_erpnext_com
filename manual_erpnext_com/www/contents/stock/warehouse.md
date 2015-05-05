@@ -35,3 +35,4 @@ correct warehouse. Once merging is done, delete the duplicate Warehouse.
 of Item and Warehouse. Thus you can get stock balance for any specific Item in
 a particular Warehouse on any particular date.
 
+{next}

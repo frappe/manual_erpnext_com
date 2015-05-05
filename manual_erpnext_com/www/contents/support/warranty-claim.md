@@ -3,7 +3,7 @@ service contract like the Annual Maintenance Contract (AMC), your **Customer**
 may call you about an issue or a break-down and give you the Serial No of this
 Item.
 
-To record this, you can create a new **Customer Issue** and add the
+To record this, you can create a new **Warranty Claim** and add the
 **Customer** and **Item** / **Serial No**. The system will then automatically
 fetch the Serial No’s details and indicate whether this is under warranty or
 AMC.
@@ -11,12 +11,13 @@ AMC.
 You must also add a description of the **Customer**’s issue and assign it to
 the person who needs to look into solving the issue.
 
-To create a new **Customer Issue**:
+To create a new **Warranty Claim**:
 
-> Support > Customer Issue > New Customer Issue
+> Support > Warranty Claim > New Warranty Claim
 
-![Customer Issue](/assets/manual_erpnext_com/old_images/erpnext/customer-issue.png)
+![Warranty Claim](/assets/manual_erpnext_com/img/support/warranty-claim.png)
 
 If a Customer visit is required to address the issue, you can create a new
 Maintenance Visit record from this.
 
+{next}

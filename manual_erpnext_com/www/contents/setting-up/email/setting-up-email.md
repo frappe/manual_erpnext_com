@@ -72,7 +72,7 @@ contact mentioned in the document. To set this up, go to:
 ![Auto Notification](/assets/manual_erpnext_com/old_images/erpnext/auto-notification.png)
 
 Check on the transactions you want to send via email directly on Submission
-and add a custom message if you want on these documents. ￼
+and add a custom message if you want on these documents.
 
 ### Email Digests
 

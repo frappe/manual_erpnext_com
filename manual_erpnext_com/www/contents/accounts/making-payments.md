@@ -75,7 +75,7 @@ scenarios.
 
 ### Matching Payments to Invoices
 
-￼ In complex scenarios, especially in the capital goods industry, sometimes
+In complex scenarios, especially in the capital goods industry, sometimes
 there is no direct link between payments and invoices. You send invoices to
 your Customers and your Customer sends you block payments or payments based on
 some schedule that is not linked to your invoices.
@@ -91,3 +91,4 @@ Sales Invoices from that Customer.
 To cancel off some payments and invoices, select the Invoices and Journal
 Vouchers and click on “Reconcile”.
 
+{next}

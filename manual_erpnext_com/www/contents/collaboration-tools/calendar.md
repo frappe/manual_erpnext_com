@@ -59,3 +59,5 @@ Email Digest can be set from:
 `Setup > Email > Email Digest`
 
 ![Calender Email Digest](/assets/manual_erpnext_com/old_images/erpnext/calender-email-digest.png)
+
+{next}

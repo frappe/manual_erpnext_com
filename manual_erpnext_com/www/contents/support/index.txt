@@ -1,5 +1,5 @@
 issue
-customer-issue
+warranty-claim
 maintenance-visit
 maintenance-schedule
 newsletter

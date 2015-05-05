@@ -4,3 +4,4 @@ going to chart of accounts.
 However, if you are migrating from a legacy accounting system like Tally or a
 Fox Pro based software, please visit [Opening Entry.](/contents/accounts/opening-accounts)
 
+{next}

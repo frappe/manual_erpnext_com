@@ -23,3 +23,4 @@ interesting where you want detailed accounting of your discounts.
 > Note: The maximum Discount that can be applied on an Item can be fixed in
 the Item master.
 
+{next}

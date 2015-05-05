@@ -72,3 +72,4 @@ Go to Item and click on Add new row.
 The cursor will automatically be placed in the bar-code field. Thus you can
 immediately scan the bar-code and proceed with your operations.
 
+{next}

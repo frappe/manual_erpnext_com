@@ -28,14 +28,14 @@ To setup an Email Alert:
 1. Set the recipients of this alert. The recipient could either be a field of the document or a list of fixed email ids.
 1. Compose the message
 
-## Example
+---
 
-### Defining the Criteria
+### Example
 
-<img class="screenshot" alt="Defining Criteria" src="/assets/manual_erpnext_com/img/setup/email/email-alert-1.png">
+1. Defining the Criteria
+    <img class="screenshot" alt="Defining Criteria" src="/assets/manual_erpnext_com/img/setup/email/email-alert-1.png">
 
-### Setting the Recipients and Message
-
-<img class="screenshot" alt="Set Message" src="/assets/manual_erpnext_com/img/setup/email/email-alert-2.png">
+1. Setting the Recipients and Message
+    <img class="screenshot" alt="Set Message" src="/assets/manual_erpnext_com/img/setup/email/email-alert-2.png">
 
 {next}

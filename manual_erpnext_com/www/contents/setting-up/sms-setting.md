@@ -37,3 +37,4 @@ be entered in the Static Parameters table.
 
 ![SMS Setting](/assets/manual_erpnext_com/old_images/erpnext/sms-settings1.png)
 
+{next}

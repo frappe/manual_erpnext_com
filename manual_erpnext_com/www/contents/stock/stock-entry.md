@@ -22,3 +22,4 @@ Warehouse” or both (if you are recording a movement).
 
 > **Note:** To update Stock from a spreadsheet, see Stock Reconciliation.
 
+{next}
