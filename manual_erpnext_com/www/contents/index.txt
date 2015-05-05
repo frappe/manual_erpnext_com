@@ -7,7 +7,7 @@ buying
 manufacturing
 projects
 support
-human-resource-management
+human-resources
 customer-portal
 website
 collaboration-tools

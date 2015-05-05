@@ -1,0 +1,11 @@
+employee
+leave-application
+expense-claim
+attendance
+salary-slip
+appraisal
+job-applicant
+job-opening
+offer-letter
+tools
+setup

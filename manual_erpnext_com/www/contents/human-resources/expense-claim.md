@@ -34,6 +34,6 @@ because the amount will then be taxable to the Employee.
 
 * To Link Expense Claim with Task or Project specify the Task or the Project while making an Expense Claim
 
-<img class="screenshot" alt="Time Log" src="/assets/manual_erpnext_com/img/project/project_expense_claim_link.png">
+<img class="screenshot" alt="Expense Claim - Project Link" src="/assets/manual_erpnext_com/img/project/project_expense_claim_link.png">
 
 {next}
