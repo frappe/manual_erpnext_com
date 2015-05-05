@@ -31,7 +31,7 @@ The Actual Start and End Time along with the costing shall then be updated based
 
 ### Managing Expenses
 
-You can book [Expense Claim](/human-resource-management/expense-claim) against a task.
+You can book [Expense Claim](/contents/human-resource-management/expense-claim) against a task.
 The system shall update the total amount from expense claims in the costing section.
 
 * To view Expense Claims made against a Task click on 'Expense Claims'

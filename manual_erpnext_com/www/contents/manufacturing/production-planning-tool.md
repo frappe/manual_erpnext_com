@@ -9,21 +9,18 @@ and will generate:
 
 To use the Production Planning Tool, go to:
 
-> Manufacturing > Production Planning Tool
+> Manufacturing > Tools > Production Planning Tool
 
-![Material Requisition Planning](/assets/manual_erpnext_com/old_images/erpnext/mrp.png)
+<img class="screenshot" alt="Production Planing Tool" src="/assets/manual_erpnext_com/img/manufacturing/ppt.png">
 
 
 
 #### Step 1: Select and get Sales Order
 
-Select sales orders for MRP using filters (Time, Item, and Customer)
+* Select sales orders for MRP using filters (Time, Item, and Customer)
+* Click on Get Sales Order to generate a list.
 
-![Production Planning Tool](/assets/manual_erpnext_com/old_images/erpnext/mrp-1.png)
-
-Click on Get Sales Order to generate a list.
-
-![Production Planning Tool](/assets/manual_erpnext_com/old_images/erpnext/mrp-1.1.png)
+<img class="screenshot" alt="Production Planing Tool" src="/assets/manual_erpnext_com/img/manufacturing/ppt-get-sales-orders.png">
 
 
 
@@ -31,13 +28,11 @@ Click on Get Sales Order to generate a list.
 
 You can add/remove or change quantity of these Items.
 
-![Production Planning Tool](/assets/manual_erpnext_com/old_images/erpnext/mrp-2.png)
-
-
+<img class="screenshot" alt="Production Planing Tool" src="/assets/manual_erpnext_com/img/manufacturing/ppt-get-item.png">
 
 #### Step 3: Create Production Orders
 
-![Production Planning Tool](/assets/manual_erpnext_com/old_images/erpnext/mrp-3.png)
+<img class="screenshot" alt="Production Planing Tool" src="/assets/manual_erpnext_com/img/manufacturing/ppt-create-production-order.png">
 
 
 
@@ -45,7 +40,7 @@ You can add/remove or change quantity of these Items.
 
 Create Material Request for Items with projected shortfall.
 
-![Production Planning Tool](/assets/manual_erpnext_com/old_images/erpnext/mrp-4.png)
+<img class="screenshot" alt="Production Planing Tool" src="/assets/manual_erpnext_com/img/manufacturing/ppt-create-material-request.png">
 
 
 

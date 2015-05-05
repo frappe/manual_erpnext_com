@@ -1,12 +1,10 @@
+introduction
 bill-of-materials
 production-order
 workstation
 operation
 production-planning-tool
-subcontracting
-make-to-order-manufacturing
-make-to-stock-manufacturing
-quality-inspection
 bom-replace-tool
-mrp
-lean-manufacturing
+manufacturing-settings
+subcontracting
+capacity-planning
