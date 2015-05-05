@@ -4,39 +4,17 @@ Why would you want Price Lists? You have different prices for different zones (b
 
 An Item can have multiple prices based on customer, currency, region, shipping cost etc, which can be stored as different rate plans. In ERPNext, you are required to store all the lists separately. Buying Price List is different from Selling Price List and thus is stored separately.
 
-Standard Buying and Selling Price List are created by default.
-
-Step to create Price List.
-
-Step 1: Go to
+You can create new Price List
 
 > Selling/Buying/Stock  > Setup > Price List >> New
 
-Step 2: Enter name of new Price List.
+<img class="screenshot" alt="Price List" src="/assets/manual_erpnext_com/img/price-list/price-list.png">
 
-![Price List Name](/assets/manual_erpnext_com/old_images/erpnext/price-list-name.png)
+* These Price List will be used when creating Item Price record to track selling or buying price of an item. Click here to learn more about Item Price.
 
-Step 3: Select Currency
+* To disable specific Price List, uncheck Enabled field in it. Disabled Price List will not be availale for selection in the Sales and Purchase transactions.
 
-Select Currency for this Price List. Currency option in Price List allows you to maintain item's price in Currency other than your companies base currency.
-
-![Price List Currency](/assets/manual_erpnext_com/old_images/erpnext/price-list-currency.png)	
-
-Step 4: Select Buying and Selling
-
-Select for which transaction this Price List is application. Mostly it will be one of the Buying or Selling, however you can choose both as well.
-
-![Price List For](/assets/manual_erpnext_com/old_images/erpnext/price-list-for.png)
-
-Step 5: Select Territory
-
-Select Territory for which this Price List will be applicable.
-
-![Price List Terriory](/assets/manual_erpnext_com/old_images/erpnext/price-list-territory.png)
-
-Step 6: Save Price List.
-
-These Price List will be used when creating Item Price record to track selling or buying price of an item. Click here to learn more about Item Price.
+* Standard Buying and Selling Price List are created by default.
 
 To disable specific Price List, uncheck Enabled field in it. Disabled Price List will not be availale for selection in the Sales and Purchase transactions.
 

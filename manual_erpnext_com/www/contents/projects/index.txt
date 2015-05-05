@@ -1,5 +1,6 @@
-project
 tasks
-activity-cost
+project
 time-log
 time-log-batch
+activity-type
+activity-cost

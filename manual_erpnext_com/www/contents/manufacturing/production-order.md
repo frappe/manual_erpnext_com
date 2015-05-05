@@ -10,20 +10,59 @@ by:
 
 > Manufacturing > Production Order > New Production Order
 
-#### Figure 1: Create Production Order
+<img class="screenshot" alt="Production Order" src="/assets/manual_erpnext_com/img/manufacturing/production-order.png">
 
-![Production Order](/assets/manual_erpnext_com/old_images/erpnext/production-order.png)
+### Creating Production Orders
 
-  * Select the Item to be produced (must have a Bill of Materials).
-  * Select the BOM
-  * Select Quantities
-  * Select Warehouses. WIP (Work-in-Progress) is where your Items will be transferred when you begin production and FG (Finished Goods) where you store finished Items before they are shipped.
+  * Select the Item to be produced.
+  * The default BOM for that item will be fetched by the system. You can also change BOM.
+  * If the selected BOM has operartion mentioned in it, the system shall fetch all operations from BOM.
   * Mention the Planned Start Date (an Estimated Date at which you want the Production to begin.)
-  * Select if you want to consider sub-assemblies (sub-Items that have their own BOM) as stock items or you want to explode the entire BOM when you make Stock Entries for this Item. What it means is that if you also maintain stock of your sub assemblies then you should set this as “No” and in your Stock Entries, it will also list the sub-assembly Item (not is sub-components).
+  * Select Warehouses. Work-in-Progress Warehouse is where your Items will be transferred when you begin production and Target Warehouse is  where you store finished Items before they are shipped.
 
-and “Submit” the Production Order.
+> Note : You can save a Production Order without selecting the warehouses, but warehouses are mandatory for submitting a Production Order
 
-Once you “Submit”, you will see two more buttons:
+###Reassigning Workstation/Duration for Operations
+
+* By default the system fetchs workstation and duration for Production Order Operations from the selected BOM.
+* If you wish to reassign the wrokstation for a particular opeeration in the Production Order, you can do so before submitting the Production Order.
+* Select the respective operation, and change its workstation.
+
+* You can also change the Operating Time for that operation
+
+### Capacity Planning in Production Order
+
+* When a Production Order is submitted, based on the Planned Start Date and the availability of the workstations, system schedules all operations for the Production Order (if Production Order has operations specified).
+* Drafts of Time Logs are also created based on the scheduled operations.
+* You can specify parameters for capacity planning in Manufacturing Settings.
+ 
+### Transfering Materials for Manufacturing
+
+* Once you have submitted your Production Order, you need to Transfer the Raw Materials to initiate the Manufacturing Process.
+
+* Click on 'Transfer Materials for Manufacturing'.
+
+<img class="screenshot" alt="Transfer Materials" src="/assets/manual_erpnext_com/img/manufacturing/PO-material-transfer.png">
+
+* Mention the quantity of materials to be transfered.
+
+<img class="screenshot" alt="Material Transfer Qty" src="/assets/manual_erpnext_com/img/manufacturing/PO-material-transfer-qty.png">
+
+* Submit the Stock Entry
+
+<img class="screenshot" alt="Stock Entry for PO" src="/assets/manual_erpnext_com/img/manufacturing/PO-SE-for-material-transfer.png">
+
+### Making Time Logs
+
+
+
+
+
+
+
+
+
+
 
 #### Figure 2: Submit Production Order
 

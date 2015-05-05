@@ -1,6 +1,8 @@
 bill-of-materials
-production-planning-tool
 production-order
+workstation
+operation
+production-planning-tool
 subcontracting
 make-to-order-manufacturing
 make-to-stock-manufacturing
@@ -8,5 +10,3 @@ quality-inspection
 bom-replace-tool
 mrp
 lean-manufacturing
-workstation
-operation
