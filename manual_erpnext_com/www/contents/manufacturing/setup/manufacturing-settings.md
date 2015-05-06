@@ -8,7 +8,7 @@
 
 * Allow Production on Holidays - Specify if system is to allow scheduling of operations on Holidays.
 
-* Capacity Planning for (Days) - Specify no. of Days for [Capacity Planning](/contents/manufacturing/capacity-planning).
+* Capacity Planning for (Days) - Specify no. of Days for Capacity Planning.
 
 * Time Between Operations (in mins) - Specify the gap between two Production Operations.
 

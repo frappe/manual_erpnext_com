@@ -39,7 +39,6 @@ by:
 
 * When a Production Order is submitted, based on the Planned Start Date and the availability of the workstations, system schedules all operations for the Production Order (if Production Order has operations specified).
 * Drafts of Time Logs are also created based on the scheduled operations.
-* Read more at [Capacity Planning](/contents/manufacturing/capacity-planning)
 
 ### Transfering Materials for Manufacturing
 

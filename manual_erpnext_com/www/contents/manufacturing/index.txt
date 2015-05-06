@@ -3,8 +3,6 @@ bill-of-materials
 production-order
 workstation
 operation
-production-planning-tool
-bom-replace-tool
-manufacturing-settings
 subcontracting
-capacity-planning
+tools
+setup
