@@ -40,11 +40,11 @@ __Employee Stock Options:__ ESOPS are Free/discounted shares given by the compan
 
 To create a new Salary Structure go to:
 
-> HR > Salary Structure > New Salary Structure
+> Human Resources > Salary Structure > New Salary Structure
 
 #### Figure 1:Salary Structure
 
-![Salary Structure](/assets/manual_erpnext_com/old_images/erpnext/salary-structure.png)
+<img class="screenshot" alt="Salary Structure" src="/assets/manual_erpnext_com/img/human-resources/salary-structure.png">
 
 ### In the Salary Structure,
 
@@ -76,17 +76,15 @@ Slip.
 
 #### Figure 2: Salary Slip
 
-![Salary Slip](/assets/manual_erpnext_com/old_images/erpnext/salary-slip-1.png)
-
-  
+<img class="screenshot" alt="Salary Slip" src="/assets/manual_erpnext_com/img/human-resources/salary-slip.png">
 
 Through Salary Manager:
 
-> HR > Process Payroll
+> Human Resources > Process Payroll
 
 #### Figure 3: Salary Manager
 
-![Salary Manager](/assets/manual_erpnext_com/old_images/erpnext/salary-manager.png)
+<img class="screenshot" alt="Salary Manager" src="/assets/manual_erpnext_com/img/human-resources/process-payrole.png">
 
 In the Salary Manager tool,
 

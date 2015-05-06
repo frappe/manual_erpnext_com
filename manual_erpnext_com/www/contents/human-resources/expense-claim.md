@@ -6,7 +6,7 @@ To make a new Expense Claim, go to:
 
 > HR > Expense Claim > New Expense Claim
 
-<img class="screenshot" alt="Expense Claim" src="/assets/manual_erpnext_com/img/hr/expense_claim.png">
+<img class="screenshot" alt="Expense Claim" src="/assets/manual_erpnext_com/img/human-resources/expense_claim.png">
 
 Set the Employee ID, date and the list of expenses that are to be claimed and
 “Submit” the record.
