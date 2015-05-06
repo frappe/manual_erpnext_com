@@ -1,4 +1,4 @@
-buying-setting
+buying-settings
 supplier-type
 supplier-master
 material-request
