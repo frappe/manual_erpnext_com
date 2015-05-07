@@ -4,7 +4,7 @@ Project management in ERPNext is Task driven. You can create Project and assign 
 
 ### Managing tasks
 Project can be divided into multiple Tasks.
-Task can be created via Project document itself or can be created via  [Task](/projects/tasks)
+Task can be created via Project document itself or can be created via  [Task](/contents/projects/tasks)
 
 <img class="screenshot" alt="Project" src="/assets/manual_erpnext_com/img/project/project_task.png">
 
@@ -20,7 +20,7 @@ Task can be created via Project document itself or can be created via  [Task](/p
 
 ### Managing time
 
-ERPNext uses [Time Log](/projects/time-log) to track the progress of a Project.
+ERPNext uses [Time Log](/contents/projects/time-log) to track the progress of a Project.
 You can create Time Logs against each task.
 The Actual Start and End Time along with the costing shall then be updated based on the Time Log.
 
@@ -53,7 +53,7 @@ The system shall update the total amount from expense claims in the project cost
 
 ### Cost Center
 
-You can make a [Cost Center](/accounts/cost-center-and-budgetting) against a Project or use an existing cost center to track all expenses made against that project.
+You can make a [Cost Center](/contents/accounts/cost-centers-and-budgeting) against a Project or use an existing cost center to track all expenses made against that project.
 
 <img class="screenshot" alt="Project - Cost Center" src="/assets/manual_erpnext_com/img/project/project_cost_center.png">
 

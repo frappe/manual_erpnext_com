@@ -15,7 +15,7 @@ A Task can have either of the following status - Open, Working, Pending Review, 
 
 ### Managing Time
 
-ERPNext uses [Time Log](/projects/time-log) to track the progress of a Task.
+ERPNext uses [Time Log](/contents/projects/time-log) to track the progress of a Task.
 You can create multiple Time Logs against each task.
 The Actual Start and End Time along with the costing shall then be updated based on the Time Log.
 
