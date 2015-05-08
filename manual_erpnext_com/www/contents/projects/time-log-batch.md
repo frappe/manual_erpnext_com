@@ -19,3 +19,5 @@ Just open your Time Log list and check the Items to you want to add to the Time 
 <img class="screenshot" alt="Time Log - Drag Calender" src="/assets/manual_erpnext_com/img/project/time_log_batch_sales_invoice.png">
 
 * When you "Submit" the Sales Invoice, the Sales Invoice number will get updated in the Time Logs and Time Log Batch and their status will change to "Billed".
+
+{next}

@@ -36,7 +36,7 @@ The Actual Start and End Time along with the costing shall then be updated based
 
 ### Managing expenses
 
-You can book [Expense Claim](/human-resource-management/expense-claim) against a project task.
+You can book [Expense Claim](/contents/human-resource-management/expense-claim) against a project task.
 The system shall update the total amount from expense claims in the project costing section.
 
 * To view Expense Claims made against a Project click on 'Expense Claims'
@@ -69,7 +69,7 @@ The Project Costing section helps you track the time and expenses incurred again
 
 ###Billing
 
-You can make/link a [Sales Order](/selling/sales-order) against a project. Once linked you can use the standard sales module to bill your customer against the Project.
+You can make/link a [Sales Order](/contents/selling/sales-order) against a project. Once linked you can use the standard sales module to bill your customer against the Project.
 
 <img class="screenshot" alt="Project - Sales Order" src="/assets/manual_erpnext_com/img/project/project_sales_order.png">
 
