@@ -1,10 +1,4 @@
-There are many fields you can add in your Employee records. As the
-organisation grows, it becomes difficult to manage more records. It is
-advisable to keep updating and entering records to facilitate data management
-of employees.
-
-Employee records also help in keeping a list of your team’s skills, previous
-employment history and emergency information.
+There are many fields you can add in your Employee records.
 
 To create new Employee go to:
 

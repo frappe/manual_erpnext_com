@@ -8,5 +8,7 @@ day can be created manually by:
 You can get a monthly report of your Attendance data by going to the “Monthly
 Attendance Details” report.
 
+You can also bulk uppload attendence using the [Upload Attendence Tool ](/contents/human-resources/tools/upload-attendance)
+
 {next}
 
