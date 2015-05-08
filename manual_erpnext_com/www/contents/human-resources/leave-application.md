@@ -20,5 +20,5 @@ their “Employee ID” as a match rule in the Leave Application Permission
 settings. See the earlier discussion on [Setting Up Permissions](/contents/setting-up/users-and-permissions)
 for more info.
 
-You can also use the [Leave Allocation Tool ](/contents/human-resources/tools/leave-allocation-tool)
+You assign Leaves aginast an Employee check [Leave Allocation](/contents/human-resources/setup/leave-allocation)
 {next}
