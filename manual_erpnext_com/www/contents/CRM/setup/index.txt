@@ -1,0 +1,4 @@
+campaign
+customer-group
+territory
+sales-person

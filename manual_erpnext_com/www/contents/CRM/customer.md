@@ -9,7 +9,7 @@ You can either directly create your Customers via
 
 or upload it via the Data Import Tool.
 
-![Customer Master](/assets/manual_erpnext_com/old_images/erpnext/customer.png)
+<img class="screenshot" alt="Customer" src="/assets/manual_erpnext_com/img/crm/customer.png">
 
 > Note: Customers are separate from Contacts and Addresses. A Customer can
 have multiple Contacts and Addresses.

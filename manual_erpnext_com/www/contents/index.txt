@@ -2,6 +2,7 @@ introduction
 setting-up
 accounts
 stock
+CRM
 selling
 buying
 manufacturing
