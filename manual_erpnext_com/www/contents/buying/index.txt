@@ -1,7 +1,7 @@
-buying-settings
-supplier-type
-supplier-master
+supplier
 material-request
 supplier-quotation
 purchase-order
-purchase-taxes
+contact
+address
+setup
