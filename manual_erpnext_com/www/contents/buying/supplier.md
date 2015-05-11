@@ -5,7 +5,7 @@ You can create a new Supplier via:
 
 > Buying > Documents > Supplier > New Supplier
 
-![Supplier](/assets/manual_erpnext_com/old_images/erpnext/supplier.png)
+<img class="screenshot" alt="Supplier Master" src="/assets/manual_erpnext_com/img/buying/supplier-master.png">
 
 ### Contacts and Addresses
 
@@ -32,10 +32,6 @@ Supplier Account is created, you can set it in the Company master.
 If you want to create an Account in another Company, just change the Company
 value and “Save” the Supplier again.
 
-> Buying > Contact > New Contact
-
-![Contact](/assets/manual_erpnext_com/old_images/erpnext/contact.png)
-
-You can also import from the Data Import Tool
+> Tip: You can also import from the Data Import Tool
 
 {next}

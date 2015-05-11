@@ -5,7 +5,7 @@ given conditions.
 A Purchase Order can be automatically created from a Material Request or
 Supplier Quotation.
 
-#### Figure 1: Purchase Order Flow Chart
+#### Purchase Order Flow Chart
 
 ![Purchase Order](/assets/manual_erpnext_com/old_images/erpnext/purchase-order-f.jpg)
 
@@ -13,9 +13,9 @@ In ERPNext, you can also make a Purchase Order directly by going to:
 
 > Buying > Documents > Purchase Order > New Purchase Order
 
-#### Figure 2: Create Purchase Order
+#### Create Purchase Order
 
-![Purchase Order](/assets/manual_erpnext_com/old_images/erpnext/purchase-order.png)
+<img class="screenshot" alt="Purchase Order" src="/assets/manual_erpnext_com/img/buying/purchase-order.png">
 
 Entering a Purchase Order is very similar to a Purchase Request, additionally
 you will have to set:
@@ -73,7 +73,7 @@ Nos (from the Item form)
 #### Figure 3: Conversion of Purchase UOM to stock UOM
 
 
-![](/assets/manual_erpnext_com/old_images/erpnext/purchase-order-uom-change.png) 
+<img class="screenshot" alt="Purchase Order - UOM" src="/assets/manual_erpnext_com/img/buying/purchase-order-uom.png">
 
 __Step 4:__ Mention the UOM conversion factor. For example, (100);If one box has
 100 pieces.  

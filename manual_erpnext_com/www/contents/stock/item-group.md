@@ -5,10 +5,22 @@ product is used as a raw-material, you have to name it under the Raw-material
 category. In case, your product is used only in trading, you can categorise it
 under Trading.
 
-You can also create your own Item groups .
+<img class="screenshot" alt="Item Group Tree" src="/assets/manual_erpnext_com/img/stock/item-group-tree.png">
 
-> Stock > Item Group
+### Create a Item Group
 
-![Item Group](/assets/manual_erpnext_com/old_images/erpnext/item-group-tree.png)
+* Select an Item Group under which you wish to create the group.
+
+* Select 'Add Child'
+
+<img class="screenshot" alt="Add Item Group" src="/assets/manual_erpnext_com/img/stock/item-group-new.gif">
+
+### Delete an Item Group
+
+* Select the Item Group you want to delete.
+
+* Select 'delete'
+
+<img class="screenshot" alt="Add Item Group" src="/assets/manual_erpnext_com/img/stock/item-group-del.gif">
 
 {next}
