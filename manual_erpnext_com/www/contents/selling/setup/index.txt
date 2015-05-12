@@ -1,4 +1,4 @@
-sales-partner
-sales-person
 selling-settings
-terms-and-conditions
+sales-partner
+shipping-rule
+sales-bom

@@ -1,4 +1,6 @@
-You can maintain a list of marketting campaigns that you have undertaken. 
+A Campaign is a full-scale implementation of a sales strategy to promote a
+product or a service. This is done in a market segment of a particular
+geographical area, to achieve specified objectives.
 
 <img class="screenshot" alt="Campaign" src="/assets/manual_erpnext_com/img/crm/campaign.png">
 

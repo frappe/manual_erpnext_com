@@ -9,17 +9,23 @@ A Sales Order is usually a binding Contract with your Customer.
 Once your customer confirms the Quotation you can convert your Quotation into
 a Sales Order.
 
-#### Figure 1:Sales Order Flow-Chart
+### Sales Order Flow-Chart
 
 ![Sales Order](/assets/manual_erpnext_com/old_images/erpnext/sales-order-f.jpg)
 
-Alternatively, you can create a Sales Order directly from:
+To create a new Sales Order go to:
 
 > Selling > Sales Order > New Sales Order
 
-#### Figure 2: Create Sales Order
+### Creating Sales Order from Quotation
 
-![Sales Order](/assets/manual_erpnext_com/old_images/erpnext/sales-order.png)
+You can also create a Sales Order from a submitted Quotation.
+
+<img class="screenshot" alt="Make Sales Order from Quotation" src="/assets/manual_erpnext_com/img/selling/make-SO-from-quote.png">
+
+Or you can create a new Sales Order and pull details from an Quotation.
+
+<img class="screenshot" alt="Make Sales Order from Quotation" src="/assets/manual_erpnext_com/img/selling/make-so.gif">
 
 Most of the information in your Sales Order is the same as the Quotation.
 There are a few amongst other things that a Sales Order will ask you to
@@ -28,13 +34,13 @@ update.
   * Expected date of delivery.
   * Customer Purchase Order number: If your customer has sent you a Purchase Order, you can update its number for future reference (in billing).
 
-#### Packing List
+### Packing List
 
 The “Packing List” table will be automatically updated when you “Save” the
 Sales Order. If any Items in your table are Sales BOM (packets), then the
 “Packing List” will contain the exploded (detailed) list of your Items.
 
-#### Reservation and Warehouses
+### Reservation and Warehouses
 
 If your Sales Order contains Items for which inventory is tracked (Is Stock
 Item is “Yes”) then, ERPNext will ask you for “Reservation Warehouse”. If you
@@ -44,13 +50,13 @@ Warehouse here.
 This “reserved” quantity will help you project what is the quantity you need
 to purchase based on all your commitments.
 
-#### Sales Team
+### Sales Team
 
 **Sales Partner:** If this Sale was booked via a Sales Partner, you can update the Sales Partner’s details with commission and other info that you can aggregate.
 
 **Sales Persons:** ERPNext allows you to tag multiple Sales Persons who may have worked on this deal. You can also split the amount in targets of different Sales Persons and track how much incentives they earned on this deal.
 
-#### Recurring Sales Orders
+### Recurring Sales Orders
 
 If you have a recurring contract with a Customer where you are required to generate a Sales Order on a monthly, quarterly, half-yearly or annual basis, you can check the “Convert To Recurring Order” box. 
 
@@ -66,11 +72,9 @@ On updating the Sales Order, a Recurring ID will be generated which will be same
 
 ERPNext will automatically create new Order and mail a notification to the email IDs you set in the 'Notification Email Address'field.
 
-#### Figure 3: Recurring Sales Order
+<img class="screenshot" alt="Reccuring Sales Order" src="/assets/manual_erpnext_com/img/selling/recurring-sales-order.png">
 
-![Sales Order](/assets/manual_erpnext_com/old_images/erpnext/sales-order-recurring.png)
-
-#### Next Steps
+### Next Steps
 
 Once you “Submit” your Sales Order, you can now trigger different aspects of
 your organization:
@@ -80,13 +84,13 @@ your organization:
   * To bill, make “Make Sales Invoice”
   * To stop further process on this Sales Order, click on “Stop”
 
-#### Submission
+### Submission
 
 Sales Order is a “Submittable” transaction. See Document Stages. You will be
 able to execute dependent steps (like making a Delivery Note) only after
 “Submitting” this Sales Order.
 
-#### Sales Order with Order type Maintenance
+### Sales Order with Order type Maintenance
 
 When the 'Order Type' of the Sales Order is 'Maintenance' follow the steps
 given below:

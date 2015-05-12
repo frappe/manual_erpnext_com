@@ -19,14 +19,7 @@ have multiple Contacts and Addresses.
 Contacts and Addresses in ERPNext are stored separately so that you can
 attach multiple Contacts or Addresses to Customers and Suppliers.
 
-To add a Contact or Address directly from the Customer record, click on “New
-Contact” or “New Address”.
-
-> Tip: When you select a Customer in any transaction, one Contact and Address
-gets pre-selected. This is the “Default Contact or Address”.
-
-To Import multiple Contacts and Addresses from a spreadsheet, use the Data
-Import Tool.
+Read [Contact](/contents/crm/contact) to know more.
 
 ### Integration with Accounts
 
@@ -55,37 +48,12 @@ You can set how much credit you want to allow for a Customer by adding the
 “Credit Limit”. You can also set a global “Credit Limit” in the Company
 master. Classifying Customers
 
-ERPNext allows you to group your Customers and also divide them into
-Territories. Grouping will help you get better analysis of your data and
+ERPNext allows you to group your Customers using [Customer Group](/contents/crm/setup/customer-group) 
+and also divide them into [Territories](/contents/crm/setup/territory)
+Grouping will help you get better analysis of your data and
 identify which Customers are profitable and which are not. Territories will
 help you set sales targets for the respective territories.
-
-### Customer Group
-
-You can group your Customers so that you can get trend analysis for each
-group. Typically Customers are grouped by market segment (that is usually
-based on your domain).
-
-> Tip: If you think all this is too much effort, you can leave it at “Default
-Customer Group”. But all this effort, will pay off when you start getting
-reports. An example of a sample report is given below:
-
-![Sales Analytics](/assets/manual_erpnext_com/old_images/erpnext/sales-analytics-customer.png)
-
-### Territory
-
-If your business operates in multiple Territories (could be countries, states
-or cities) it is usually a great idea to build your structure in the system.
-Once you group your Customers by Territories, you can set annual targets for
-each Item Group and get reports that will show your actual performance in the
-territory v/s what you had planned.
-
-### Sales Person
-
-Sales Persons behave exactly like Territories. You can create an organization
-chart of Sales Persons where each Sales Person’s target can be set
-individually. Again as in Territory, the target has to be set against Item
-Group.
+You can also mention [Sales Person](/contents/crm/setup/sales-person) against a customer.
 
 ### Sales Partner
 
