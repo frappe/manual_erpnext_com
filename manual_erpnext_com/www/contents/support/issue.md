@@ -11,7 +11,7 @@ Frappe system.
 
 > Support > Issue > New Issue
 
-![Issue](/assets/manual_erpnext_com/old_images/erpnext/support-ticket.png)
+<img class="screenshot" alt="Issue" src="/assets/manual_erpnext_com/img/support/issue.png">
 
 #### Discussion Thread
 

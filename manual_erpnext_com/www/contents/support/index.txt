@@ -2,4 +2,5 @@ issue
 warranty-claim
 maintenance-visit
 maintenance-schedule
-newsletter
+communication
+serial-number
