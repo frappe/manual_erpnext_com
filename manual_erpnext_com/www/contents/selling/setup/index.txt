@@ -1,4 +1,3 @@
-customer-group
 sales-partner
 sales-person
 selling-settings
