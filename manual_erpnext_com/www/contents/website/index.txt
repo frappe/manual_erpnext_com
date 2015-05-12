@@ -1,7 +1,5 @@
-website-setup
-web-pages
-web-forms
-styling-the-website
+web-page
 blog-post
-add-products-to-website
-shopping-cart
+web-form
+blogger
+setup

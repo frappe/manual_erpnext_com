@@ -1,12 +1,10 @@
-# Web Pages
-
 <p class="lead">Static Content like your Home Page, About Us, Contact Us, Terms pages can be created using the Web Page. </p>
 
 To create a new Web Page, go to:
 
-> Website > Web Page > New Web Page
+> Website > Web Page > New
 
-![Web Page](/assets/manual_erpnext_com/old_images/erpnext/webpage.png)
+<img class="screenshot" alt="Web Page" src="/assets/manual_erpnext_com/img/website/web-page.png">
 
 #### Title
 

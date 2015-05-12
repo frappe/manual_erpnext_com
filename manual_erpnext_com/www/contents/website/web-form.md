@@ -10,14 +10,14 @@ You can add forms in your website for example, Contact Us, Inquiry, Complaint et
 
 To create a new **Web Form** go to:
 
-> Website > Web Form > New Web Form
+> Website > Web Form > New
 
 1. Set the Web Form title and url.
 1. Select the **DocType** in which you want the user to store the records.
 1. Select if you require the user to login, edit records, manage multiple records etc.
 1. Add the fields you want in the record.
 
-![Make Web Form](/assets/manual_erpnext_com/old_images/erpnext/website/make-web-form.gif)
+<img class="screenshot" alt="Web Form" src="/assets/manual_erpnext_com/img/website/web-form.png">
 
 ---
 
@@ -25,14 +25,12 @@ To create a new **Web Form** go to:
 
 Once you create the web form, you can view it on the url and test it out!
 
-![View Web Form](/assets/manual_erpnext_com/old_images/erpnext/website/view-web-form.gif)
+<img class="screenshot" alt="Web form" src="/assets/manual_erpnext_com/img/website/web-form-view.png">
 
 ---
 
 ### Results
 
 Your data will be stored in the table you have selected
-
-![View Data](/assets/manual_erpnext_com/old_images/erpnext/website/web-form-event.png)
 
 {next}
