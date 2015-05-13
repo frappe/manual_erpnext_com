@@ -5,7 +5,7 @@ Items (products or services) for a particular reason.
 
 To generate a Material Request manually go to:
 
-> Buying > Documents > Material Request > New Material Request
+> Stock > Documents > Material Request > New
 
 #### Creating Material Request 
 
@@ -17,6 +17,12 @@ A Material Request can be generated:
   * Automatically when the Projected Quantity of an Item in stores reaches a particular level.
   * Automatically from your Bill of Materials if you use Production Plan to plan your manufacturing activities.
   * If your Items are inventory items, you must also mention the Warehouse where you expect these Items to be delivered. This helps to keep track of the [Projected Quantity](/contents/stock/projected-quantity) for this Item.
+
+A Material Request can be of type:
+
+* Purchase - If the request material is to be purchased.
+* Material Transfer - If the requested material is to be shifted from one warehouse to another.
+* Material Issue - If the requested material is to be Issued.
 
 > Info: Material Request is not mandatory. It is ideal if you have centralized
 buying so that you can collect this information from various departments.
