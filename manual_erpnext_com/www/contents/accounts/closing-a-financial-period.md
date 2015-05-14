@@ -9,7 +9,7 @@ etc. and book your Profit or Loss.
 
 By doing this, your balance in your Income and Expense Accounts become zero. You start a new Fiscal Year (or period) with a balanced Balance Sheet and fresh Profit and Loss account.
 
-In ERPNext after making all the special entries via Journal Voucher for the current fiscal year, you should set all your Income and Expense accounts to zero via:
+In ERPNext after making all the special entries via Journal Entry for the current fiscal year, you should set all your Income and Expense accounts to zero via:
 
 > Accounts > Tools > Period Closing Voucher
 

@@ -8,9 +8,9 @@ bed costing Rs 100000/- She is asked to give some advance before the furniture
 house begins work on her order. She gives them Rs 1000/- in cash.
 
   
-Go to Accounts and open a new Journal Voucher to make the advance entry.
+Go to Accounts and open a new Journal Entry to make the advance entry.
 
-> Accounts > Documents > Journal Voucher > New Journal Voucher  
+> Accounts > Documents > Journal Entry > New Journal Entry  
 
 Mention the voucher type as cash voucher. This differs for different
 customers. If somebody pays by cheque the voucher type will be Bank Voucher.
@@ -26,7 +26,7 @@ the row "Is Advance" click 'Yes'.
 
 
 
-#### Figure 1 : Journal Voucher -Advance Entry  
+#### Figure 1 : Journal Entry -Advance Entry  
 
    
 
@@ -64,7 +64,7 @@ in the Sales Invoice Form.
 
   
 
-To link the Sales Invoice to the Journal Voucher which mentions the advance
+To link the Sales Invoice to the Journal Entry which mentions the advance
 payment entry, click on ‘Get Advances Received’.  Allocate the amount of
 advance in the advances table. The accounting will be adjusted accordingly.
 

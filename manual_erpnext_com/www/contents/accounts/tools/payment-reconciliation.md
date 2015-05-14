@@ -19,7 +19,7 @@ __Step 1:__ Select the Account against whom the payments need to be reconciled.
   
 
 __Step 2:__ Mention the Voucher Type, whether it is Purchase Invoice, Sales
-Invoice or Journal Voucher.
+Invoice or Journal Entry.
 
   
 

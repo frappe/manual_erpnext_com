@@ -1,15 +1,15 @@
 All types of accounting entries other than **Sales Invoice** and **Purchase
-Invoice** are made using the **Journal Voucher**. A **Journal Voucher** (also
-called Journal Entry) is a standard accounting transaction that affects
+Invoice** are made using the **Journal Entry**. A **Journal Entry** 
+is a standard accounting transaction that affects
 multiple Accounts and the sum of debits is equal to the sum of credits.
 
-To create a Journal Voucher go to:
+To create a Journal Entry go to:
 
-> Accounts > Documents > Journal Voucher > New Journal Voucher
+> Accounts > Documents > Journal Entry > New
 
-![Journal Voucher](/assets/manual_erpnext_com/old_images/erpnext/journal-voucher.png)
+<img class="screenshot" alt="Journal Entry" src="/assets/manual_erpnext_com/img/accounts/journal-entry.png">
 
-In a Journal Voucher, you must select.
+In a Journal Entry, you must select.
 
   * Type of Voucher from the drop down.
   * Add rows for the individual accounting entries. In each row, you must specify: 
@@ -22,7 +22,7 @@ In a Journal Voucher, you must select.
 #### Difference
 
 The “Difference” field is the difference between the Debit and Credit amounts.
-This should be zero if the Journal Voucher is to be “Submitted”. If this
+This should be zero if the Journal Entry is to be “Submitted”. If this
 number is not zero, you can click on “Make Difference Entry” to add a new row
 with the amount required to make the total as zero.
 
@@ -59,7 +59,7 @@ debts.
 
 Depreciation is when you write off certain value of your assets as an expense.
 For example if you have a computer that you will use for say 5 years, you can
-distribute its expense over the period and pass a Journal Voucher at the end
+distribute its expense over the period and pass a Journal Entry at the end
 of each year reducing its value by a certain percentage.
 
   * Debit: Depreciation (Expense)

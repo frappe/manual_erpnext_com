@@ -38,7 +38,7 @@ assets
 #### The Opening Entry
 
 In ERPNext Opening Accounts are setup by submitting a special Journal Entries
-(Journal Voucher).
+(Journal Entry).
 
 Note: Make sure to set “Is Opening” as “Yes” in the More Info section.
 
@@ -48,9 +48,9 @@ Complete Journal Entries on the Debit and Credit side.
 
 ![Opening Entry](/assets/manual_erpnext_com/old_images/erpnext/opening-entry-1.png)
 
- To update opening balance is to make Journal Voucher for an individual/group of accounts.
+ To update opening balance is to make Journal Entry for an individual/group of accounts.
 
-For example, if you want to update balance in three bank accounts, then make Journal Vouchers in this manner.
+For example, if you want to update balance in three bank accounts, then make Journal Entrys in this manner.
 
 ![Opening Temp Entry](/assets/manual_erpnext_com/old_images/erpnext/image-temp-opening.png)
 
@@ -61,10 +61,10 @@ Temporary Asset and Liability account is used for balancing purpose. When you up
 
 This way, you can update opening balance in Asset and Liability accounts.
 
-You can make two Opening Journal Vouchers:
+You can make two Opening Journal Entrys:
 
   * For all assets (excluding Accounts Receivables): This entry will contain all your assets except the amounts you are expecting from your Customers against outstanding Sales Invoices. You will have to update your receivables by making an individual entry for each Invoice (this is because, the system will help you track the invoices which are yet to be paid). You can credit the sum of all these debits against the **Temperory Opening** account.
-  * For all liabilities: Similarly you need to pass a Journal Voucher for your Opening Liabilities (except for the bills you have to pay) against **Temperory Opening** account.
+  * For all liabilities: Similarly you need to pass a Journal Entry for your Opening Liabilities (except for the bills you have to pay) against **Temperory Opening** account.
   * In this method you can update opening balance of specific balancesheet accounts and not for all.
   * Opening entry is only for balance sheet accounts and not for expense or Income accounts.
 
@@ -76,7 +76,7 @@ like the one given below:
 
 #### Outstanding Invoices
 
-After your Opening Journal Vouchers are made, you will need to enter each
+After your Opening Journal Entrys are made, you will need to enter each
 Sales Invoice and Purchase Invoice that is yet to be paid.
 
 Since you have already booked the income or expense on these invoices in the

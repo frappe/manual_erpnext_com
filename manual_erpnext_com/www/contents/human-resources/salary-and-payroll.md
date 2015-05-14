@@ -105,12 +105,12 @@ there is only one payment entry in the company’s books of accounts and anyone
 with access to the company’s accounts will not have access to the individual
 salaries.
 
-The salary payment entry is a Journal Voucher entry that debits the total
+The salary payment entry is a Journal Entry entry that debits the total
 salary of all Employees to the Salary Account and credits the company’s bank
 Account.
 
 To generate your salary payment voucher from the Salary Manager, click on
-“Make Bank Voucher” and a new Journal Voucher with the total salaries will be
+“Make Bank Voucher” and a new Journal Entry with the total salaries will be
 created.
 
 {next}

@@ -35,7 +35,7 @@ __Step 4:__ Save the Document and Submit it.
 
   
 
-Make a Debit Note and Save the Journal Voucher.
+Make a Debit Note and Save the Journal Entry.
 
   
 #### Figure 4: Journal Entries details

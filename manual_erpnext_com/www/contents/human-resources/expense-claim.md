@@ -26,7 +26,7 @@ approved or rejected.
 
 ### Booking the Expense and Reimbursement
 
-The approved Expense Claim must then be converted into a Journal Voucher and a
+The approved Expense Claim must then be converted into a Journal Entry and a
 payment must be made. Note: This amount should not be clubbed with Salary
 because the amount will then be taxable to the Employee.
 

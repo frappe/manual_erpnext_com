@@ -45,9 +45,7 @@ __Step 4:__ Click on the JV from the table and update clearance date.
 
 #### Figure 2: Bank Reconciliation Tool
 
-![](/assets/manual_erpnext_com/old_images/erpnext/bank-reconciliation-1.png)  
-
-  
+<img class="screenshot" alt="Bank Reconciliation" src="/assets/manual_erpnext_com/img/accounts/bank-reconciliation.png">
 
 __Step 5:__ Click on the button 'Update Clearance Date'.
  
