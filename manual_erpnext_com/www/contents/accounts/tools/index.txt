@@ -1,3 +1,4 @@
 bank-reconciliation
 payment-reconciliation
+period-closing-voucher
 payment-tool

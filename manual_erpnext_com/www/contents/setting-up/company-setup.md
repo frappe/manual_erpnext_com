@@ -7,6 +7,4 @@ After clicking on Setup, go to Masters and click on Company.
 
 > Setup > Masters > Company > New Company
 
-![Company Setup](/assets/manual_erpnext_com/old_images/erpnext/company.png)
-
 {next}

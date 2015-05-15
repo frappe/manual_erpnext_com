@@ -26,9 +26,6 @@ of your business is doing better. Since ERPNext has an option to add multiple
 Companies, you can create Cost Centers for each Company and manage it
 separately.
 
-To understand chart of cost centers in detail visit [Accounting Knowledge
-.](/contents/accounts/introduction-to-accounting)
-
 Chart of Cost Centers
 
 To setup your Chart of Cost Centers go to:

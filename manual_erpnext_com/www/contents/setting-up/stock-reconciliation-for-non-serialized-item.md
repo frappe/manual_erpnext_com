@@ -19,18 +19,15 @@ You can upload your opening stock balance in the system using Stock Reconciliati
 Stock Reconciliation will update your stock for a given Item on a given date
 for a given Warehouse to the given quantity.
 
-Tip: Stock Reconciliation can also be used to update the “value” of an Item.
-To understand how Items are valued read [Valuation](/contents/stock/item-valuation-fifo-and-moving-average).
-
 To perform Stock Reconciliation, go to:
 
-> Stock >> Tools >> Stock Reconciliation >> New Stock Reconciliation
+> Stock > Tools > Stock Reconciliation > New
 
 #### Step 1: Download Template
 
 A predefined template of an spreadsheet file should be followed for importing item's stock levels and valuations. Open new Stock Reconciliation form to see download option.
 
-![Stock Reco Template](/assets/manual_erpnext_com/old_images/erpnext/stock-reco-template.png)
+<img class="screenshot" alt="Stock Reconciliation" src="/assets/manual_erpnext_com/img/setup/stock-recon-1.png">
 
 #### Step 2: Enter Data in csv file.
 
@@ -44,7 +41,7 @@ So leave the field blank.
 
 #### **Step 3: Upload file and Enter Values in Stock Reconciliation Form
 
-![Stock Reco Browse](/assets/manual_erpnext_com/old_images/erpnext/stock-reco-browse.png)
+<img class="screenshot" alt="Stock Reconciliation" src="/assets/manual_erpnext_com/img/setup/stock-recon-2.png">
 
 **Posting Date**
 
@@ -155,5 +152,7 @@ Let's assume Purchase Receipt entry is made on 5th January, 2014, that is on dat
 	</table>
 </html>
 As per the updated logic, irrespective of receipt/issue entry made for an item, balance quantity as set via Stock Reconciliation will not be affected.
+
+> Check out the video tutorial at https://www.youtube.com/watch?v=0yPgrtfeCTs
 
 {next}

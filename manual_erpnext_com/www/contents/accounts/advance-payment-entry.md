@@ -17,22 +17,14 @@ customers. If somebody pays by cheque the voucher type will be Bank Voucher.
 Then select the customer account and make the respective debit and credit
 entries.  
 
-  
-
 Since the customer has given 10000/- as cash advance,it will be recorded as a
 credit entry against the customer. To balance it with the debit entry[Double
 accounting Entry]enter 10000/- as debit against the company's cash account. In
 the row "Is Advance" click 'Yes'.
 
-
-
 #### Figure 1 : Journal Entry -Advance Entry  
 
-   
-
-![](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-jv-advance.png)  
-
-  
+<img class="screenshot" alt="Advace Payment" src="/assets/manual_erpnext_com/img/accounts/advance-payment-1.png">
 
 ### Double Entry Accounting  
 
@@ -48,30 +40,22 @@ will be credited because it has given value.
 
   
 #### Figure 2: Transaction and Difference Entry
-![](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-jv-credit-childbed.png)  
 
-  
-
-  
+<img class="screenshot" alt="Advace Payment" src="/assets/manual_erpnext_com/img/accounts/advance-payment-2.png">
 
 Save and submit the JV. If this document is not saved it will not be pulled in
 other accounting documents.
 
-  
-
 When you make a new Sales Invoice for the same customer, mention the advance
 in the Sales Invoice Form.
-
-  
 
 To link the Sales Invoice to the Journal Entry which mentions the advance
 payment entry, click on ‘Get Advances Received’.  Allocate the amount of
 advance in the advances table. The accounting will be adjusted accordingly.
 
 #### Figure 3: Receive Advance 
-![](/assets/manual_erpnext_com/old_images/erpnext/e-t-o-salinv-get-advance-childbed.png)  
 
-  
+<img class="screenshot" alt="Advace Payment" src="/assets/manual_erpnext_com/img/accounts/advance-payment-3.png">
 
 Save and submit the Sales Invoice.
 

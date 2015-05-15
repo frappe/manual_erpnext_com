@@ -37,7 +37,7 @@ based on statutory (tax, compliance to government regulations) requirements.
 
 Let us understand the main groups of the Chart of Accounts.
 
-![Chart of Accounts: Root Accounts](/assets/manual_erpnext_com/old_images/erpnext/chart-of-accounts.png)
+<img class="screenshot" alt="Chart of Accounts" src="/assets/manual_erpnext_com/img/accounts/chart-of-accounts-1.png">
 
 ### Balance Sheet Accounts
 
@@ -95,7 +95,7 @@ Supplier).
 
 > Note: An Account “Ledger” is also sometimes called as Account “Head”.
 
-![Chart of Accounts: Groups and Ledger](/assets/manual_erpnext_com/old_images/erpnext/chart-of-accounts-1.png)
+<img class="screenshot" alt="Chart of Accounts" src="/assets/manual_erpnext_com/img/accounts/chart-of-accounts-2.png">
 
 ### Other Account Types
 
@@ -104,16 +104,13 @@ Account, this is there to help you select that particular account in a
 scenario like Bank Account or a Tax Account and has no effect on the Chart
 itself.
 
-You can also tag if an account represents a Customer, Supplier or Employee in
-"Master Type".
-
 ### Creating / Editing Accounts
 
 To create new Accounts, explore your Chart of Accounts and click on an Account
 group under which you want to create the new Account. On the right side, you
 will see an option to “Open” or “Add Child” a new Account.
 
-![Chart of Accounts: New Account](/assets/manual_erpnext_com/old_images/erpnext/chart-of-accounts-2.png)
+<img class="screenshot" alt="Chart of Accounts" src="/assets/manual_erpnext_com/img/accounts/chart-of-accounts-3.png">
 
 Option to create will only appear if you click on a Group (folder) type
 Account.

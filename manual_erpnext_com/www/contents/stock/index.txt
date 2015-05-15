@@ -7,5 +7,7 @@ item
 warehouse
 serial-no
 batch
+projected-quantity
+accounting-of-inventory-stock
 tools
 setup

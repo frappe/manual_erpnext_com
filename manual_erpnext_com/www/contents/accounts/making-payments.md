@@ -6,7 +6,7 @@ clicking on “Make Payment Entry” button on “Submitted” invoices.
   3. Enter the cheque number, cheque date.
   4. Save and Submit.
 
-![Payment Entry](/assets/manual_erpnext_com/old_images/erpnext/payment-entry.png)
+<img class="screenshot" alt="Manking Payment" src="/assets/manual_erpnext_com/img/accounts/make-payment.png">
 
 Payments can also be made independent of invoices by creating a new Journal
 Voucher and selecting the type of payment.

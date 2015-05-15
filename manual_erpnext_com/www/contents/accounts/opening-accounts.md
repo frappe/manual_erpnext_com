@@ -23,7 +23,7 @@ Based on Voucher Type
 
 You can select accounts based on the voucher type. In such a scenario, your balance sheet should be balanced.
 
-![Opening Entry](/assets/manual_erpnext_com/old_images/erpnext/opening-entry.png)
+<img class="screenshot" alt="Opening Account" src="/assets/manual_erpnext_com/img/accounts/opening-account-1.png">
 
  Also, note that if there are more than 300 ledgers, the system will crash. Thus to avoid such a situation, you can open accounts by using temporary accounts.
 
