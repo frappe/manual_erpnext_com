@@ -8,12 +8,12 @@ inventory.
 The entry of the Delivery Note is very similar to a Purchase Receipt. You can
 create a new Delivery Note from:
 
-> Stock > Delivery Note > New Delivery Note
+> Stock > Delivery Note > New
 
 or from a “Submitted” Sales Order (that is not already shipped) by clicking on
 “Make Delivery Note”.
 
-![Delivery Note](/assets/manual_erpnext_com/old_images/erpnext/delivery-note.png)
+<img class="screenshot" alt="Delivery Note" src="/assets/manual_erpnext_com/img/stock/delivery-note.png">
 
 You can also “fetch” the details from an unshipped Sales Order.
 
@@ -22,7 +22,7 @@ details are carried over from your Sales Order.
 
 ### Shipping Packets or Items with Sales BOM
 
-If you are shipping Items that have a [Sales BOM](/contents/selling/sales-bill-of-material), ERPNext will automatically
+If you are shipping Items that have a [Sales BOM](/contents/selling/setup/sales-bom), ERPNext will automatically
 create a “Packing List” table for you based on the sub-Items in that Item.
 
 If your Items are serialized, then for Sales BOM type of Items, you will have

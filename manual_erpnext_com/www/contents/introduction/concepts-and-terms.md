@@ -101,13 +101,13 @@ product line or business group (for example online sales, retail sales)
 
 > Accounts > Chart of Cost Centers
 
-#### Journal Voucher
+#### Journal Entry
 
 A document that contains General Ledger (GL) entries and the sum of Debits and
 Credits of those entries is the same. In ERPNext you can update Payments,
-Returns etc using Journal Vouchers.
+Returns etc using Journal Entrys.
 
-> Accounts > Journal Voucher
+> Accounts > Journal Entry
 
 #### Sales Invoice
 

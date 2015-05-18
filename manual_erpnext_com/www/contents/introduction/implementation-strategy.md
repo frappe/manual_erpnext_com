@@ -10,8 +10,8 @@ implementation should happen in two phases.
   * Create a free account at [https://erpnext.com](https://erpnext.com) (the easiest way to experiment).
   * Create your first Customer, Supplier and Item. Add a few more so you get familiar with them.
   * Create Customer Groups, Item Groups, Warehouses, Supplier Groups, so that you can classify your Items.
-  * Complete a standard sales cycle - Lead > Opportunity > Quotation > Sales Order > Delivery Note > Sales Invoice > Payment (Journal Voucher)
-  * Complete a standard purchase cycle - Material Request > Purchase Order > Purchase Receipt > Payment (Journal Voucher).
+  * Complete a standard sales cycle - Lead > Opportunity > Quotation > Sales Order > Delivery Note > Sales Invoice > Payment (Journal Entry)
+  * Complete a standard purchase cycle - Material Request > Purchase Order > Purchase Receipt > Payment (Journal Entry).
   * Complete a manufacturing cycle (if applicable) - BOM > Production Planning Tool > Production Order > Material Issue > Sales Return
   * Replicate a real life scenario into the system.
   * Create custom fields, print formats etc as required.
@@ -26,7 +26,7 @@ Once you are familiar with ERPNext, start entering your live data!
   * Setup all the modules with Customer Groups, Item Groups, Warehouses, BOMs etc.
   * Import Customers, Suppliers, Items, Contacts and Addresses using Data Import Tool.
   * Import opening stock using Stock Reconciliation Tool.
-  * Create opening accounting entries via Journal Voucher and create outstanding Sales Invoices and Purchase Invoices.
+  * Create opening accounting entries via Journal Entry and create outstanding Sales Invoices and Purchase Invoices.
   * If you need help, [you can buy support](https://erpnext.com/pricing) or [ask in the user forum](https://discuss.frappe.io).
 
 {next}

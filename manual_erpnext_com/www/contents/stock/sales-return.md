@@ -36,7 +36,7 @@ This will help in linking the document to either the Delivery  Note or to the Sa
 #### Credit Note
 
 Once the Stock Entry is submitted, you can click on Make Credit Note button
-and a new Journal Voucher will be created pre-filled with the customer's
+and a new Journal Entry will be created pre-filled with the customer's
 account and Items' income account.
 
 ![Sales Return](/assets/manual_erpnext_com/old_images/erpnext/sales-return-4.png)

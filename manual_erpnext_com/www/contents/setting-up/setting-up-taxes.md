@@ -86,8 +86,7 @@ Charges Master.
 This is the tax template that you can use in your Purchase Orders and Purchase
 Invoices. If you have value added taxes (VAT), where you pay to the government
 the difference between your incoming and outgoing taxes, you can select the
-same Account that you use for sales taxes. For more details see [Purchase
-Taxes](/contents/buying/purchase-taxes).
+same Account that you use for sales taxes.
 
 The columns in this table are similar to the Sales Taxes and Charges Master
 with the difference as follows:

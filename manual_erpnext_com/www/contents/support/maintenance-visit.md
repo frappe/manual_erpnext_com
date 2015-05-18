@@ -4,7 +4,7 @@ Maintenance Visit from:
 
 > Support > Maintenance Visit > New Maintenance Visit
 
-![Maintenance Visit](/assets/manual_erpnext_com/old_images/erpnext/maintenance-visit.png)
+<img class="screenshot" alt="Maintenance Visit" src="/assets/manual_erpnext_com/img/support/maintenance-visit.png">
 
 The Maintenance Visit contains information about the:
 

@@ -6,7 +6,7 @@ relevant account.
 
 Steps:
 
-  * Nullify the balance of account heads (stock-in-hand / fixed-asset) which you are using to maintain available stock value, through a Journal Voucher.
+  * Nullify the balance of account heads (stock-in-hand / fixed-asset) which you are using to maintain available stock value, through a Journal Entry.
 
   * As existing warehouses are linked to stock transactions which does not have corresponding accounting entries, those warehouses can not be used for perpetual inventory. You have to create new warehouses for the future stock transactions which will be linked to their respective accounts. While creating new warehouses, select an account group under which the child account for the warehouse will be created.
 
@@ -30,7 +30,7 @@ submitted prior to the activation of Perpetual Inventory as those old
 warehouses will not be linked to any account. If you create any new
 transaction or modify/amend existing transactions, with old warehouse, there
 will be no corresponding accounting entries. You have to manually sync stock
-and account balance through Journal Voucher.
+and account balance through Journal Entry.
 
 > Note: If you are already using old Perpetual Inventory system, it will be
 deactivated automatically. You need to follow the above steps to reactivate

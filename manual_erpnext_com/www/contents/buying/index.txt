@@ -1,5 +1,4 @@
 supplier
-material-request
 supplier-quotation
 purchase-order
 contact

@@ -1,11 +1,3 @@
-selling-setup
-customer-master
-discount
-lead
-opportunity
 quotation
 sales-order
-sales-person-target-allocation
-sales-bill-of-material
-campaign
-item-price
+setup

@@ -6,7 +6,7 @@ You can create a Sales Invoice directly from
 
 or Click on Make Invoice at the right hand corner of the Delivery Note.
 
-![Sales Invoice](/assets/manual_erpnext_com/old_images/erpnext/sales-invoice.png)
+<img class="screenshot" alt="Sales Invoice" src="/assets/manual_erpnext_com/img/accounts/sales-invoice.png">
 
 #### Accounting Impact
 

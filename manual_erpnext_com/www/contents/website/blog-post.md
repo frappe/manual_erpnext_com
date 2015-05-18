@@ -8,13 +8,13 @@ To create a new blog, just create a new Blog from:
 
 > Website > Blog > New Blog
 
-![Blog](/assets/manual_erpnext_com/old_images/erpnext/blog.png)
+<img class="screenshot" alt="Blog Post" src="/assets/manual_erpnext_com/img/website/blog-post.png">
 
 You can format a blog using the Markdown format.You can also access your blog
 by going to the page “blog.html”.
 
 #### A sample blog-page.
 
-![Blog](/assets/manual_erpnext_com/old_images/erpnext/blog-look.png)
+<img class="screenshot" alt="Blog Sample" src="/assets/manual_erpnext_com/img/website/blog-sample.png">
 
 {next}

@@ -7,25 +7,15 @@ To create a new Quotation go to:
 
 > Selling > Quotation > New Quotation
 
-#### Step 1: Enter Customer Details and Order Type.
+###Creating Quotation from Oppurtunity
 
-  
+You can also create a Quotation from an Opportunity.
 
-![Quotation](/assets/manual_erpnext_com/old_images/erpnext/quotation.png)
+<img class="screenshot" alt="Make Quotation from Opportunity" src="/assets/manual_erpnext_com/img/selling/make-quote-from-opp.png">
 
-  
+Or You can create a new Quotation and pull details from an Opportunity.
 
-#### Step 2: Add Currency and Price List
-
-  
-
-![Quotation](/assets/manual_erpnext_com/old_images/erpnext/quotation-1.png)
-
-#### Step 3: Enter Item and Tax Details.
-
-  
-
-![Quotation](/assets/manual_erpnext_com/old_images/erpnext/quotation-2.png)
+<img class="screenshot" alt="Make Quotation from Opportunity" src="/assets/manual_erpnext_com/img/selling/make-quotation.gif">
 
 A Quotation contains details about:
 
@@ -53,7 +43,7 @@ The rates you quote may depend on two things.
 
 To add taxes to your Quotation, you can either select a tax template, Sales
 Taxes and Charges Master or add the taxes on your own. To understand taxes in
-detail visit [Taxes](http://erpnext.org/setting-up-taxes)
+detail visit [Taxes](/contents/setting-up/setting-up-taxes)
 
 You can add taxes in the same manner as the Sales Taxes and Charges Master.
 

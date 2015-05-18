@@ -6,7 +6,7 @@ clicking on “Make Payment Entry” button on “Submitted” invoices.
   3. Enter the cheque number, cheque date.
   4. Save and Submit.
 
-![Payment Entry](/assets/manual_erpnext_com/old_images/erpnext/payment-entry.png)
+<img class="screenshot" alt="Manking Payment" src="/assets/manual_erpnext_com/img/accounts/make-payment.png">
 
 Payments can also be made independent of invoices by creating a new Journal
 Voucher and selecting the type of payment.
@@ -36,7 +36,7 @@ statements will not accurately match the dates of your entry, this is because
 the bank usually takes time to “clear” these payments. Also you may have
 mailed a cheque to your Supplier and it may be a few days before it is
 received and deposited by the Supplier. In ERPNext you can synchronize your
-bank statements and your Journal Vouchers using the “Bank Reconciliation”
+bank statements and your Journal Entrys using the “Bank Reconciliation”
 tool.
 
 To use this, go to:
@@ -70,7 +70,7 @@ Vouchers (in special cases, an invoice can be made via a Sales Invoice too).
 
 The total outstanding amount against an invoice is the sum of all the
 accounting entries that are made “against” (or are linked to) that invoice.
-This way you can combine or split payments in Journal Vouchers to manage the
+This way you can combine or split payments in Journal Entrys to manage the
 scenarios.
 
 ### Matching Payments to Invoices
@@ -85,7 +85,7 @@ In such cases, you can use the Payment to Invoice Matching Tool.
 > Accounts > Tools > Payment Reconciliation
 
 In this tool, you can select an account (your Customer’s account) and click on
-“Pull Payment Entries” and it will select all un-linked Journal Vouchers and
+“Pull Payment Entries” and it will select all un-linked Journal Entrys and
 Sales Invoices from that Customer.
 
 To cancel off some payments and invoices, select the Invoices and Journal

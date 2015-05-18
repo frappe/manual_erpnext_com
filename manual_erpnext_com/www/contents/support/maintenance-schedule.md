@@ -10,17 +10,7 @@ To create a new Maintenance Schedule go to:
 
 > Support > Maintenance Schedule > New Maintenance Schedule
 
-#### Step 1: Enter Customer Details
-
-![Maintenance Schedule](/assets/manual_erpnext_com/old_images/erpnext/maintenance-schedule-1.png)
-
-  
-
-#### Step 2: Fill Item and Maintenance Details
-
-![Maintenance Schedule](/assets/manual_erpnext_com/old_images/erpnext/maintenance-schedule-2.png)
-
-  
+<img class="screenshot" alt="Maintenance Schedule" src="/assets/manual_erpnext_com/img/support/maintenance-schedule.png">
 
 In the Maintenance Schedule, there are two sections:
 

@@ -1,14 +1,10 @@
-Territory is a place to signify where your customers come from. If you operate
-in one country, you can give that country name as your Territory. For Example,
-India, US, or Rest of the World, could be your Territories. If you operate in
-many locations, ERPNext allows you to create more Territories. You can also
-have child Territories under parent Territories. This helps in assigning
-different regions to different sales staff.
+If your business operates in multiple Territories (could be countries, states
+or cities) it is usually a great idea to build your structure in the system.
+Once you group your Customers by Territories, you can set annual targets for
+each Item Group and get reports that will show your actual performance in the
+territory v/s what you had planned.
+You can also set different pricing for the same product sold across different territories.
 
-![Territory Tree](/assets/manual_erpnext_com/old_images/erpnext/territory-tree.png)
-
-To add more territories to an existing tree, click on "Add Child"
-
-![Territory Tree](/assets/manual_erpnext_com/old_images/erpnext/territory-tree-1.png)
+<img class="screenshot" alt="Territory Tree" src="/assets/manual_erpnext_com/img/crm/territory-tree.png">
 
 {next}

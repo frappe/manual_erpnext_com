@@ -19,11 +19,11 @@ To make this Workflow and transition rules go to :
 
 #### Step 1: Enter the different states of Leave Approval Process.
 
-![Workflow](/assets/manual_erpnext_com/old_images/erpnext/workflow-leave1.png)
+<img class="screenshot" alt="Workflow" src="/assets/manual_erpnext_com/img/setup/workflow-1.png">
 
 #### Step 2: Enter Transition Rules.
 
-![Workflow](/assets/manual_erpnext_com/old_images/erpnext/workflow-leave2.png)
+<img class="screenshot" alt="Workflow" src="/assets/manual_erpnext_com/img/setup/workflow-2.png">
 
 #### Notes:
 

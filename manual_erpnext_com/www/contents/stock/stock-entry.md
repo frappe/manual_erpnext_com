@@ -3,18 +3,21 @@ Warehouse, to a Warehouse and between Warehouses.
 
 To make a Stock Entry you have to go to:
 
-> Stock > Stock Entry
+> Stock > Stock Entry > New
 
-![Stock Entry](/assets/manual_erpnext_com/old_images/erpnext/stock-entry.png)
+<img class="screenshot" alt="Stock Entry" src="/assets/manual_erpnext_com/img/stock/stock-entry.png">
 
-This can also be useful in tracking:
+Stock Entries can be made for the following purposes:
 
-  * Material Issues from Stores
-  * Sales and Purchase Returns
-  * Production (manufacturing).
-
-We will look into the special features of the Stock Entry later when we
-discuss Accounting and Manufacturing processes.
+* Material Issue - If the material is being issued. (Outgoing Material)
+* Material Receipt - If the material is being received. (Incoming Material)
+* Material Transfer - If the material is being moved from one warehouse to another.
+* Material Transfer for Manufacturing - If the material being transfered is for Manufacturing Process.
+* Manufacture - If the Material is being received from a Manufacturing/Production Operation.
+* Repack - If the Original item/items is being repacked into new item/items.
+* Subcontract - If the Material is being issued for a sub-contract activity.
+* Sales Return - If the Material that was sold was returned by the customer.
+* Purchase Return - If you have returned a material supplied by a supplier.
 
 In the Stock Entry you have to update the Items table with all your
 transactions. For each row, you must enter a “Source Warehouse” or a “Target
