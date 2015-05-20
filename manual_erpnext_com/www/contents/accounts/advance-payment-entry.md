@@ -4,8 +4,8 @@ receive advance.
 
   
 __For Example:__ Consider a customer- Jane D'souza placing an order for a double
-bed costing Rs 100000/- She is asked to give some advance before the furniture
-house begins work on her order. She gives them Rs 1000/- in cash.
+bed costing $10000 She is asked to give some advance before the furniture
+house begins work on her order. She gives them $5000 in cash.
 
   
 Go to Accounts and open a new Journal Entry to make the advance entry.
@@ -17,9 +17,9 @@ customers. If somebody pays by cheque the voucher type will be Bank Voucher.
 Then select the customer account and make the respective debit and credit
 entries.  
 
-Since the customer has given 10000/- as cash advance,it will be recorded as a
-credit entry against the customer. To balance it with the debit entry[Double
-accounting Entry]enter 10000/- as debit against the company's cash account. In
+Since the customer has given $5000 as cash advance,it will be recorded as a
+credit entry against the customer. To balance it with the debit entry [Double
+accounting Entry] enter $5000 as debit against the company's cash account. In
 the row "Is Advance" click 'Yes'.
 
 #### Figure 1 : Journal Entry -Advance Entry  
