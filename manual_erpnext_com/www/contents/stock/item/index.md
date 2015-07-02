@@ -7,10 +7,10 @@ ERPNext is optimized for itemized management of your sales and purchase. If you 
   * **Item Name:** Item name is the actual name of your product or service.
   * **Item Code:** Item Code is a short-form to denote your Item. If you have very few Items, it is advisable to keep the Item Name and the Item Code same. This helps new users to recognise and update Item details in all transactions. In case you have lot of Items with long names and the list runs in hundreds, it is advisable to code. To understand naming Item codes see [Item Codification](/contents/stock/item/item-codification)
   * **Item Group:** Item Group is used to categorize an Item under various criterias like products, raw materials, services, sub-assemblies, consumables or all Item groups. Create your default Item Group list under Setup> Item Group and pre-select the option while filling your New Item details under [Item Group](/contents/stock/setup/item-group)
-  * **Default Unit of Measure:** This is the default measuring unit that you will use for your product. It could be in nos, kgs, meters, etc. You can store all the UOM’s that your product will require under Set Up> Master Data > UOM. These can be preselected while filling New Item by using % sign to get a pop up of the UOM list. 
+  * **Default Unit of Measure:** This is the default measuring unit that you will use for your product. It could be in nos, kgs, meters, etc. You can store all the UOM’s that your product will require under Set Up> Master Data > UOM. These can be preselected while filling New Item by using % sign to get a pop up of the UOM list.
   * **Brand:** If you have more than one brand save them under Set Up> Master Data> Brand and pre-select them while filling a New Item.
-
-<im	g class="screenshot" alt="Item Master" src="/assets/manual_erpnext_com/img/buying/item-1.png">
+  * **Variant:** A Item Variant is a different version of a Item.To learn more about managing varaints see [Item Variants](/contents/stock/item/item-variants)
+<img class="screenshot" alt="Item Master" src="/assets/manual_erpnext_com/img/buying/item-1.png">
 
  * To upload an image for your icon that will appear in all transactions, save the partially filled form. Click on attach and upload the Image.
 

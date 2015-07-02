@@ -1,5 +1,5 @@
 <!--markdown-->
-Before we venture to learn form customization tool, click [here](https://frappe.io/kb/customization/form-architecture) to understand the architecture of forms in ERPNext. It shall help you in using Customize Form tool more efficiently.
+Before we venture to learn form customization tool, click [here](https://kb.frappe.io/kb/customization/form-architecture) to understand the architecture of forms in ERPNext. It shall help you in using Customize Form tool more efficiently.
 
 Customize Form is the tool which allows user to customize the property of standard fields as per the requirement. Let's assume we need to set Project Name field as mandatory in the Sales Order form. Following are the steps which shall be followed to achieve this.
 

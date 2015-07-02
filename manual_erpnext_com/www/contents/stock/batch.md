@@ -8,12 +8,12 @@ This helps them updating and tracking manufacturing and expiry date for all the 
 > Note: To set item as a batch item, "Has Batch No" field should be updated as Yes in the Item master.
 
 On every stock transaction (Purchase Receipt, Delivery Note, POS Invoice) made for batch item, 
-you should provider item's Batch No. To create new Batch No. master for an item, go to:
+you should provide item's Batch No. To create new Batch No. master for an item, go to:
 
 > Stock > Setup > Batch > New
 
 Batch master is created before creation of Purchase Receipt. 
-Hence eveytime their is Purchase Receipt or Production entry being made for a batch item, 
+Hence eveytime there is Purchase Receipt or Production entry being made for a batch item, 
 you will first create its Batch No, and then select it in Purcase order or Production Entry.
 
 <img class="screenshot" alt="batch" src="/assets/manual_erpnext_com/img/stock/batch.png">
