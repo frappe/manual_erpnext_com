@@ -7,7 +7,7 @@ see the demo at:
 
   * <https://demo.erpnext.com>
 
-### 2\. Start a Free Account at ERPNext.com, first 5 users are on us.
+### 2\. Start a Free Account at ERPNext.com
 
 
 ERPNext.com is managed by the organization (Frappe) that publishes ERPNext.
