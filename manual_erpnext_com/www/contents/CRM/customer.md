@@ -41,8 +41,8 @@ value and “Save” the Customer again.
 You can link a Price List to a Customer (select “Default Price List”), so that
 when you select that Customer, the Price List will be automatically selected.
 
-You can set “Credit Days” so that it is automatically set in the Sales
-Invoices made against this Customer.
+You can set “Credit Days”, so that it is automatically set due date in the Sales
+Invoices made against this Customer. Credit Days can be defined as fixed days or last day of the next month based on invoice date.
 
 You can set how much credit you want to allow for a Customer by adding the
 “Credit Limit”. You can also set a global “Credit Limit” in the Company
