@@ -13,6 +13,16 @@ A Task can have either of the following status - Open, Working, Pending Review, 
 
 * If a Time Log is made against a task, its status shall be set to 'Working'.
 
+### Dependent Task
+
+You can specify a list of dependent task under the 'Depends On' section.
+
+<img class="screenshot" alt="Depends On" src="/assets/manual_erpnext_com/img/project/task_depends_on.png">
+
+* You cannot close the parent Task until all 'Dependant Task' are closed.
+
+* If the Dependent Task are delayed and overlap with the expected Start Date of the Parent task, the system will reschedule the parent task.
+
 ### Managing Time
 
 ERPNext uses [Time Log](/contents/projects/time-log) to track the progress of a Task.
