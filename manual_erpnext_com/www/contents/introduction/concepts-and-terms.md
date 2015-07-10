@@ -294,7 +294,7 @@ A type of leave (for example, Sick Leave, Maternity Leave etc.)
 
 > Human Resource > Leave and Attendance > Leave Type
 
-#### Salary Manager
+#### Process Payroll
 
 A tool that will help creation of multiple Salary Slips for Employees.
 

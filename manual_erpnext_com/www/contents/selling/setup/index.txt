@@ -1,4 +1,4 @@
 selling-settings
 sales-partner
 shipping-rule
-sales-bom
+product-bundle
