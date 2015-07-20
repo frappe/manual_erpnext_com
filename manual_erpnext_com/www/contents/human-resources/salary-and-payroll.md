@@ -5,7 +5,7 @@ Payroll is the administration of financial records of employees' salaries, wages
 To process Payroll in ERPNext,
 
   1. Create Salary Structures for all Employees.
-  2. Generate Salary Slips via the Process Payroll Tool.
+  2. Generate Salary Slips via Process Payroll.
   3. Book the Salary in your Accounts.
 
 ### Salary Structure
@@ -69,7 +69,7 @@ Earning Types and Deduction Types.
 ### Creating Salary Slips
 
 Once the Salary Structure is created, you can make a salary slip from the same
-form or you can process your payroll for the month using the Process Payroll.
+form or you can process your payroll for the month using Process Payroll.
 
 To create a salary slip from Salary Structure, click on the button Make Salary
 Slip.
@@ -78,15 +78,15 @@ Slip.
 
 <img class="screenshot" alt="Salary Slip" src="/assets/manual_erpnext_com/img/human-resources/salary-slip.png">
 
-Through Process Payroll:
+You can also create salary slip for multiple employees using Process Payroll:
 
 > Human Resources > Process Payroll
 
 #### Figure 3: Process Payroll
 
-<img class="screenshot" alt="Process Payroll" src="/assets/manual_erpnext_com/img/human-resources/process-payrole.png">
+<img class="screenshot" alt="Process Payroll" src="/assets/manual_erpnext_com/img/human-resources/process-payroll.png">
 
-In the Process Payroll tool,
+In Process Payroll,
 
   1. Select the Company for which you want to create the Salary Slips.
   2. Select the Month and the Year for which you want to create the Salary Slips.
@@ -109,7 +109,7 @@ The salary payment entry is a Journal Entry entry that debits the total
 salary of all Employees to the Salary Account and credits the company’s bank
 Account.
 
-To generate your salary payment voucher from the Process Payroll, click on
+To generate your salary payment voucher from Process Payroll, click on
 “Make Bank Voucher” and a new Journal Entry with the total salaries will be
 created.
 

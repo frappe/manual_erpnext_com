@@ -7,8 +7,7 @@ Group.
 
 ####Sales Person in Transactions
 
-You can use this Sales Person in Customer, and sales transactions like Sales Order, Delivery Note and Sales Invoice. 
-Based on Sales Person mentioned in the transaction, you will performance report of Sales Persons. 
+You can use this Sales Person in Customer and sales transactions like Sales Order, Delivery Note and Sales Invoice.
 Click [here](https://erpnext.com/kb/selling/managing-sales-persons-in-sales-transactions) to learn more 
 about how Sales Persons are used in the transactions of Sales Cycle.
 
