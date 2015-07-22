@@ -11,3 +11,5 @@ projected-quantity
 accounting-of-inventory-stock
 tools
 setup
+sales-return
+purchase-return

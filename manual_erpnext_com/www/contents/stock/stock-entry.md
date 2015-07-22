@@ -16,8 +16,6 @@ Stock Entries can be made for the following purposes:
 * Manufacture - If the Material is being received from a Manufacturing/Production Operation.
 * Repack - If the Original item/items is being repacked into new item/items.
 * Subcontract - If the Material is being issued for a sub-contract activity.
-* Sales Return - If the Material that was sold was returned by the customer.
-* Purchase Return - If you have returned a material supplied by a supplier.
 
 In the Stock Entry you have to update the Items table with all your
 transactions. For each row, you must enter a “Source Warehouse” or a “Target
