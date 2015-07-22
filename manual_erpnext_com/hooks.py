@@ -30,7 +30,8 @@ website_context = {
 	},
 	"custom_footer": """<div class="text-extra-muted manual-feedback" style="padding-bottom: 70px;">
 		<a class="underline" href="https://discuss.frappe.io" target="_blank">
-			Have questions? Ask at the forum.</a></div>"""
+			Have questions? Ask at the forum.</a></div>""",
+	"favicon": "/assets/frappe_theme/img/favicon.ico",
 }
 
 website_clear_cache = "manual_erpnext_com.utils.clear_contents"
