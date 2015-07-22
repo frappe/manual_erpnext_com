@@ -15,7 +15,7 @@ website_route_rules = [
 ]
 
 website_context = {
-	"brand_html": "The ERPNext Manual",
+	"brand_html": "<img class='navbar-icon' src='/assets/frappe_theme/img/erp-icon.svg' />The ERPNext Manual",
 	"top_bar_items": [
 		{"label": "Contents", "url": "/contents", "right": 1},
 		{"label": "FAQs", "url": "https://kb.erpnext.com", "right": 1, "target": 'target="_blank"'},
