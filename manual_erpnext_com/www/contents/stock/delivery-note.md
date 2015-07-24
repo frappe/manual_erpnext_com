@@ -20,12 +20,12 @@ You can also “fetch” the details from an unshipped Sales Order.
 You will notice that all the information about unshipped Items and other
 details are carried over from your Sales Order.
 
-### Shipping Packets or Items with Sales BOM
+### Shipping Packets or Items with Product Bundle
 
-If you are shipping Items that have a [Sales BOM](/contents/selling/setup/sales-bom), ERPNext will automatically
+If you are shipping Items that have a [Product Bundle](/contents/selling/setup/sales-bom), ERPNext will automatically
 create a “Packing List” table for you based on the sub-Items in that Item.
 
-If your Items are serialized, then for Sales BOM type of Items, you will have
+If your Items are serialized, then for Product Bundle type of Items, you will have
 to update the Serial Number in the “Packing List” table.
 
 ### Packing Items in to Cases, for Container Shipment

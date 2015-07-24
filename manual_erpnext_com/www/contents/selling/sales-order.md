@@ -37,7 +37,7 @@ update.
 ### Packing List
 
 The “Packing List” table will be automatically updated when you “Save” the
-Sales Order. If any Items in your table are Sales BOM (packets), then the
+Sales Order. If any Items in your table are Product Bundle (packets), then the
 “Packing List” will contain the exploded (detailed) list of your Items.
 
 ### Reservation and Warehouses
