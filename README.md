@@ -19,12 +19,14 @@ $ bench new-site manual.erpnext.com
 Step 2. Then install the app in the bench
 
 ```
+$ bench get-app frappe_theme git@github.com:frappe/frappe_theme
 $ bench get-app manual_erpnext_com git@github.com:frappe/manual_erpnext_com
 ```
 
 Step 3: Then install the app in the site
 
 ```
+$ bench --site manual.erpnext.com install-app frappe_theme
 $ bench --site manual.erpnext.com install-app manual_erpnext_com
 ```
 
