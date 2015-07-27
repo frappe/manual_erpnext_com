@@ -1,44 +1,27 @@
-Goods sold being returned is quite a common practice in Business. They could
+Goods sold being returned is quite a common practice in business. They could
 be returned by the customer on quality issues, non-delivery on agreed date, or
-any other reason. ERPNext allows this transaction for ease of accounting.
+any other reason. 
 
-> Stock > Stock Entry > New Stock Entry
+In ERPNext, you can create a Sales Return by simply making a Delivery Note / Sales Invoice with negative quantity.
 
-#### Step 1: Select Purpose as "Sales Return"
+First open the original Delivery Note / Sales Invoice, against which customer returned the items.
 
+<img class="screenshot" alt="Original Delivery Note" src="/assets/manual_erpnext_com/img/stock/sales-return-original-delivery-note.png">
 
+Then click on "Make Sales Return", it will open a new Delivery Note with "Is Return" checked, items and taxes with negative amount.
 
-  
+<img class="screenshot" alt="Return Against Delivery Note" src="/assets/manual_erpnext_com/img/stock/sales-return-against-delivery-note.png">
 
-![Sales Return](/assets/manual_erpnext_com/old_images/erpnext/sales-return-1.png)
+You can also create the return entry against original Sales Invoice, to return stock along with credit note, check "Update Stock" option in Return Sales Invoice.
 
-#### Step 2: Enter the Delivery Note No, or Sales Invoice No.
-This will help in linking the document to either the Delivery  Note or to the Sales Invoice 
+<img class="screenshot" alt="Return Against Sales Invoice" src="/assets/manual_erpnext_com/img/stock/sales-return-against-sales-invoice.png">
 
-#### Step 3: Enter Item Details
+On submission of Return Delivery Note / Sales Invoice, system will increase stock balance in the mentioned warehouse. To maintain correct stock valuation, stock balance will go up according to the original purchase rate of the returned items.
 
-![Sales Return](/assets/manual_erpnext_com/old_images/erpnext/sales-return-2.png)
+<img class="screenshot" alt="Return Stock Ledger" src="/assets/manual_erpnext_com/img/stock/sales-return-stock-ledger.png">
 
-  
+In case of Return Sales Invoice, Customer account will be credited and associated income and tax account will be debited.
 
-#### Step 4: Mention Contact Information of the Customer.
+If Perpetual Inventory enabled, system will also post accounting entry against warehouse account to sync warehouse account balance with stock balance as per Stock Ledger.
 
-![Sales Return](/assets/manual_erpnext_com/old_images/erpnext/sales-return-3.png)
-
-  
-
-  * For Sales Return click on Stock Entry
-  * Select Sales Return under Purpose
-  * Mention the Delivery Note number or the Sales Invoice number.
-  * Mention Contact Information of the Customer.
-  * Save the file and Submit the Stock Entry.
-
-#### Credit Note
-
-Once the Stock Entry is submitted, you can click on Make Credit Note button
-and a new Journal Entry will be created pre-filled with the customer's
-account and Items' income account.
-
-![Sales Return](/assets/manual_erpnext_com/old_images/erpnext/sales-return-4.png)
-
-{next}
+<img class="screenshot" alt="Return Stock Ledger" src="/assets/manual_erpnext_com/img/stock/sales-return-general-ledger.png">
