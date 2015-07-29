@@ -59,7 +59,7 @@ For other field types, like Data, Date, Currency etc., Opton field will be left 
 
 ####Set More Properties
 
-You can set propeties as:
+You can set properties as:
 
 1. Mandatory: Should this field be mandatory or non-mandatory.
 1. Print Hide: Should this field be visible in the print format or no.

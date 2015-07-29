@@ -1,4 +1,5 @@
 custom-field
+custom-doctype
 custom-scripts
 customize-form
 hiding-modules-and-features
