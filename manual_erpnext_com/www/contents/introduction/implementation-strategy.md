@@ -27,6 +27,6 @@ Once you are familiar with ERPNext, start entering your live data!
   * Import Customers, Suppliers, Items, Contacts and Addresses using Data Import Tool.
   * Import opening stock using Stock Reconciliation Tool.
   * Create opening accounting entries via Journal Entry and create outstanding Sales Invoices and Purchase Invoices.
-  * If you need help, [you can buy support](https://erpnext.com/pricing) or [ask in the user forum](https://discuss.frappe.io).
+  * If you need help, [you can buy support](https://erpnext.com/pricing) or [ask in the user forum](https://discuss.erpnext.com).
 
 {next}
