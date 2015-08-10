@@ -21,6 +21,23 @@ In the Stock Entry you have to update the Items table with all your
 transactions. For each row, you must enter a “Source Warehouse” or a “Target
 Warehouse” or both (if you are recording a movement).
 
+**Additional Costs:**
+
+If the stock entry is an incoming entry i.e any item is receiving at a target warehouse, you can add related additional costs (like Shipping Charges, Customs Duty, Operating Costs etc) assotiated with the process. The additional costs will be considered to calculate valuation rate of the items.
+
+To add additional costs, enter the description and amount of the cost in the Additional Costs table.
+
+<img class="screenshot" alt="Stock Entry Additional Costs" src="/assets/manual_erpnext_com/img/stock/additional-costs-table.png">
+
+The added additional costs will be distributed among the receiving items (where the target warehouse mentioned) proportionately based on Basic Amount of the items. And the distributed additional cost will be added to the basic rate of the item, to calculate valuation rate.
+
+<img class="screenshot" alt="Stock Entry Item Valuation Rate" src="/assets/manual_erpnext_com/img/stock/stock-entry-item-valuation-rate.png">
+
+If perpetual inventory system is enabled, additional costs will be booked in "Expense Included In Valuation" account.
+
+<img class="screenshot" alt="Additional Costs General Ledger" src="/assets/manual_erpnext_com/img/stock/additional-costs-general-ledger.png">
+
+
 > **Note:** To update Stock from a spreadsheet, see Stock Reconciliation.
 
 {next}
