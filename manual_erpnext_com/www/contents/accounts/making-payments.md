@@ -27,6 +27,10 @@ For payments to Suppliers,
   * Debit: Supplier
   * Credit: Bank or Cash Account
 
+### Example Payment Journal Entry
+
+<img class="screenshot" alt="Manking Payment" src="/assets/manual_erpnext_com/img/accounts/new-bank-entry.png">
+
 * * *
 
 ### Reconciling Cheque Payments
