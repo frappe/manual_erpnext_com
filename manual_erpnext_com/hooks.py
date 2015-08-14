@@ -44,8 +44,9 @@ website_clear_cache = "manual_erpnext_com.utils.clear_contents"
 # app_include_js = "/assets/manual_erpnext_com/js/manual_erpnext_com.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/manual_erpnext_com/css/manual_erpnext_com.css"
-# web_include_js = "/assets/manual_erpnext_com/js/manual_erpnext_com.js"
+web_include_css = "/assets/frappe_theme/css/lightbox.css"
+web_include_js = ["/assets/frappe_theme/js/lightbox.min.js",
+	"/assets/manual_erpnext_com/js/setup_lightbox.js"]
 
 # Home Pages
 # ----------
