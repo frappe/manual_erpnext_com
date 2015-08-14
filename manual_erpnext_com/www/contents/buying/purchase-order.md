@@ -30,7 +30,7 @@ shipping or insurance charge, you can add it here. It will help you to
 accurately track your costs. Also, if some of these charges add to the value
 of the product you will have to mention them in the Taxes table. You can also
 use templates for your taxes. For more information on setting up your taxes
-see the Purchase Taxes and Charges Master.
+see the Purchase Taxes and Charges Template.
 
 ### Value Added Taxes (VAT)
 

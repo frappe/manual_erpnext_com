@@ -19,7 +19,7 @@ For example, if few items has VAT 5 applied on them, other has Service Tax appli
 
 ![item wise tax master](/assets/manual_erpnext_com/old_images/erpnext/item-wise-tax-master.png)
 
-####Step 3: Set Tax Rate as Zero in Taxes and Charges Master
+####Step 3: Set Tax Rate as Zero in Taxes and Charges Template
 
 In the Taxes and Other Charges master, tax rate will be updated as ZERO. It means, tax rate applicable on items will be pulled from the respective Item master. While for other items, 0% tax will be applied, means no other taxes will be applied on that item.
 

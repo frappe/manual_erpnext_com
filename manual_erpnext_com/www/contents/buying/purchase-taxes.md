@@ -1,11 +1,11 @@
 For Tax Accounts that you want to use in the tax templates, you must mention
 them as type “Tax” in your Chart of Accounts.
 
-Similar to your Sales Taxes and Charges Master is the Purchase Taxes and
+Similar to your Sales Taxes and Charges Template is the Purchase Taxes and
 Charges Master. This is the tax template that you can use in your Purchase
 Orders and Purchase Invoices.
 
-> Buying > Setup > Purchase Taxes and Charges Master > New Purchase Taxes and Charges
+> Buying > Setup > Purchase Taxes and Charges Template > New Purchase Taxes and Charges
 Master
 
 ![Purchase-Taxes](/assets/manual_erpnext_com/old_images/erpnext/purchase-taxes.png)

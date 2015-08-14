@@ -31,7 +31,7 @@ Item Tax table can be found as a section within the Item Master document.
   * **Exception to the rule**: Item tax settings are required only if a particular Item has a different tax rate than the rate defined in the standard tax Account
   * **Item tax is overwrite-able**: You can overwrite or change the item tax rate by going to the Item master in the Item tax table.
 
-## Sales Taxes and Charges Master
+## Sales Taxes and Charges Template
 
 You must usually collect taxes from your Customer and pay them to the
 government. At times, you may have to pay multiple taxes to multiple
@@ -44,7 +44,7 @@ configured as taxes.
 
 Select template and modify as per your need.
 
-To create a new sales tax template called Sales Taxes and Charges Master, you
+To create a new sales tax template called Sales Taxes and Charges Template, you
 have to go to:
 
 > Setup > Accounts > Sales Taxes and Charge Master
@@ -78,9 +78,9 @@ In each row, you have to mention:
 
 Once you setup your template, you can select this in your sales transactions.
 
-## Purchase Taxes and Charges Master
+## Purchase Taxes and Charges Template
 
-Similar to your Sales Taxes and Charges Master is the Purchase Taxes and
+Similar to your Sales Taxes and Charges Template is the Purchase Taxes and
 Charges Master.
 
 This is the tax template that you can use in your Purchase Orders and Purchase
@@ -88,7 +88,7 @@ Invoices. If you have value added taxes (VAT), where you pay to the government
 the difference between your incoming and outgoing taxes, you can select the
 same Account that you use for sales taxes.
 
-The columns in this table are similar to the Sales Taxes and Charges Master
+The columns in this table are similar to the Sales Taxes and Charges Template
 with the difference as follows:
 
 Consider Tax or Charge for: In this section you can specify if the tax /

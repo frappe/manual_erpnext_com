@@ -42,10 +42,10 @@ The rates you quote may depend on two things.
 ### Taxes
 
 To add taxes to your Quotation, you can either select a tax template, Sales
-Taxes and Charges Master or add the taxes on your own. To understand taxes in
+Taxes and Charges Template or add the taxes on your own. To understand taxes in
 detail visit [Taxes](/contents/setting-up/setting-up-taxes)
 
-You can add taxes in the same manner as the Sales Taxes and Charges Master.
+You can add taxes in the same manner as the Sales Taxes and Charges Template.
 
 ### Terms and Conditions
 
