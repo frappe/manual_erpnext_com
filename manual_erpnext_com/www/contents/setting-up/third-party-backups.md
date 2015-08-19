@@ -42,11 +42,12 @@ Installing Pre-Requisites
 
 #### Create an App in Dropbox
 
-First create your Dropbox account.After successful creation of account you
-will receive `app_key`, `app_secret` and `access_type`. Now open `conf.py` and
-set `app_key` as `dropbox_access_key` and `app_secret` as `dropbox_secret_key`
+First create your Dropbox account and create a new app (https://www.dropbox.com/developers/apps).
+After successful creation of account you will receive `app_key`, `app_secret` and `access_type`. Now edit `site_config.json` of your site (/frappe-bench/sites/your-site/) and add the following lines:
+- `"dropbox_access_key": "app_key",` and 
+- `"dropbox_secret_key": "app_secret"`
 
-  
+Then you can go to the "Integrations" module and Allow Dropbox Access.
 
 > Note: Please ensure Allow Pop-ups are enabled in your browser.
 
