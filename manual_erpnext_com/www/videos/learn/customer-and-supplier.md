@@ -4,4 +4,4 @@
 
 **Duration: 3:21**
 
-This video demonstrate creating Customer and Suppliers in ERPNext. It also covers setting up masters required for creating Customer and Supplier like Customer Group, Territory and Supplier Type respectively.
+This video demonstrate creating Customer and Suppliers in ERPNext. It also covers setting up masters required for creating Customer and Supplier like Customer Group, Territory and Supplier Type.

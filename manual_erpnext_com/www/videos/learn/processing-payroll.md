@@ -4,4 +4,4 @@
 
 **Duration: 4:00**
 
-This video walks you through processing payroll for Employees. You can maintain Salary Structure for each Employee. Based on this, you can create Salary Slip individually, or in bulk for all the Employees.
+This video walks you through processing payroll for Employees. You can maintain Salary Structure for each Employee. Based on it, you can create Salary Slips individually, or in bulk for all the Employees.

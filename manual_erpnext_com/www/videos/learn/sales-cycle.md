@@ -4,4 +4,6 @@
 
 **Duration: 4:28**
 
-This video walks you through sales cycle in ERPNext. On receipt of confirmation of order from Customer, you will create Sales Order directly, or by fetching data from Quotation. When sales items is shipped to customer, Delivery Note is created against Sales Order. You can create Sales Invoice from Sales Order or Delivery Note. On receipt of payment from customer, Journal Entry will be created against Sales Invoice.
+This video walks you through sales cycle in ERPNext. On receipt of confirmation of order from Customer, Sales Order will be directly. When sales items is shipped to customer, Delivery Note is created against Sales Order. You can create Sales Invoice from Sales Order or Delivery Note.
+
+From Sales Order, you can track complete order like %delivered, %billed and payment status of Sales Invoice.

@@ -4,4 +4,4 @@
 
 **Duration: 3:00**
 
-This video walks you through setting up tax accounts in the Chart of Account. Based on the taxation rules, you can create multiple sales and purchase tax templates in ERPNext. Having tax templates in places will make your transactions entries very efficient.
+This video walks you through setting up tax accounts in the Chart of Account. Based on the taxation rules, you can create multiple sales and purchase tax templates in ERPNext.

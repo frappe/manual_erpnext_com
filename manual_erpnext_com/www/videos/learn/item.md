@@ -4,5 +4,4 @@
 
 **Duration: 3:17**
 
-This tutorial covers creating stock and service item in ERPNext. It also demonstrates how to
-maintain standard selling and buying rate of an item.
+This tutorial walks you through managing stock and service item in ERPNext. For each item, you can track its standard selling and buying price using Price List.

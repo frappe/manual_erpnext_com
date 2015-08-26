@@ -4,4 +4,4 @@
 
 **Duration: 2:25**
 
-This video walks you through creating Material Request. To request for quotation, you can forward Material Request to your Suppliers. On receipt of quotation from supplier, Material Request's data will be fetched into Supplier Quotation. After evaluating multiple quotations received from supplier, favorable one's data is fetched into Purchase Order.
+This video walks you through creating Material Request. To request quotation from Supplier, you can forward Material Request to them. On receipt of quotation from supplier, Material Request's data will be fetched into Supplier Quotation. After evaluating multiple supplier quotations, favorable quotation's is converted into Purchase Order.

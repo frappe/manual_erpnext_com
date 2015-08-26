@@ -5,5 +5,3 @@
 **Duration: 3:46**
 
 Stock Entry is a stock transaction, used for multiple purposes like inter-warehouse Material Transfer, Material Receipt for updating balance, Material Issue etc.
-
-This video tutorial walks you through on how to enter values in the Stock Entry based on Purpose selected.

@@ -6,4 +6,4 @@
 
 Batch inventory allows you to group multiple units of an item, and assign them a unique value/number/tag called Batch No.
 
-This video walks you through creating new Batch, and using it in the stock transactions. Each batch can have certain expiry. In the Stock module, you will find report to track batch-wise inventory of an item.
+This video walks you through creating new Batch, and using it in stock transactions. Each batch can have certain expiry. In the stock module, you can check item's batchwise stock level.

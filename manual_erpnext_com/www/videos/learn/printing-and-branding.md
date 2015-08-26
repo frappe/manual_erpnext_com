@@ -6,4 +6,4 @@
 
 This video walks you through setting up of masters like your companies Letterhead and Logo.
 This tutorial also covers using tools to customize standard print formats, creating new print
-format, and setting up print headings as per your companies requirement.
+format, and setting up print headings (Quotation to Proposal) as per your requirement.

@@ -6,4 +6,4 @@
 
 Production Planning Tool helps you plan production and purchase of Items for a period.
 
-This video walks you through production planning for items for Sales Order item. From Material Planning Tool, you can check required quantity of materials for manufacturing, and their actual stock. You can create Material Request for the raw-material items for which sufficient stock is not available. From Production Planning Tool, you can also create Production Order for the finished items.
+This video walks you through production planning for Sales Order item. Material Planning allows you to check required quantity of raw materials for manufacturing. You can create Material Request for the raw-material items for which sufficient stock is not available. From Production Planning Tool, you can also create Production Order for the finished items.

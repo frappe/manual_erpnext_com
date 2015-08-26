@@ -4,4 +4,4 @@
 
 **Duration: 1:59**
 
-This video walks you through adding Employee in ERPNext. Apart from personal and professional history, Employee masters also capture details of employee current work in an organization, branch, designation related details, whom does he/she reporting to and lot more.
+This video walks you through adding Employee in ERPNext.

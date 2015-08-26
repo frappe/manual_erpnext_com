@@ -4,4 +4,4 @@
 
 **Duration: 3:46**
 
-This video walks you through step to update opening account balances in ERPNext. Before updating opening account balance in ERPNext, you should close your financial statements in the previous system. Closing balance of accounts in the legacy system should be updated as opening balance in ERPNext.
+This video walks you through step to update opening account balances in ERPNext. Before updating opening balance for accounts, you should close your financial statements in the previous system. Closing balance of your legacy system should be updated as opening balance in ERPNext.

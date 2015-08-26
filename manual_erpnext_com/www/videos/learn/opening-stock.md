@@ -4,6 +4,6 @@
 
 **Duration: 2:06**
 
-This tutorial demonstrates updating opening balance of an stock item in ERPNext. Following same steps, you can also reconcile stock of an item with respect to physical stock in a warehouse.
+This tutorial demonstrates updating opening stock balance of an item. Following same steps, you can also reconcile stock of an item with respect to physical stock in a warehouse.
 
-If you maintain serialized inventory, [click here]() for the tutorial on updating it's opening stock in ERPNext.
+If you maintain serialized inventory, [click here](https://erpnext.com/manual/videos/learn/serialized-inventory) for the tutorial on updating it's opening stock in ERPNext.

@@ -4,6 +4,6 @@
 
 **Duration: 2:31**
 
-Product Bundle stands for Sales Bill of Material. It's a master where you can list item which are bundled together and sold as one item.
+Product Bundle (aka Sales Bill of Material) is a master where you can list items which are bundled together and sold as one item.
 
 This video walks you through setting up items, and creating Product Bundle master using them.

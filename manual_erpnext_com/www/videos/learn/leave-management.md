@@ -4,4 +4,4 @@
 
 **Duration: 2:49**
 
-This tutorial walks you through leave processing in ERPNext. Firstly yearly leaves are allocated to Employees for various leave types. Employees apply for leave, which is reviewed and approved or rejected by Leave Approver. On approval/submission of Leave Application, leave allocated to Employee is reduced.
+This tutorial walks you through leave processing in ERPNext. Firstly, various leaves are allocated to Employees for a year. As and when needed, Employees apply for leave. Their application is reviewed and approved or rejected by Leave Approver. On approval/submission of Leave Application, leave allocated to Employee is reduced.

@@ -6,4 +6,4 @@
 
 This is the tutorial on managing Projects and Task in ERPNext.
 
-Project can be divided into multiple assignable Task. Based on your Tasks created for a Project, you can check its Gantt Chart view. To track actual time spent, each user can create Time Log against Task.
+Project can be divided into multiple assignable Task. Based on Tasks of a Project, you can check its Gantt Chart view. To track actual time spent on Project or Task, user can create Time Logs.
