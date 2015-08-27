@@ -22,7 +22,7 @@ your Chart of Accounts.
 Financial statement of your company is easily viewable in ERPNext. An Example
 of a financial statement is given below:
 
-![Financial Analytics Balance Sheet](/assets/manual_erpnext_com/old_images/erpnext/financial-analytic-bs.png)
+<img class="screenshot" alt="Financial Analytics Balance Sheet" src="/assets/manual_erpnext_com/img/accounts/financial-analytics-bl.png">
 
 To edit your Chart of Accounts in ERPNext go to:
 
@@ -75,7 +75,7 @@ beginning and end of your Fiscal Year, they become zero.
 In ERPNext it is easy to create a Profit and Loss analysis chart. An example
 of a Profit and Loss analysis chart is given below:
 
-![Financial Analytics Profit and Loss](/assets/manual_erpnext_com/old_images/erpnext/financial-analytic-pl.png)
+<img class="screenshot" alt="Financial Analytics Profit and Loss Statement" src="/assets/manual_erpnext_com/img/accounts/financial-analytics-pl.png">
 
 (On the first day of the year you have not made any profit or loss, but you
 still have assets, hence balance sheet accounts never become zero at the
