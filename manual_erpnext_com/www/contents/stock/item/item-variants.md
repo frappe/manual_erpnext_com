@@ -20,3 +20,5 @@ To create 'Item Variants' against a 'Template' select 'Make Variants'
 <img class="screenshot" alt="Make Variants" src="/assets/manual_erpnext_com/img/stock/make-variant.png">
 
 <img class="screenshot" alt="Make Variants" src="/assets/manual_erpnext_com/img/stock/make-variant-1.png">
+
+To learn more about setting Attributes Master check [Item Attributes](/contents/stock/setup/item-attribute)
