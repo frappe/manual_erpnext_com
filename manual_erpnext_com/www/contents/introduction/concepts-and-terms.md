@@ -105,7 +105,7 @@ them by product line or business group (e.g., online sales, retail sales, etc.).
 
 A document that contains General Ledger (GL) entries and the sum of Debits and
 Credits of those entries is the same. In ERPNext you can update Payments,
-Returns etc using Journal Entrys.
+Returns, etc., using Journal Entrys.
 
 > Accounts > Journal Entry
 
@@ -124,7 +124,7 @@ A bill sent by a Supplier for delivery of Items (goods or services).
 #### Currency
 
 ERPNext allows you to book transactions in multiple currencies. There is only
-one currency for your book of accounts though. While posting your Invoices,
+one currency for your book of accounts though. While posting your Invoices with
 payments in different currencies, the amount is converted to the default
 currency by the specified conversion rate.
 
@@ -290,13 +290,13 @@ A record of an approved or rejected request for leave.
 
 #### Leave Type
 
-A type of leave (for example, Sick Leave, Maternity Leave etc.)
+A type of leave (e.g., Sick Leave, Maternity Leave, etc.).
 
 > Human Resource > Leave and Attendance > Leave Type
 
 #### Process Payroll
 
-A tool that will help creation of multiple Salary Slips for Employees.
+A tool that helps in creation of multiple Salary Slips for Employees.
 
 > Human Resource > Salary and Payroll > Process Payroll
 
@@ -308,8 +308,8 @@ A record of the monthly salary given to an Employee.
 
 #### Salary Structure
 
-A template identifying all the components of an Employees' salary (earnings)
-and tax and other social security deductions.
+A template identifying all the components of an Employees' salary (earnings), 
+tax and other social security deductions.
 
 > Human Resource > Salary and Payroll > Salary Structure
 
@@ -322,7 +322,7 @@ certain parameters.
 
 #### Appraisal Template
 
-A template recording the different parameters of Employee performance and
+A template recording the different parameters of an Employees' performance and
 their weightage for a particular role.
 
 > Human Resources > Employee Setup > Appraisal Template
@@ -373,7 +373,7 @@ on Open Sales Orders in a given period.
 #### Blog Post
 
 A short article that appears in the “Blog” section of the website generated
-from the ERPNext website module. Blog is a short from of “Web Log”.
+from the ERPNext website module. Blog is a short form of “Web Log”.
 
 > Website > Blog Post
 
@@ -416,7 +416,7 @@ Text of your terms of contract.
 
 #### Unit of Measure (UOM)
 
-How quantity is measured for an Item. For example (Kg, No, Pair, Packet) etc.
+How quantity is measured for an Item. E.g., Kg, No., Pair, Packet, etc.
 
 > Stock > Setup > UOM
 
