@@ -36,7 +36,7 @@ The Actual Start and End Time along with the costing shall then be updated based
 
 ### Managing expenses
 
-You can book [Expense Claim](/contents/human-resource-management/expense-claim) against a project task.
+You can book [Expense Claim](/contents/human-resources/expense-claim) against a project task.
 The system shall update the total amount from expense claims in the project costing section.
 
 * To view Expense Claims made against a Project click on 'Expense Claims'
@@ -53,7 +53,7 @@ The system shall update the total amount from expense claims in the project cost
 
 ### Cost Center
 
-You can make a [Cost Center](/contents/accounts/cost-centers-and-budgeting) against a Project or use an existing cost center to track all expenses made against that project.
+You can make a [Cost Center](/contents/accounts/setup/cost-center) against a Project or use an existing cost center to track all expenses made against that project.
 
 <img class="screenshot" alt="Project - Cost Center" src="/assets/manual_erpnext_com/img/project/project_cost_center.png">
 
