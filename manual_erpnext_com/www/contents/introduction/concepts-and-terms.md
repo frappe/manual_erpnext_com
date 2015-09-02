@@ -94,10 +94,10 @@ fiscal year.
 #### Cost Center
 
 A Cost Center is like an Account, but the only difference is that its
-structure represents your business more closely than Accounts. For example in
-your Chart of Accounts, you separate your expenses by type (say travel,
-marketing etc). In your Chart of Cost Centers, you can separate them by
-product line or business group (for example online sales, retail sales)
+structure represents your business more closely than Accounts.
+For example, in your Chart of Accounts, you can separate your expenses by its type 
+(i.e., travel, marketing, etc.). In your Chart of Cost Centers, you can separate 
+them by product line or business group (e.g., online sales, retail sales, etc.).
 
 > Accounts > Chart of Cost Centers
 
