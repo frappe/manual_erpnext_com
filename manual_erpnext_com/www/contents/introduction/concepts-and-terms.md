@@ -280,7 +280,7 @@ A classification of Item.
 Record of a person who has been in present or past, in the employment of the
 company.
 
-Human Resources > Employee
+> Human Resources > Employee
 
 #### Leave Application
 
@@ -392,14 +392,14 @@ ERPNext.
 
 A user defined field on a form / table.
 
-Setup > Customize ERPNext > Custom Field
+> Setup > Customize ERPNext > Custom Field
 
 #### Global Defaults
 
 This is the section where you set default values for various parameters of the
 system.
 
-Setup > Data > Global Defaults
+> Setup > Data > Global Defaults
 
 #### Print Heading
 
