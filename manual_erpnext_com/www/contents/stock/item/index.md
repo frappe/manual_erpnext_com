@@ -10,9 +10,12 @@ ERPNext is optimized for itemized management of your sales and purchase. If you 
   * **Default Unit of Measure:** This is the default measuring unit that you will use for your product. It could be in nos, kgs, meters, etc. You can store all the UOM’s that your product will require under Set Up> Master Data > UOM. These can be preselected while filling New Item by using % sign to get a pop up of the UOM list.
   * **Brand:** If you have more than one brand save them under Set Up> Master Data> Brand and pre-select them while filling a New Item.
   * **Variant:** A Item Variant is a different version of a Item.To learn more about managing varaints see [Item Variants](/contents/stock/item/item-variants)
-<img class="screenshot" alt="Item Master" src="/assets/manual_erpnext_com/img/buying/item-1.png">
+  
+### Upload an Image
 
- * To upload an image for your icon that will appear in all transactions, save the partially filled form. Click on attach and upload the Image.
+To upload an image for your icon that will appear in all transactions, save
+the partially filled form. Only after your file is saved  the 'upload' button will
+work above the Image icon. Click on this sign and upload the image.
 
 ### Inventory : Warehouse and Stock Setting
 
