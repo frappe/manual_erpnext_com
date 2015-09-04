@@ -1,6 +1,8 @@
 # ERPNext Videos
 
-### Learn ERPNext
+<h3>
+	<a class="no-decoration" href="/videos/learn">Learn ERPNext</a>
+</h3>
 
 <div class="row">
     <div class="col-sm-4">
@@ -15,7 +17,9 @@
 
 ---
 
-### Conference Vidoes
+<h3>
+	<a class="no-decoration" href="https://conf.erpnext.com/2014/videos">Conference Vidoes</a>
+</h3>
 
 <div class="row">
     <div class="col-sm-4">
@@ -25,6 +29,7 @@
     </div>
     <div class="col-sm-8">
         Watch video presentations from the ERPNext team and users from the 2014 ERPNext Conference.
-        <br><a href="https://conf.erpnext.com">Join us for the 2015 ERPNext Conference on October 9th 2015 in Mumbai</a>
+        <br><br>
+		<a href="https://conf.erpnext.com">Join us at the ERPNext Conference on October 9th 2015 in Mumbai</a>
     </div>
 </div>
