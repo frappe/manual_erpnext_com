@@ -17,8 +17,8 @@ website_route_rules = [
 website_context = {
 	"brand_html": "<img class='navbar-icon' src='/assets/frappe_theme/img/erp-icon.svg' />The ERPNext Manual",
 	"top_bar_items": [
-		{"label": "Contents", "url": "/contents", "right": 1},
-		{"label": "FAQs", "url": "https://kb.erpnext.com", "right": 1, "target": 'target="_blank"'},
+		{"label": "Videos", "url": "/videos", "right": 1},
+		{"label": "Knowledge Base", "url": "https://kb.erpnext.com", "right": 1, "target": 'target="_blank"'},
 	],
 	"hide_login": 1,
 	"include_search": 1,
