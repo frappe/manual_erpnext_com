@@ -3,6 +3,8 @@ employment-type
 branch
 department
 designation
+earning-type
+deduction-type
 leave-allocation
 leave-type
 holiday-list
