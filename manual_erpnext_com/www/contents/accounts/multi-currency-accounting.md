@@ -39,11 +39,14 @@ Similarly, in Purchase Invoice, accounting entries will be made based on Supplie
 
 ### Journal Entry
 
-In Journal Entry, you can make transactions in different currencies. In Accounts table, on selection of foreign currency account, system will fetch Exchange Rate automatically. You can change / modify the Exchange Rate manually.
+In Journal Entry, you can make transactions in different currencies. There is a checkbox "Multi Currency", to enable multi-currency entries. If "Multi Currency" option selected, you will be able to select accounts with different currencies.
 
-<img class="screenshot" alt="Journal Entry Exchange Rate"  	src="/assets/manual_erpnext_com/img/accounts/multi-currency/journal-entry-exchange-rate.png">
+<img class="screenshot" alt="Journal Entry Exchange Rate"  	src="/assets/manual_erpnext_com/img/accounts/multi-currency/journal-entry-multi-currency.png">
 
-In a Journal Entry, you can select accounts with only one alternate currency, apart from accounts in Company Currency. Debit / Credit amount will be entered in Account Currency, system will calculate and show the Debit / Credit amount in Company Currency.
+ 
+In Accounts table, on selection of foreign currency account, system will show Currency section and fetch Account Currency and Exchange Rate automatically. You can change / modify the Exchange Rate later manually.
+
+In a single Journal Entry, you can select accounts with only one alternate currency, apart from accounts in Company Currency. Debit / Credit amount should be entered in Account Currency, system will calculate and show the Debit / Credit amount in Company Currency automatically.
 
 <img class="screenshot" alt="Journal Entry in multi currency"  	src="/assets/manual_erpnext_com/img/accounts/multi-currency/journal-entry-row.png">
 
