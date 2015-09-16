@@ -1,3 +1,5 @@
+<!-- no-jinja -->
+
 Print Formats are the layouts that are generated when you want to Print or
 Email a transaction like a Sales Invoice. There are two types of Print
 Formats,
@@ -47,7 +49,7 @@ To edit / update your print and PDF settings, go to:
 
 #### Example
 
-	<h3>{{ doc.select_print_heading or "Invoice" }}</h3>
+{% set example = '''<h3>{{ doc.select_print_heading or "Invoice" }}</h3>
 	<div class="row">
 		<div class="col-md-3 text-right">Customer Name</div>
 		<div class="col-md-9">{{ doc.customer_name }}</div>
@@ -66,7 +68,7 @@ To edit / update your print and PDF settings, go to:
 				<th class="text-right">Rate</th>
 				<th class="text-right">Amount</th>
 			</tr>
-			{%- for row in doc.entries -%}
+			{%- for row in doc.items -%}
 			<tr>
 				<td style="width: 3%;">{{ row.idx }}</td>
 				<td style="width: 20%;">
@@ -85,7 +87,9 @@ To edit / update your print and PDF settings, go to:
 			</tr>
 			{%- endfor -%}
 		</tbody>
-	</table>
+	</table>''' %}
+
+    {{ example|e }}
 
 #### Notes
 
