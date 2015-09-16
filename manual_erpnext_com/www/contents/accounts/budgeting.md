@@ -18,9 +18,11 @@ Select a Cost Center and click on Open.
 
 ![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-1.png)  
 
+<img alt="Accounts Receivable" class="screenshot" src="/assets/manual_erpnext_com/img/accounts/accounts-receivable.png">
+
 #### Step 2: Enter Monthly Distribution.
 
-![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-2-1.png) 
+![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-2-1.png)
 
 
 If you leave the** **distribution ID blank, ERPNext will calculate on a yearly
@@ -28,11 +30,11 @@ basis or in equal proportion for every month.
 
 #### Step 3:Add New Row and select budget account.  
 
-  
+
 
 ![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-3.png)  
 
-  
+
 
 ### To Create New Distribution ID
 
@@ -42,12 +44,12 @@ ERPNext allows you to take a few budget actions. It signifies whether to stop
 ![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-4.png)
 
 
- 
+
 These can be defined from the Company record.
 
 ![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-4-1.png)  
 
-  
+
 
 Even if you choose to “ignore” budget overruns, you will get a wealth of
 information from the “Budget vs Actual” variance report. This report shows
