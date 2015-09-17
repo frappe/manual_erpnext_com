@@ -5,3 +5,4 @@ make-read-only-after-saving
 restrict-cancel-rights
 restrict-purpose-of-stock-entry
 restrict-user-based-on-child-record
+custom-button
