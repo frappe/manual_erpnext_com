@@ -5,4 +5,6 @@ make-read-only-after-saving
 restrict-cancel-rights
 restrict-purpose-of-stock-entry
 restrict-user-based-on-child-record
+sales-invoice-id-based-on-sales-order-id
+update-date-field-based-on-value-in-other-date-field
 custom-button

@@ -2,7 +2,8 @@
 
 Enter Company Details like Name, Abbreviation and Financial Year Details.
 
-![Profile Details](/assets/manual_erpnext_com/img/setup-wizard/step-4.png)
+<img alt="Company Details" class="screenshot"
+src="/assets/manual_erpnext_com/img/setup-wizard/step-4.png">
 
 ---
 

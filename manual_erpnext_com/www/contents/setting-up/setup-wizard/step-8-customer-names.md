@@ -2,7 +2,9 @@
 
 Enter your Customer names and the contact person from that organisation.
 
-![Customer Names](/assets/manual_erpnext_com/img/setup-wizard/step-7.png)
+
+<img alt="Customers" class="screenshot"
+src="/assets/manual_erpnext_com/img/setup-wizard/step-8.png">
 
 ---
 

@@ -2,7 +2,8 @@
 
 In this final step, please enter the names of the Items you buy or sell.
 
-![Item Names](/assets/manual_erpnext_com/img/setup-wizard/step-9.png)
+<img alt="Add Items" class="screenshot"
+src="/assets/manual_erpnext_com/img/setup-wizard/step-10.png">
 
 Please set the group of the item (Product / Service) and unit of measure. Don't worry you will be able to edit all of this later.
 

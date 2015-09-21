@@ -2,7 +2,7 @@
 
 Select your language. ERPNext is available in more than 20 languages.
 
-![Select Language](/assets/manual_erpnext_com/img/setup-wizard/step-1.png)
+<img alt="Language" class="screenshot" src="/assets/manual_erpnext_com/img/setup-wizard/step-1.png">
 
 ---
 

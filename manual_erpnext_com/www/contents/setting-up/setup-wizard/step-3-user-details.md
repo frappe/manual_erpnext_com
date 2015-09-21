@@ -2,7 +2,8 @@
 
 Enter Users Profile Details like Name, User ID and preferred password.
 
-![Company Details](/assets/manual_erpnext_com/img/setup-wizard/step-3.png)
+<img alt="User" class="screenshot"
+src="/assets/manual_erpnext_com/img/setup-wizard/step-3.png">
 
 ---
 

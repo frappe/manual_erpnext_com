@@ -2,7 +2,8 @@
 
 Attach Company Letterhead and Company Logo.
 
-![Company Letterhead](/assets/manual_erpnext_com/img/setup-wizard/step-5.png)
+<img alt="Company Logo and Letterhead" class="screenshot"
+src="/assets/manual_erpnext_com/img/setup-wizard/step-5.png">
 
 ---
 

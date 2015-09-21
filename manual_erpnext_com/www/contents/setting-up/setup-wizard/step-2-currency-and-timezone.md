@@ -2,7 +2,7 @@
 
 Set your country name, currency and timezone.
 
-![Currency and Time Zone](/assets/manual_erpnext_com/img/setup-wizard/step-2.png)
+<img alt="Currency" class="screenshot" src="/assets/manual_erpnext_com/img/setup-wizard/step-2.png">
 
 ---
 
