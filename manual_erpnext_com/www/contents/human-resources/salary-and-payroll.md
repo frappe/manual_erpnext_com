@@ -40,7 +40,7 @@ __Employee Stock Options:__ ESOPS are Free/discounted shares given by the compan
 
 To create a new Salary Structure go to:
 
-> Human Resources > Salary Structure > New Salary Structure
+> Human Resources > Setup > Salary Structure > New Salary Structure
 
 #### Figure 1:Salary Structure
 

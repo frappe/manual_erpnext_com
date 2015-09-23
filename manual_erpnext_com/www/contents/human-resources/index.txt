@@ -8,4 +8,5 @@ job-applicant
 job-opening
 offer-letter
 tools
+human-resources-reports
 setup
