@@ -14,40 +14,37 @@ define a budget distribution that the budget will follow.
 In order to allocate budget, go to Accounts > Setup > Chart of Cost Centers and click on Chart of Cost Center.
 Select a Cost Center and click on Open.
 
-#### Step 1: Click on Edit.
+#### Step 1: Click on Open.
 
-![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-1.png)  
-
-<img alt="Accounts Receivable" class="screenshot" src="/assets/manual_erpnext_com/img/accounts/accounts-receivable.png">
+![](/assets/manual_erpnext_com/img/accounts/budgeting-1.png)  
 
 #### Step 2: Enter Monthly Distribution.
 
-![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-2-1.png)
+![](/assets/manual_erpnext_com/img/accounts/budgeting-2-1.png)
 
 
-If you leave the** **distribution ID blank, ERPNext will calculate on a yearly
+If you leave the *Distribution Id* blank, ERPNext will calculate on a yearly
 basis or in equal proportion for every month.
 
 #### Step 3:Add New Row and select budget account.  
 
 
 
-![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-3.png)  
+![](/assets/manual_erpnext_com/img/accounts/budgeting-3.png)  
 
 
 
 ### To Create New Distribution ID
 
-ERPNext allows you to take a few budget actions. It signifies whether to stop
-, warn or Ignore  if you exceed budgets.  
+ERPNext allows you to take a few budget actions. It signifies whether to stop, warn or Ignore if you exceed budgets. Total percent allocation should be 100%.
 
-![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-4.png)
+![](/assets/manual_erpnext_com/img/accounts/budgeting-4.png)
 
 
 
 These can be defined from the Company record.
 
-![](/assets/manual_erpnext_com/old_images/erpnext/budgeting-4-1.png)  
+![](/assets/manual_erpnext_com/img/accounts/budgeting-4-1.png)  
 
 
 
