@@ -2,7 +2,8 @@
 
 Enter any three types of taxes which you regularly pay. This wizard will create a tax master which will calculate the taxes as per the tax-type.
 
-![Taxes](/assets/manual_erpnext_com/img/setup-wizard/step-6.png)
+<img alt="Tax Details" class="screenshot"
+src="/assets/manual_erpnext_com/img/setup-wizard/step-7.png">
 
 Just set the tax name and the standard percentage levied.
 

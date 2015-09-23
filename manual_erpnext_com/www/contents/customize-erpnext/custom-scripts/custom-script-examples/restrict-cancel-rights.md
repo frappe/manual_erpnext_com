@@ -1,7 +1,7 @@
 Add a handler to `custom_before_cancel` event:
 
-    
-    
+
+
     cur_frm.cscript.custom_before_cancel = function(doc) {
         if (user_roles.indexOf("Accounts User")!=-1 && user_roles.indexOf("Accounts Manager")==-1
                 && user_roles.indexOf("System Manager")==-1) {
@@ -12,6 +12,6 @@ Add a handler to `custom_before_cancel` event:
             }
         }
     }
-    
+
 
 {next}
