@@ -18,6 +18,6 @@ Customer Name: American Power Mills
 
 Contact Name:  Shiv Agarwal
 
-To understand Customer in detail visit [Customer Details](/contents/selling/customer-master)
+To understand Customer in detail visit [Customer Details](/contents/CRM/customer)
 
 {next}
