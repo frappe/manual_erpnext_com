@@ -44,11 +44,11 @@ Before checking Sales Order form, you should clear cache and refresh browser tab
 
 For Customize Form, you can also allow attachments, set max number of attachments and set the default Print Format.
 
->Note: Though we want you to do everything you can to customize your ERP based on your business needs, we recommend that you do not make “wild” changes tothe forms. This is because, these changes may affect certain operations and may messup your forms. Make small changes and see its effect before doing some more.
+>Note: Though we want you to do everything you can to customize your ERP based on your business needs, we recommend that you do not make “wild” changes to the forms. This is because, these changes may affect certain operations and may mess up your forms. Make small changes and see its effect before doing some more.
 
 Following are the properties which you can customize for a specific field from Customize Form.
 <style>
-    td { 
+    td {
     padding:5px 10px 5px 5px;
     };
     img {
