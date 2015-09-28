@@ -24,7 +24,7 @@ ERPnext source repository is hosted at GitHub and can be found here
 
 There are many Open Source ERPs you can consider. Popular ones are:
 
-  1. OpenERP
+  1. Odoo
   2. OpenBravo
   3. Apache OfBiz
   4. xTuple
