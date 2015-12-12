@@ -5,7 +5,7 @@ Taxes selected in the Tax and Other Charges in transactions are applied on all t
 
 Item master has tax table where you can list taxes which will be applied on it.
 
-![Item wise Tax](/assets/manual_erpnext_com/old_images/erpnext/item-wise-tax.png)
+![Item wise Tax](/assets/manual_erpnext_com/img/accounts/item-wise-tax.png)
 
 Tax rate mentioned in the item master gets preference over tax rate entered in the transactions. 
 
@@ -17,7 +17,7 @@ In Taxes and Other Charges master, you should select all the applicable taxes wh
 
 For example, if few items has VAT 5 applied on them, other has Service Tax applied, and some other has Excise Duty applicable, then you tax master should have all these taxes selected.
 
-![item wise tax master](/assets/manual_erpnext_com/old_images/erpnext/item-wise-tax-master.png)
+![item wise tax master](/assets/manual_erpnext_com/img/accounts/item-wise-tax-master.png)
 
 ####Step 3: Set Tax Rate as Zero in Taxes and Charges Template
 

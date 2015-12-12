@@ -9,6 +9,6 @@ based on your domain).
 Customer Group”. But all this effort, will pay off when you start getting
 reports. An example of a sample report is given below:
 
-![Sales Analytics](/assets/manual_erpnext_com/old_images/erpnext/sales-analytics-customer.png)
+![Sales Analytics](/assets/manual_erpnext_com/img/crm/sales-analytics-customer.png)
 
 {next}
